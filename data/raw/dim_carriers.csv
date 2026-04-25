@@ -1,0 +1,16 @@
+carrier_id,carrier_name,carrier_type,service_level,cost_per_kg,cost_per_km,avg_delivery_days,coverage_region,is_active
+C001,Correios PAC,Correios,Standard,5.50,0.45,5,Nacional,true
+C002,Correios SEDEX,Correios,Expresso,9.80,0.65,2,Nacional,true
+C003,JadLog,Transportadora,Standard,6.20,0.50,4,Nacional,true
+C004,Total Express,Transportadora,Expresso,7.50,0.60,3,Nacional,true
+C005,Loggi,Last Mile,Same Day,8.90,0.70,1,Regional Sudeste,true
+C006,Rappi Entregas,Last Mile,Same Day,10.50,0.80,1,Regional Sudeste,true
+C007,Azul Cargo,Transportadora,Expresso,11.00,0.75,2,Nacional,true
+C008,Brasspress,Transportadora,Standard,6.80,0.55,4,Nacional,true
+C009,Sequoia Logística,Transportadora,Standard,6.40,0.52,4,Nacional,true
+C010,Mercado Envios,Fullfillment,Expresso,7.20,0.58,2,Nacional,true
+C011,Amazon Logistics,Fullfillment,Same Day,9.50,0.72,1,Regional Sudeste,true
+C012,Transportadora SulLog,Transportadora,Standard,5.90,0.48,3,Regional Sul,true
+C013,Expresso Nordeste,Transportadora,Standard,6.30,0.53,5,Regional Nordeste,true
+C014,Logística Centro-Oeste,Transportadora,Standard,6.10,0.51,4,Regional Centro-Oeste,true
+C015,Flash Courier,Last Mile,Same Day,9.20,0.68,1,Regional Sudeste,true
