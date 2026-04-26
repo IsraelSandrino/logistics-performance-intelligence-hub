@@ -1,16 +1,16 @@
 route_id,origin_hub_id,destination_city,destination_state,distance_km,region,route_type
-R001,HUB01,Curitiba,PR,250,Sul,Regional
-R002,HUB01,Londrina,PR,380,Sul,Regional
-R003,HUB01,Maringá,PR,430,Sul,Regional
-R004,HUB02,São Paulo,SP,420,Sudeste,Interestadual
-R005,HUB02,Campinas,SP,350,Sudeste,Regional
-R006,HUB02,Rio de Janeiro,RJ,430,Sudeste,Interestadual
-R007,HUB03,Florianópolis,SC,300,Sul,Regional
-R008,HUB03,Joinville,SC,250,Sul,Regional
-R009,HUB03,Porto Alegre,RS,520,Sul,Interestadual
-R010,HUB04,Belo Horizonte,MG,600,Sudeste,Interestadual
-R011,HUB04,Vitória,ES,520,Sudeste,Interestadual
-R012,HUB04,Uberlândia,MG,480,Sudeste,Regional
-R013,HUB05,Goiânia,GO,800,Centro-Oeste,Interestadual
-R014,HUB05,Brasília,DF,750,Centro-Oeste,Interestadual
-R015,HUB05,Cuiabá,MT,1200,Centro-Oeste,Longa Distância
+R001,H001,Curitiba,PR,250,Sul,Regional
+R002,H001,Londrina,PR,380,Sul,Regional
+R003,H001,Maringá,PR,430,Sul,Regional
+R004,H002,São Paulo,SP,420,Sudeste,Interestadual
+R005,H002,Campinas,SP,350,Sudeste,Regional
+R006,H002,Rio de Janeiro,RJ,430,Sudeste,Interestadual
+R007,H003,Florianópolis,SC,300,Sul,Regional
+R008,H003,Joinville,SC,250,Sul,Regional
+R009,H003,Porto Alegre,RS,520,Sul,Interestadual
+R010,H004,Belo Horizonte,MG,600,Sudeste,Interestadual
+R011,H004,Vitória,ES,520,Sudeste,Interestadual
+R012,H004,Uberlândia,MG,480,Sudeste,Regional
+R013,H005,Goiânia,GO,800,Centro-Oeste,Interestadual
+R014,H005,Brasília,DF,750,Centro-Oeste,Interestadual
+R015,H005,Cuiabá,MT,1200,Centro-Oeste,Longa Distância
