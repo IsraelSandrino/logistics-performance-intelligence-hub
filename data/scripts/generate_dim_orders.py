@@ -13,14 +13,6 @@ OUTPUT_PATH = RAW_DIR / "dim_orders.csv"
 
 CUSTOMER_PREFIX = "CUS"
 
-ORDER_STATUSES = [
-    "Created",
-    "Paid",
-    "Shipped",
-    "Delivered",
-    "Canceled",
-]
-
 PAYMENT_TYPES = [
     "Credit Card",
     "Debit Card",
@@ -63,7 +55,7 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
 
     for i in range(1, total_rows + 1):
         order_date = start_date + timedelta(days=random.randint(0, 89))
-        promised_delivery_date = order_date + timedelta(days=random.randint(2, 8))
+        promised_delivery_date = order_date + timedelta(days=random.randint(7, 15))
 
         origin_city = random.choice(CITIES)
         destination_city = random.choice([city for city in CITIES if city != origin_city])
@@ -74,7 +66,6 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
                 "customer_id": f"{CUSTOMER_PREFIX}{random.randint(1, 350):04d}",
                 "order_date": order_date.isoformat(),
                 "promised_delivery_date": promised_delivery_date.isoformat(),
-                "order_status": random.choice(ORDER_STATUSES),
                 "payment_type": random.choice(PAYMENT_TYPES),
                 "order_value": round(random.uniform(49.90, 2500.00), 2),
                 "origin_city": origin_city,
