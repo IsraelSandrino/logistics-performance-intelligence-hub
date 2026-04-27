@@ -7,9 +7,9 @@ SELECT
 
     COUNT(*) AS total_deliveries,
 
-    SUM(CASE WHEN is_on_time = TRUE THEN 1 ELSE 0 END) AS on_time_deliveries,
-    SUM(CASE WHEN is_late = TRUE THEN 1 ELSE 0 END) AS late_deliveries,
     SUM(CASE WHEN is_failed = TRUE THEN 1 ELSE 0 END) AS failed_deliveries,
+    SUM(CASE WHEN is_late = TRUE AND is_failed = FALSE THEN 1 ELSE 0 END) AS late_deliveries,
+    SUM(CASE WHEN is_on_time = 1 AND is_failed = FALSE THEN 1 ELSE 0 END) AS on_time_deliveries,
 
     ROUND(
         100.0 * SUM(CASE WHEN is_on_time = TRUE THEN 1 ELSE 0 END) / COUNT(*),
