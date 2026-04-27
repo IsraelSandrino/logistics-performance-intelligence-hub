@@ -11,6 +11,12 @@ RAW_DIR = BASE_DIR / "raw"
 OUTPUT_PATH = RAW_DIR / "fact_deliveries.csv"
 
 
+ORDER_STATUS_MAP = {
+    "Delivered": ["Delivered", "Paid"],
+    "Delayed":   ["Shipped", "Paid"],
+    "Failed":    ["Canceled", "Created"],
+}
+
 FAILED_REASONS = {
     "Customer Unavailable": "Customer Issue",
     "Wrong Address": "Address Issue",
@@ -41,15 +47,16 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
         )
 
     rows: list[dict[str, object]] = []
-    start_date = date(2026, 1, 1)
 
     for i in range(1, total_rows + 1):
         order = random.choice(orders)
         carrier = random.choice(carriers)
         route = random.choice(routes)
 
-        shipped_date = start_date + timedelta(days=random.randint(0, 89))
-        sla_days = random.randint(1, 6)
+        order_date = date.fromisoformat(order["order_date"])
+        ship_lag = random.randint(1, 5)
+        shipped_date = order_date + timedelta(days=ship_lag)
+        sla_days = random.randint(ship_lag + 1, ship_lag + 6)
 
         delay_days = random.choice([0, 0, 0, 0, 1, 2, 3])
         actual_delivery_days = sla_days + delay_days
@@ -88,6 +95,7 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
                 "shipped_date": shipped_date.isoformat(),
                 "delivered_date": delivered_date_value,
                 "delivery_status": delivery_status,
+                "order_status": random.choice(ORDER_STATUS_MAP[delivery_status]),
                 "sla_days": sla_days,
                 "actual_delivery_days": actual_delivery_days if not is_failed else "",
                 "delay_days": delay_days,
