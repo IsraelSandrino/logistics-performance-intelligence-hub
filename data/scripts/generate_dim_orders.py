@@ -3,13 +3,11 @@ import random
 from datetime import date, timedelta
 from pathlib import Path
 
-
 random.seed(42)
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = BASE_DIR / "data" / "raw"
 OUTPUT_PATH = RAW_DIR / "dim_orders.csv"
-
 
 CUSTOMER_PREFIX = "CUS"
 
@@ -48,7 +46,6 @@ CITIES = [
     "Manaus",
 ]
 
-
 def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
     rows: list[dict[str, object]] = []
     start_date = date(2026, 1, 1)
@@ -77,7 +74,6 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
 
     return rows
 
-
 def write_csv(rows: list[dict[str, object]]) -> Path:
     OUTPUT_PATH = Path(__file__).resolve().parents[1] / "raw" / "dim_orders.csv"
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -88,7 +84,6 @@ def write_csv(rows: list[dict[str, object]]) -> Path:
         writer.writerows(rows)
 
     return OUTPUT_PATH
-
 
 if __name__ == "__main__":
     generated_rows = generate_rows()
