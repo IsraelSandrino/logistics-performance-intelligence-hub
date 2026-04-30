@@ -1,1001 +1,1001 @@
-order_id,customer_id,order_date,promised_delivery_date,payment_type,order_value,product_category,product_weight_kg,destination_city,destination_state,marketplace_channel
-O0001,CUS0141,2026-01-15,2026-01-19,Debit Card,596.79,Mercado,11.31,Londrina,PR,Marketplace
-O0002,CUS0217,2026-03-11,2026-03-16,Credit Card,122.91,Mercado,4.06,Goiânia,GO,Marketplace
-O0003,CUS0333,2026-01-04,2026-01-16,Bank Slip,590.0,Esporte,6.1,Campinas,SP,App
-O0004,CUS0143,2026-03-31,2026-04-10,Debit Card,577.44,Moda,1.19,Porto Alegre,RS,App
-O0005,CUS0177,2026-02-18,2026-02-23,Pix,2027.44,Eletrônicos,3.78,Porto Alegre,RS,Marketplace
-O0006,CUS0151,2026-02-18,2026-02-23,Pix,1464.47,Eletrônicos,3.67,Cuiabá,MT,App
-O0007,CUS0120,2026-01-30,2026-02-07,Credit Card,981.25,Mercado,7.35,Belo Horizonte,MG,Website
-O0008,CUS0344,2026-02-17,2026-02-26,Pix,1769.43,Moda,1.09,Campinas,SP,App
-O0009,CUS0126,2026-03-23,2026-03-29,Debit Card,1182.48,Esporte,3.06,Cuiabá,MT,Marketplace
-O0010,CUS0167,2026-03-13,2026-03-20,Credit Card,611.09,Mercado,1.45,Maringá,PR,Website
-O0011,CUS0291,2026-02-04,2026-02-09,Pix,570.86,Beleza,0.55,Campinas,SP,Marketplace
-O0012,CUS0127,2026-01-19,2026-01-27,Pix,1880.16,Beleza,0.49,São Paulo,SP,Marketplace
-O0013,CUS0261,2026-02-16,2026-02-23,Bank Slip,272.64,Beleza,0.14,São Paulo,SP,App
-O0014,CUS0349,2026-03-22,2026-03-28,Bank Slip,1511.16,Moda,0.7,Rio de Janeiro,RJ,Marketplace
-O0015,CUS0006,2026-03-09,2026-03-17,Credit Card,1720.16,Beleza,0.58,Cuiabá,MT,Website
-O0016,CUS0223,2026-02-13,2026-02-18,Debit Card,1161.57,Mercado,14.35,Brasília,DF,Marketplace
-O0017,CUS0055,2026-03-06,2026-03-12,Pix,2112.07,Casa,16.21,Cuiabá,MT,App
-O0018,CUS0272,2026-02-17,2026-02-23,Credit Card,1517.37,Moda,0.84,Cuiabá,MT,App
-O0019,CUS0124,2026-02-09,2026-02-16,Credit Card,259.76,Casa,15.61,Uberlândia,MG,App
-O0020,CUS0244,2026-01-17,2026-01-23,Debit Card,699.32,Esporte,8.79,Maringá,PR,Website
-O0021,CUS0160,2026-03-11,2026-03-18,Bank Slip,2488.12,Moda,1.04,Londrina,PR,Website
-O0022,CUS0116,2026-02-27,2026-03-04,Credit Card,878.24,Esporte,6.09,Campinas,SP,App
-O0023,CUS0324,2026-01-29,2026-02-02,Credit Card,610.83,Esporte,9.1,Belo Horizonte,MG,Website
-O0024,CUS0343,2026-03-07,2026-03-14,Bank Slip,574.8,Eletrônicos,1.1,Brasília,DF,Marketplace
-O0025,CUS0243,2026-03-02,2026-03-09,Bank Slip,516.42,Esporte,1.42,Rio de Janeiro,RJ,Website
-O0026,CUS0028,2026-02-24,2026-03-06,Credit Card,198.41,Casa,22.39,Vitória,ES,App
-O0027,CUS0230,2026-01-25,2026-02-01,Debit Card,1083.55,Moda,0.56,Cuiabá,MT,App
-O0028,CUS0026,2026-02-26,2026-03-10,Credit Card,2424.04,Eletrônicos,4.67,Belo Horizonte,MG,App
-O0029,CUS0110,2026-02-22,2026-03-05,Bank Slip,2260.98,Moda,0.41,Vitória,ES,App
-O0030,CUS0217,2026-02-03,2026-02-14,Bank Slip,429.17,Beleza,0.37,Brasília,DF,App
-O0031,CUS0161,2026-03-11,2026-03-15,Credit Card,172.75,Esporte,5.03,Londrina,PR,Marketplace
-O0032,CUS0096,2026-01-08,2026-01-20,Credit Card,1507.8,Moda,1.08,Belo Horizonte,MG,App
-O0033,CUS0305,2026-01-16,2026-01-23,Credit Card,1567.45,Beleza,0.48,Goiânia,GO,Marketplace
-O0034,CUS0134,2026-03-08,2026-03-17,Debit Card,1690.8,Esporte,3.48,Curitiba,PR,Website
-O0035,CUS0162,2026-01-17,2026-01-25,Credit Card,72.72,Beleza,0.66,Vitória,ES,Marketplace
-O0036,CUS0260,2026-01-10,2026-01-22,Pix,374.43,Eletrônicos,2.07,Campinas,SP,App
-O0037,CUS0225,2026-02-17,2026-02-25,Pix,1548.57,Moda,1.48,São Paulo,SP,Marketplace
-O0038,CUS0340,2026-01-02,2026-01-14,Credit Card,2350.37,Esporte,1.78,Brasília,DF,App
-O0039,CUS0145,2026-03-12,2026-03-18,Debit Card,1808.12,Eletrônicos,1.42,Brasília,DF,Marketplace
-O0040,CUS0027,2026-03-06,2026-03-17,Credit Card,1603.96,Casa,25.22,Brasília,DF,App
-O0041,CUS0135,2026-02-12,2026-02-18,Debit Card,1865.99,Eletrônicos,2.98,Maringá,PR,Website
-O0042,CUS0077,2026-01-02,2026-01-07,Credit Card,2094.74,Esporte,6.03,Belo Horizonte,MG,App
-O0043,CUS0187,2026-01-17,2026-01-21,Credit Card,2252.36,Beleza,0.29,Brasília,DF,App
-O0044,CUS0287,2026-01-14,2026-01-23,Bank Slip,2435.9,Mercado,11.49,Rio de Janeiro,RJ,App
-O0045,CUS0092,2026-01-23,2026-02-02,Pix,1966.83,Moda,0.74,Uberlândia,MG,Marketplace
-O0046,CUS0056,2026-02-01,2026-02-09,Bank Slip,2186.8,Mercado,13.02,São Paulo,SP,App
-O0047,CUS0117,2026-02-28,2026-03-09,Debit Card,107.88,Moda,0.45,Brasília,DF,Website
-O0048,CUS0329,2026-01-09,2026-01-17,Bank Slip,1714.79,Casa,25.62,Porto Alegre,RS,Website
-O0049,CUS0298,2026-01-15,2026-01-23,Pix,143.63,Eletrônicos,3.18,São Paulo,SP,Website
-O0050,CUS0262,2026-02-10,2026-02-20,Credit Card,993.67,Mercado,9.07,Goiânia,GO,Website
-O0051,CUS0276,2026-02-25,2026-03-01,Debit Card,942.28,Eletrônicos,0.81,Cuiabá,MT,Marketplace
-O0052,CUS0064,2026-03-21,2026-03-30,Pix,1292.4,Casa,20.67,Maringá,PR,Website
-O0053,CUS0066,2026-03-31,2026-04-08,Debit Card,1080.04,Beleza,0.95,Cuiabá,MT,Marketplace
-O0054,CUS0281,2026-01-23,2026-01-31,Credit Card,794.42,Mercado,3.94,Joinville,SC,Marketplace
-O0055,CUS0227,2026-03-25,2026-04-03,Bank Slip,1705.25,Esporte,5.36,Vitória,ES,Marketplace
-O0056,CUS0264,2026-03-26,2026-03-31,Pix,278.71,Moda,1.44,Brasília,DF,App
-O0057,CUS0102,2026-02-09,2026-02-16,Debit Card,109.74,Mercado,4.43,Rio de Janeiro,RJ,Website
-O0058,CUS0323,2026-01-10,2026-01-21,Debit Card,1809.92,Esporte,4.15,Joinville,SC,Website
-O0059,CUS0055,2026-01-19,2026-01-23,Bank Slip,586.08,Moda,1.25,Curitiba,PR,Marketplace
-O0060,CUS0128,2026-03-01,2026-03-05,Credit Card,1168.28,Esporte,8.11,Cuiabá,MT,Marketplace
-O0061,CUS0227,2026-03-13,2026-03-22,Bank Slip,2084.88,Esporte,5.7,Rio de Janeiro,RJ,App
-O0062,CUS0127,2026-03-02,2026-03-13,Pix,1926.22,Mercado,8.3,Brasília,DF,Marketplace
-O0063,CUS0147,2026-02-05,2026-02-16,Debit Card,715.63,Moda,0.62,Belo Horizonte,MG,Marketplace
-O0064,CUS0197,2026-01-18,2026-01-24,Debit Card,1780.7,Eletrônicos,0.79,Campinas,SP,Website
-O0065,CUS0032,2026-03-11,2026-03-22,Debit Card,2090.57,Casa,12.91,Joinville,SC,Marketplace
-O0066,CUS0004,2026-01-03,2026-01-13,Pix,781.53,Mercado,6.46,Vitória,ES,Website
-O0067,CUS0113,2026-03-11,2026-03-18,Pix,1117.74,Esporte,0.78,Vitória,ES,Website
-O0068,CUS0085,2026-03-28,2026-04-07,Bank Slip,2302.87,Mercado,14.73,Londrina,PR,Marketplace
-O0069,CUS0330,2026-02-20,2026-02-24,Bank Slip,382.38,Eletrônicos,2.58,Belo Horizonte,MG,App
-O0070,CUS0233,2026-02-18,2026-02-27,Pix,876.81,Casa,26.63,Campinas,SP,Website
-O0071,CUS0010,2026-02-02,2026-02-07,Credit Card,2499.77,Beleza,0.41,Vitória,ES,Marketplace
-O0072,CUS0016,2026-03-25,2026-03-29,Debit Card,538.35,Eletrônicos,0.59,Rio de Janeiro,RJ,App
-O0073,CUS0059,2026-01-17,2026-01-28,Debit Card,1189.28,Moda,0.53,Maringá,PR,Website
-O0074,CUS0084,2026-03-19,2026-03-24,Pix,314.75,Moda,0.23,Rio de Janeiro,RJ,Website
-O0075,CUS0102,2026-03-28,2026-04-07,Credit Card,1500.6,Esporte,8.39,Joinville,SC,App
-O0076,CUS0308,2026-03-31,2026-04-08,Credit Card,2000.74,Eletrônicos,3.05,Florianópolis,SC,App
-O0077,CUS0190,2026-03-10,2026-03-20,Credit Card,1289.55,Casa,11.55,Maringá,PR,Website
-O0078,CUS0326,2026-01-14,2026-01-24,Bank Slip,1782.88,Beleza,0.49,Porto Alegre,RS,Marketplace
-O0079,CUS0276,2026-03-25,2026-04-02,Bank Slip,1188.89,Esporte,8.34,Goiânia,GO,Marketplace
-O0080,CUS0045,2026-02-11,2026-02-18,Pix,2209.98,Casa,8.83,Florianópolis,SC,Website
-O0081,CUS0015,2026-03-20,2026-03-30,Bank Slip,2134.82,Esporte,2.23,Porto Alegre,RS,App
-O0082,CUS0306,2026-02-03,2026-02-12,Pix,1411.64,Casa,16.47,Brasília,DF,App
-O0083,CUS0285,2026-01-31,2026-02-10,Debit Card,1741.96,Eletrônicos,3.41,Vitória,ES,Website
-O0084,CUS0114,2026-01-03,2026-01-08,Bank Slip,1744.85,Beleza,0.38,Brasília,DF,Marketplace
-O0085,CUS0177,2026-03-02,2026-03-14,Bank Slip,2491.75,Casa,17.41,Cuiabá,MT,Website
-O0086,CUS0129,2026-02-28,2026-03-08,Debit Card,345.52,Mercado,3.7,Brasília,DF,App
-O0087,CUS0111,2026-03-10,2026-03-16,Bank Slip,727.35,Mercado,9.25,Campinas,SP,Marketplace
-O0088,CUS0100,2026-02-06,2026-02-11,Pix,607.26,Esporte,2.2,Florianópolis,SC,App
-O0089,CUS0024,2026-03-10,2026-03-16,Credit Card,1405.68,Mercado,10.76,Brasília,DF,App
-O0090,CUS0007,2026-03-04,2026-03-09,Pix,1199.97,Mercado,7.17,Florianópolis,SC,App
-O0091,CUS0034,2026-02-02,2026-02-13,Bank Slip,1254.73,Eletrônicos,3.1,Belo Horizonte,MG,Marketplace
-O0092,CUS0289,2026-01-20,2026-01-26,Pix,258.6,Eletrônicos,1.62,Rio de Janeiro,RJ,Marketplace
-O0093,CUS0268,2026-03-19,2026-03-26,Bank Slip,1153.71,Beleza,0.5,Rio de Janeiro,RJ,Marketplace
-O0094,CUS0051,2026-02-09,2026-02-13,Debit Card,1582.47,Beleza,0.34,Goiânia,GO,App
-O0095,CUS0039,2026-01-31,2026-02-06,Debit Card,56.46,Moda,0.79,Cuiabá,MT,Marketplace
-O0096,CUS0148,2026-02-07,2026-02-11,Pix,1772.29,Beleza,0.51,Campinas,SP,Marketplace
-O0097,CUS0059,2026-02-03,2026-02-10,Debit Card,1636.67,Moda,1.38,Joinville,SC,App
-O0098,CUS0158,2026-01-08,2026-01-14,Pix,1125.87,Eletrônicos,2.61,Rio de Janeiro,RJ,Website
-O0099,CUS0277,2026-02-21,2026-03-01,Bank Slip,1122.45,Mercado,9.37,Cuiabá,MT,Website
-O0100,CUS0047,2026-02-11,2026-02-19,Debit Card,2406.68,Mercado,12.7,Uberlândia,MG,Marketplace
-O0101,CUS0021,2026-01-03,2026-01-11,Debit Card,1202.67,Esporte,6.69,Goiânia,GO,Website
-O0102,CUS0252,2026-03-16,2026-03-26,Credit Card,1201.47,Moda,0.73,Maringá,PR,Website
-O0103,CUS0211,2026-01-14,2026-01-20,Bank Slip,756.06,Mercado,14.23,Porto Alegre,RS,Marketplace
-O0104,CUS0130,2026-02-28,2026-03-05,Pix,333.92,Eletrônicos,3.98,Porto Alegre,RS,Marketplace
-O0105,CUS0212,2026-03-26,2026-04-07,Credit Card,509.5,Eletrônicos,2.13,Vitória,ES,Website
-O0106,CUS0137,2026-02-26,2026-03-02,Debit Card,2322.79,Mercado,7.13,Campinas,SP,Marketplace
-O0107,CUS0312,2026-01-16,2026-01-20,Debit Card,1788.94,Beleza,0.38,Maringá,PR,App
-O0108,CUS0059,2026-02-22,2026-02-27,Bank Slip,2370.29,Esporte,6.65,Campinas,SP,App
-O0109,CUS0140,2026-02-07,2026-02-19,Bank Slip,2095.06,Beleza,0.98,Londrina,PR,App
-O0110,CUS0098,2026-03-12,2026-03-18,Debit Card,2166.85,Beleza,0.35,Joinville,SC,Website
-O0111,CUS0002,2026-03-06,2026-03-14,Pix,1828.8,Casa,25.45,Florianópolis,SC,Marketplace
-O0112,CUS0276,2026-03-04,2026-03-10,Bank Slip,895.49,Mercado,8.73,Vitória,ES,Marketplace
-O0113,CUS0097,2026-02-28,2026-03-09,Debit Card,1450.86,Beleza,0.31,Florianópolis,SC,Website
-O0114,CUS0196,2026-02-10,2026-02-21,Bank Slip,2471.61,Eletrônicos,4.07,Londrina,PR,Marketplace
-O0115,CUS0258,2026-03-05,2026-03-09,Pix,2180.75,Moda,1.34,São Paulo,SP,Website
-O0116,CUS0074,2026-03-09,2026-03-20,Bank Slip,2183.77,Eletrônicos,4.86,Uberlândia,MG,App
-O0117,CUS0204,2026-02-03,2026-02-12,Credit Card,2136.81,Beleza,0.87,Goiânia,GO,Marketplace
-O0118,CUS0278,2026-02-10,2026-02-21,Credit Card,1562.74,Beleza,0.31,Florianópolis,SC,Marketplace
-O0119,CUS0051,2026-01-30,2026-02-04,Credit Card,1136.96,Casa,21.43,Joinville,SC,App
-O0120,CUS0184,2026-02-11,2026-02-15,Pix,1105.13,Eletrônicos,1.6,Brasília,DF,Website
-O0121,CUS0090,2026-03-29,2026-04-04,Credit Card,1543.22,Esporte,4.13,São Paulo,SP,Marketplace
-O0122,CUS0237,2026-03-05,2026-03-11,Pix,1175.89,Moda,1.07,Campinas,SP,Website
-O0123,CUS0038,2026-03-28,2026-04-09,Bank Slip,2365.82,Casa,29.65,São Paulo,SP,Website
-O0124,CUS0155,2026-02-24,2026-03-04,Debit Card,2498.47,Mercado,12.95,Vitória,ES,App
-O0125,CUS0152,2026-02-18,2026-02-27,Pix,103.65,Moda,1.28,Goiânia,GO,Website
-O0126,CUS0311,2026-01-02,2026-01-06,Bank Slip,2090.44,Casa,27.28,Curitiba,PR,App
-O0127,CUS0098,2026-02-15,2026-02-22,Pix,1710.49,Esporte,7.35,Maringá,PR,Marketplace
-O0128,CUS0322,2026-01-18,2026-01-23,Credit Card,806.82,Mercado,7.17,Curitiba,PR,Marketplace
-O0129,CUS0152,2026-01-17,2026-01-22,Pix,1881.3,Casa,6.92,Curitiba,PR,App
-O0130,CUS0140,2026-02-16,2026-02-28,Debit Card,679.5,Esporte,8.33,Cuiabá,MT,Website
-O0131,CUS0039,2026-02-13,2026-02-18,Debit Card,1897.65,Casa,8.32,Vitória,ES,Marketplace
-O0132,CUS0286,2026-03-28,2026-04-07,Pix,271.15,Mercado,6.52,Florianópolis,SC,Website
-O0133,CUS0345,2026-01-16,2026-01-27,Pix,1482.13,Esporte,8.31,Porto Alegre,RS,Website
-O0134,CUS0013,2026-03-28,2026-04-04,Pix,2292.37,Eletrônicos,1.5,Vitória,ES,App
-O0135,CUS0210,2026-03-01,2026-03-09,Credit Card,392.37,Mercado,14.25,Maringá,PR,Website
-O0136,CUS0276,2026-01-15,2026-01-20,Debit Card,1002.12,Beleza,0.43,Campinas,SP,Marketplace
-O0137,CUS0080,2026-03-11,2026-03-21,Bank Slip,1654.52,Mercado,12.67,Goiânia,GO,Marketplace
-O0138,CUS0190,2026-02-05,2026-02-09,Debit Card,1136.23,Beleza,0.96,Londrina,PR,Website
-O0139,CUS0331,2026-03-29,2026-04-07,Pix,198.25,Eletrônicos,1.74,Cuiabá,MT,App
-O0140,CUS0328,2026-01-12,2026-01-19,Credit Card,173.82,Beleza,0.4,Maringá,PR,App
-O0141,CUS0284,2026-01-27,2026-02-01,Debit Card,1486.6,Esporte,8.22,Florianópolis,SC,App
-O0142,CUS0075,2026-01-19,2026-01-23,Debit Card,1373.48,Casa,24.36,Brasília,DF,App
-O0143,CUS0184,2026-01-04,2026-01-10,Debit Card,1492.65,Mercado,1.22,Uberlândia,MG,Website
-O0144,CUS0059,2026-01-17,2026-01-27,Credit Card,1216.75,Eletrônicos,4.0,Cuiabá,MT,Marketplace
-O0145,CUS0114,2026-01-14,2026-01-25,Credit Card,1831.72,Esporte,9.13,Cuiabá,MT,Marketplace
-O0146,CUS0016,2026-02-08,2026-02-19,Credit Card,2496.54,Esporte,8.55,Maringá,PR,Website
-O0147,CUS0228,2026-01-14,2026-01-25,Credit Card,2253.19,Mercado,5.51,Londrina,PR,App
-O0148,CUS0325,2026-01-17,2026-01-25,Pix,983.15,Eletrônicos,3.19,Goiânia,GO,Website
-O0149,CUS0059,2026-03-06,2026-03-16,Debit Card,1103.61,Beleza,0.9,Belo Horizonte,MG,Website
-O0150,CUS0049,2026-02-28,2026-03-10,Pix,1095.51,Casa,20.62,Joinville,SC,Website
-O0151,CUS0047,2026-03-29,2026-04-09,Credit Card,278.32,Moda,0.33,Belo Horizonte,MG,Marketplace
-O0152,CUS0301,2026-01-17,2026-01-29,Pix,1691.5,Casa,13.5,Uberlândia,MG,Marketplace
-O0153,CUS0160,2026-01-07,2026-01-15,Pix,303.73,Beleza,0.56,Goiânia,GO,App
-O0154,CUS0056,2026-03-03,2026-03-10,Pix,2121.15,Mercado,6.15,Florianópolis,SC,Website
-O0155,CUS0288,2026-01-29,2026-02-08,Credit Card,1542.0,Esporte,6.75,Florianópolis,SC,Marketplace
-O0156,CUS0159,2026-01-04,2026-01-10,Pix,909.94,Casa,7.08,Brasília,DF,App
-O0157,CUS0073,2026-03-26,2026-04-05,Credit Card,274.72,Esporte,5.54,Belo Horizonte,MG,Website
-O0158,CUS0190,2026-02-28,2026-03-09,Pix,1817.88,Beleza,0.8,São Paulo,SP,Marketplace
-O0159,CUS0081,2026-01-11,2026-01-15,Credit Card,1701.19,Esporte,3.08,São Paulo,SP,Marketplace
-O0160,CUS0140,2026-03-04,2026-03-15,Debit Card,1899.59,Beleza,0.2,Joinville,SC,Website
-O0161,CUS0342,2026-02-06,2026-02-17,Pix,161.18,Eletrônicos,2.28,Cuiabá,MT,Marketplace
-O0162,CUS0109,2026-01-01,2026-01-08,Debit Card,1922.17,Eletrônicos,1.8,Brasília,DF,App
-O0163,CUS0067,2026-03-05,2026-03-15,Bank Slip,1354.78,Eletrônicos,1.54,São Paulo,SP,Marketplace
-O0164,CUS0022,2026-02-15,2026-02-20,Bank Slip,95.82,Mercado,13.9,Joinville,SC,Website
-O0165,CUS0328,2026-02-24,2026-03-06,Bank Slip,759.24,Esporte,4.35,Londrina,PR,Website
-O0166,CUS0186,2026-03-21,2026-04-01,Credit Card,1119.89,Moda,0.34,Florianópolis,SC,Website
-O0167,CUS0203,2026-02-21,2026-03-05,Pix,1877.2,Esporte,2.6,Belo Horizonte,MG,App
-O0168,CUS0262,2026-03-07,2026-03-12,Debit Card,2269.5,Eletrônicos,2.07,Cuiabá,MT,Marketplace
-O0169,CUS0075,2026-01-19,2026-01-26,Pix,533.24,Mercado,9.43,Belo Horizonte,MG,Marketplace
-O0170,CUS0289,2026-01-23,2026-02-03,Bank Slip,1718.75,Eletrônicos,4.47,Vitória,ES,Marketplace
-O0171,CUS0322,2026-03-21,2026-03-30,Pix,419.76,Mercado,1.96,Florianópolis,SC,Website
-O0172,CUS0029,2026-02-08,2026-02-16,Pix,1292.93,Mercado,5.35,Goiânia,GO,Website
-O0173,CUS0147,2026-01-08,2026-01-17,Credit Card,1629.4,Eletrônicos,4.9,Florianópolis,SC,App
-O0174,CUS0237,2026-03-18,2026-03-30,Credit Card,1151.79,Esporte,8.19,Joinville,SC,Marketplace
-O0175,CUS0078,2026-02-11,2026-02-22,Credit Card,1153.73,Moda,1.25,Cuiabá,MT,Website
-O0176,CUS0089,2026-01-11,2026-01-23,Credit Card,656.9,Mercado,7.13,Maringá,PR,Website
-O0177,CUS0191,2026-03-08,2026-03-14,Pix,999.11,Esporte,7.86,Porto Alegre,RS,Marketplace
-O0178,CUS0169,2026-01-07,2026-01-16,Credit Card,1416.97,Esporte,4.17,Belo Horizonte,MG,Website
-O0179,CUS0042,2026-03-26,2026-04-01,Debit Card,2296.02,Mercado,5.34,Porto Alegre,RS,Marketplace
-O0180,CUS0305,2026-03-26,2026-04-05,Credit Card,808.41,Mercado,6.27,São Paulo,SP,Website
-O0181,CUS0331,2026-03-27,2026-04-08,Bank Slip,1295.75,Moda,0.22,Belo Horizonte,MG,Website
-O0182,CUS0249,2026-01-28,2026-02-06,Debit Card,604.95,Moda,0.38,Rio de Janeiro,RJ,App
-O0183,CUS0277,2026-01-13,2026-01-25,Credit Card,1671.69,Casa,26.54,Rio de Janeiro,RJ,Marketplace
-O0184,CUS0084,2026-03-18,2026-03-28,Debit Card,2086.78,Moda,1.2,São Paulo,SP,App
-O0185,CUS0187,2026-02-26,2026-03-02,Debit Card,2425.49,Mercado,9.55,Joinville,SC,Marketplace
-O0186,CUS0159,2026-01-30,2026-02-11,Bank Slip,2264.73,Beleza,0.27,Campinas,SP,Marketplace
-O0187,CUS0145,2026-02-26,2026-03-09,Bank Slip,1282.07,Esporte,4.48,Rio de Janeiro,RJ,App
-O0188,CUS0129,2026-03-19,2026-03-25,Credit Card,1620.85,Moda,1.34,Florianópolis,SC,Marketplace
-O0189,CUS0043,2026-03-08,2026-03-13,Debit Card,718.27,Eletrônicos,4.57,Brasília,DF,App
-O0190,CUS0231,2026-01-12,2026-01-19,Pix,2329.65,Beleza,0.47,Florianópolis,SC,Website
-O0191,CUS0042,2026-02-17,2026-02-24,Pix,600.04,Esporte,3.53,Joinville,SC,App
-O0192,CUS0075,2026-03-25,2026-04-03,Debit Card,143.75,Mercado,13.84,Rio de Janeiro,RJ,Website
-O0193,CUS0316,2026-01-18,2026-01-29,Credit Card,2269.34,Mercado,1.27,Vitória,ES,App
-O0194,CUS0057,2026-03-12,2026-03-24,Pix,632.14,Moda,0.36,Joinville,SC,App
-O0195,CUS0057,2026-03-23,2026-04-03,Bank Slip,1511.97,Beleza,0.11,Belo Horizonte,MG,Marketplace
-O0196,CUS0220,2026-01-31,2026-02-06,Credit Card,1556.24,Esporte,2.79,Brasília,DF,Website
-O0197,CUS0185,2026-03-27,2026-04-01,Credit Card,2385.83,Moda,0.91,Cuiabá,MT,Marketplace
-O0198,CUS0241,2026-01-03,2026-01-13,Credit Card,1607.36,Esporte,9.82,Florianópolis,SC,Website
-O0199,CUS0035,2026-01-03,2026-01-12,Pix,640.68,Mercado,10.2,Rio de Janeiro,RJ,App
-O0200,CUS0181,2026-02-12,2026-02-18,Pix,2043.08,Esporte,2.16,Uberlândia,MG,Marketplace
-O0201,CUS0094,2026-03-31,2026-04-11,Debit Card,204.5,Beleza,0.8,Maringá,PR,Website
-O0202,CUS0103,2026-02-07,2026-02-14,Credit Card,823.14,Eletrônicos,1.9,Uberlândia,MG,Website
-O0203,CUS0332,2026-03-02,2026-03-10,Debit Card,750.9,Esporte,8.69,Uberlândia,MG,App
-O0204,CUS0189,2026-02-12,2026-02-20,Bank Slip,2229.23,Mercado,11.41,Belo Horizonte,MG,Website
-O0205,CUS0255,2026-01-24,2026-02-04,Pix,2314.55,Casa,16.54,Londrina,PR,App
-O0206,CUS0309,2026-02-24,2026-03-01,Debit Card,1386.37,Mercado,5.5,Joinville,SC,App
-O0207,CUS0229,2026-03-26,2026-04-03,Bank Slip,458.2,Casa,14.43,Brasília,DF,Website
-O0208,CUS0328,2026-02-15,2026-02-25,Credit Card,233.76,Eletrônicos,3.37,Brasília,DF,Website
-O0209,CUS0074,2026-03-28,2026-04-03,Bank Slip,135.16,Esporte,1.14,Uberlândia,MG,Marketplace
-O0210,CUS0017,2026-02-16,2026-02-26,Debit Card,1713.67,Casa,28.57,Goiânia,GO,Website
-O0211,CUS0188,2026-01-10,2026-01-16,Bank Slip,820.18,Beleza,0.35,Cuiabá,MT,App
-O0212,CUS0199,2026-01-24,2026-02-04,Credit Card,691.28,Eletrônicos,1.67,Cuiabá,MT,Website
-O0213,CUS0252,2026-03-20,2026-03-28,Debit Card,350.37,Moda,1.31,Londrina,PR,Website
-O0214,CUS0350,2026-02-26,2026-03-03,Pix,1686.17,Moda,1.12,Rio de Janeiro,RJ,Marketplace
-O0215,CUS0081,2026-02-07,2026-02-15,Debit Card,1994.54,Esporte,5.33,Florianópolis,SC,App
-O0216,CUS0253,2026-01-18,2026-01-25,Credit Card,934.13,Moda,0.94,Rio de Janeiro,RJ,Website
-O0217,CUS0159,2026-01-17,2026-01-22,Bank Slip,2499.01,Esporte,7.33,Belo Horizonte,MG,Marketplace
-O0218,CUS0163,2026-02-22,2026-02-27,Credit Card,1152.38,Beleza,0.71,São Paulo,SP,Website
-O0219,CUS0067,2026-03-12,2026-03-18,Bank Slip,1281.97,Moda,1.33,Rio de Janeiro,RJ,App
-O0220,CUS0083,2026-01-20,2026-01-28,Pix,2340.1,Esporte,2.64,São Paulo,SP,Marketplace
-O0221,CUS0326,2026-01-11,2026-01-19,Pix,356.58,Casa,10.48,Campinas,SP,Marketplace
-O0222,CUS0298,2026-03-06,2026-03-12,Debit Card,469.36,Eletrônicos,3.31,Goiânia,GO,Marketplace
-O0223,CUS0015,2026-03-14,2026-03-18,Credit Card,161.29,Casa,19.96,Florianópolis,SC,Marketplace
-O0224,CUS0293,2026-03-25,2026-04-01,Bank Slip,1564.33,Casa,2.85,Rio de Janeiro,RJ,Marketplace
-O0225,CUS0126,2026-02-07,2026-02-15,Bank Slip,778.64,Esporte,1.19,Vitória,ES,App
-O0226,CUS0238,2026-02-26,2026-03-08,Debit Card,883.41,Moda,0.39,Vitória,ES,Marketplace
-O0227,CUS0190,2026-02-14,2026-02-24,Credit Card,831.77,Casa,15.06,São Paulo,SP,Website
-O0228,CUS0026,2026-02-01,2026-02-07,Pix,2366.19,Beleza,0.88,Belo Horizonte,MG,Website
-O0229,CUS0296,2026-01-21,2026-01-30,Pix,515.01,Moda,0.41,Curitiba,PR,Marketplace
-O0230,CUS0012,2026-03-05,2026-03-13,Credit Card,2365.81,Beleza,0.55,Vitória,ES,App
-O0231,CUS0026,2026-03-16,2026-03-25,Pix,1262.44,Moda,1.35,Uberlândia,MG,Marketplace
-O0232,CUS0005,2026-03-02,2026-03-10,Credit Card,1105.72,Mercado,13.35,Cuiabá,MT,Marketplace
-O0233,CUS0206,2026-02-21,2026-03-02,Credit Card,1447.15,Casa,7.45,Uberlândia,MG,Marketplace
-O0234,CUS0231,2026-01-10,2026-01-20,Pix,2072.0,Casa,19.45,Cuiabá,MT,Marketplace
-O0235,CUS0192,2026-01-17,2026-01-22,Pix,1416.64,Eletrônicos,2.15,Joinville,SC,App
-O0236,CUS0257,2026-03-19,2026-03-31,Credit Card,160.9,Moda,0.38,Joinville,SC,Website
-O0237,CUS0311,2026-03-08,2026-03-19,Debit Card,853.45,Beleza,0.65,São Paulo,SP,App
-O0238,CUS0173,2026-03-20,2026-03-28,Bank Slip,1786.38,Beleza,0.37,Goiânia,GO,App
-O0239,CUS0299,2026-02-12,2026-02-17,Pix,2002.03,Casa,22.31,Joinville,SC,Marketplace
-O0240,CUS0336,2026-01-04,2026-01-15,Debit Card,1817.4,Mercado,9.17,Brasília,DF,App
-O0241,CUS0349,2026-03-22,2026-04-01,Debit Card,127.25,Esporte,9.51,São Paulo,SP,App
-O0242,CUS0215,2026-01-03,2026-01-14,Debit Card,1061.69,Moda,0.47,Porto Alegre,RS,Marketplace
-O0243,CUS0071,2026-03-02,2026-03-06,Debit Card,1424.13,Esporte,9.98,Londrina,PR,Website
-O0244,CUS0236,2026-02-18,2026-02-27,Pix,1388.32,Esporte,6.92,São Paulo,SP,Marketplace
-O0245,CUS0248,2026-03-24,2026-04-01,Debit Card,2395.47,Mercado,4.91,Goiânia,GO,Website
-O0246,CUS0107,2026-02-08,2026-02-16,Bank Slip,826.68,Moda,0.65,Londrina,PR,Marketplace
-O0247,CUS0347,2026-02-06,2026-02-11,Bank Slip,2244.6,Casa,13.05,Goiânia,GO,Website
-O0248,CUS0041,2026-02-07,2026-02-11,Pix,2313.82,Moda,1.05,Brasília,DF,Marketplace
-O0249,CUS0276,2026-01-28,2026-02-04,Pix,2335.9,Beleza,0.73,Florianópolis,SC,App
-O0250,CUS0026,2026-03-20,2026-03-27,Debit Card,1612.93,Eletrônicos,0.74,Campinas,SP,Website
-O0251,CUS0071,2026-03-02,2026-03-07,Credit Card,2413.07,Casa,29.38,Maringá,PR,App
-O0252,CUS0334,2026-03-25,2026-04-05,Debit Card,1901.96,Beleza,0.36,Vitória,ES,Website
-O0253,CUS0294,2026-01-08,2026-01-13,Debit Card,1361.08,Mercado,11.12,Maringá,PR,App
-O0254,CUS0019,2026-02-23,2026-03-01,Bank Slip,1980.48,Moda,0.44,Curitiba,PR,Marketplace
-O0255,CUS0291,2026-01-05,2026-01-09,Credit Card,2324.71,Casa,11.38,Brasília,DF,Website
-O0256,CUS0069,2026-03-11,2026-03-23,Bank Slip,718.38,Mercado,12.32,Vitória,ES,Website
-O0257,CUS0096,2026-02-28,2026-03-08,Credit Card,1854.69,Moda,1.23,Londrina,PR,Marketplace
-O0258,CUS0328,2026-01-25,2026-01-31,Bank Slip,2076.11,Mercado,8.21,Goiânia,GO,App
-O0259,CUS0072,2026-03-27,2026-04-01,Bank Slip,842.76,Beleza,0.32,São Paulo,SP,Website
-O0260,CUS0137,2026-01-31,2026-02-11,Pix,789.7,Beleza,0.75,Rio de Janeiro,RJ,App
-O0261,CUS0121,2026-03-25,2026-04-03,Credit Card,1686.04,Casa,15.03,Londrina,PR,App
-O0262,CUS0160,2026-03-29,2026-04-10,Credit Card,1614.81,Beleza,0.95,Curitiba,PR,Website
-O0263,CUS0245,2026-01-29,2026-02-05,Debit Card,1164.64,Esporte,9.89,São Paulo,SP,Website
-O0264,CUS0242,2026-03-31,2026-04-12,Debit Card,1916.53,Beleza,0.71,Curitiba,PR,Marketplace
-O0265,CUS0186,2026-03-09,2026-03-20,Credit Card,2297.24,Eletrônicos,1.0,Cuiabá,MT,Marketplace
-O0266,CUS0085,2026-01-26,2026-02-07,Pix,2143.48,Esporte,4.7,São Paulo,SP,Marketplace
-O0267,CUS0262,2026-03-16,2026-03-27,Bank Slip,2031.28,Moda,0.79,Belo Horizonte,MG,Marketplace
-O0268,CUS0237,2026-02-28,2026-03-04,Pix,1822.01,Beleza,0.46,Cuiabá,MT,App
-O0269,CUS0217,2026-01-28,2026-02-02,Pix,1765.91,Mercado,8.58,Uberlândia,MG,App
-O0270,CUS0210,2026-03-02,2026-03-06,Debit Card,1933.96,Eletrônicos,3.95,Brasília,DF,Marketplace
-O0271,CUS0196,2026-02-23,2026-03-04,Bank Slip,2180.56,Mercado,13.69,Curitiba,PR,Website
-O0272,CUS0335,2026-03-29,2026-04-10,Pix,340.56,Eletrônicos,4.97,São Paulo,SP,Website
-O0273,CUS0002,2026-01-17,2026-01-24,Credit Card,2447.3,Esporte,4.9,Florianópolis,SC,Marketplace
-O0274,CUS0118,2026-02-24,2026-03-08,Debit Card,1178.48,Esporte,1.97,Joinville,SC,App
-O0275,CUS0339,2026-01-15,2026-01-19,Bank Slip,1556.52,Mercado,14.11,Rio de Janeiro,RJ,App
-O0276,CUS0305,2026-01-27,2026-02-01,Credit Card,1143.73,Moda,1.07,Belo Horizonte,MG,App
-O0277,CUS0120,2026-01-06,2026-01-16,Debit Card,1898.22,Moda,1.21,Vitória,ES,App
-O0278,CUS0295,2026-02-07,2026-02-14,Pix,1464.77,Esporte,7.84,Florianópolis,SC,Website
-O0279,CUS0267,2026-02-08,2026-02-14,Debit Card,1063.16,Moda,0.56,Maringá,PR,Marketplace
-O0280,CUS0254,2026-01-23,2026-02-02,Credit Card,2432.11,Esporte,9.45,Cuiabá,MT,Marketplace
-O0281,CUS0214,2026-03-09,2026-03-18,Bank Slip,415.5,Beleza,0.44,Londrina,PR,Marketplace
-O0282,CUS0074,2026-01-31,2026-02-07,Bank Slip,2291.11,Beleza,0.61,Brasília,DF,Website
-O0283,CUS0125,2026-03-09,2026-03-15,Pix,548.1,Esporte,6.64,Joinville,SC,Website
-O0284,CUS0098,2026-01-12,2026-01-24,Credit Card,707.66,Casa,20.86,Londrina,PR,Marketplace
-O0285,CUS0301,2026-01-10,2026-01-17,Debit Card,1224.46,Eletrônicos,4.41,Rio de Janeiro,RJ,Website
-O0286,CUS0098,2026-01-02,2026-01-09,Credit Card,1879.83,Casa,23.12,Curitiba,PR,App
-O0287,CUS0123,2026-03-19,2026-03-26,Pix,1949.99,Mercado,6.33,Joinville,SC,Marketplace
-O0288,CUS0185,2026-02-15,2026-02-23,Bank Slip,1191.66,Mercado,12.24,Brasília,DF,Marketplace
-O0289,CUS0161,2026-02-10,2026-02-17,Bank Slip,161.91,Beleza,0.88,Porto Alegre,RS,Marketplace
-O0290,CUS0300,2026-01-03,2026-01-11,Bank Slip,773.15,Moda,0.46,Cuiabá,MT,App
-O0291,CUS0282,2026-03-14,2026-03-21,Pix,680.38,Beleza,0.84,Vitória,ES,Marketplace
-O0292,CUS0181,2026-03-04,2026-03-15,Debit Card,392.81,Mercado,8.65,São Paulo,SP,App
-O0293,CUS0018,2026-03-24,2026-03-28,Credit Card,2365.71,Esporte,6.85,Cuiabá,MT,App
-O0294,CUS0078,2026-01-18,2026-01-25,Credit Card,585.79,Beleza,0.51,Belo Horizonte,MG,App
-O0295,CUS0250,2026-03-23,2026-04-03,Credit Card,66.1,Esporte,5.74,Maringá,PR,App
-O0296,CUS0147,2026-03-09,2026-03-17,Credit Card,1280.38,Eletrônicos,3.64,Cuiabá,MT,Website
-O0297,CUS0077,2026-01-14,2026-01-19,Debit Card,520.15,Moda,0.88,Cuiabá,MT,Website
-O0298,CUS0208,2026-02-20,2026-02-25,Bank Slip,1434.21,Casa,29.73,Porto Alegre,RS,App
-O0299,CUS0333,2026-03-29,2026-04-03,Credit Card,278.99,Casa,12.62,Maringá,PR,Marketplace
-O0300,CUS0088,2026-01-08,2026-01-12,Credit Card,1274.6,Beleza,0.49,Londrina,PR,Website
-O0301,CUS0022,2026-01-13,2026-01-25,Debit Card,567.89,Esporte,8.75,Curitiba,PR,Marketplace
-O0302,CUS0039,2026-02-04,2026-02-08,Pix,2253.3,Beleza,0.61,Curitiba,PR,App
-O0303,CUS0301,2026-02-10,2026-02-14,Debit Card,1893.0,Moda,1.13,Campinas,SP,Website
-O0304,CUS0124,2026-02-08,2026-02-14,Bank Slip,1708.7,Eletrônicos,2.93,Goiânia,GO,Website
-O0305,CUS0178,2026-01-18,2026-01-23,Credit Card,289.24,Mercado,4.25,Cuiabá,MT,App
-O0306,CUS0168,2026-03-19,2026-03-29,Credit Card,1603.56,Casa,23.94,Rio de Janeiro,RJ,Website
-O0307,CUS0193,2026-01-30,2026-02-08,Bank Slip,504.98,Beleza,0.63,Cuiabá,MT,Website
-O0308,CUS0127,2026-03-21,2026-03-29,Credit Card,250.9,Eletrônicos,1.19,Rio de Janeiro,RJ,Marketplace
-O0309,CUS0185,2026-01-20,2026-01-30,Credit Card,274.13,Mercado,14.2,Porto Alegre,RS,Website
-O0310,CUS0045,2026-02-04,2026-02-09,Debit Card,1105.84,Casa,17.6,São Paulo,SP,Marketplace
-O0311,CUS0182,2026-01-14,2026-01-18,Credit Card,1512.42,Beleza,0.81,Belo Horizonte,MG,Website
-O0312,CUS0044,2026-02-07,2026-02-17,Debit Card,1451.26,Eletrônicos,1.26,Joinville,SC,Website
-O0313,CUS0138,2026-01-18,2026-01-26,Bank Slip,407.45,Moda,0.42,Brasília,DF,Website
-O0314,CUS0040,2026-02-08,2026-02-19,Pix,666.59,Beleza,0.32,Rio de Janeiro,RJ,Marketplace
-O0315,CUS0055,2026-03-18,2026-03-25,Debit Card,796.34,Beleza,0.95,Vitória,ES,Website
-O0316,CUS0172,2026-02-18,2026-02-27,Bank Slip,2047.9,Esporte,8.67,Vitória,ES,Marketplace
-O0317,CUS0103,2026-02-08,2026-02-17,Bank Slip,819.68,Moda,1.45,Goiânia,GO,Website
-O0318,CUS0125,2026-03-30,2026-04-10,Pix,971.27,Casa,24.86,Goiânia,GO,Website
-O0319,CUS0280,2026-01-15,2026-01-22,Debit Card,1720.16,Casa,17.4,Goiânia,GO,Marketplace
-O0320,CUS0150,2026-01-27,2026-02-07,Credit Card,2056.45,Beleza,0.82,Rio de Janeiro,RJ,Website
-O0321,CUS0156,2026-03-05,2026-03-11,Debit Card,669.0,Mercado,3.16,Maringá,PR,Website
-O0322,CUS0246,2026-01-10,2026-01-21,Bank Slip,1359.15,Beleza,0.93,Goiânia,GO,Marketplace
-O0323,CUS0185,2026-03-11,2026-03-15,Credit Card,317.87,Beleza,0.32,Rio de Janeiro,RJ,Marketplace
-O0324,CUS0331,2026-01-22,2026-01-26,Bank Slip,2418.68,Casa,11.28,Goiânia,GO,Website
-O0325,CUS0114,2026-01-02,2026-01-07,Debit Card,1142.1,Eletrônicos,2.26,Brasília,DF,Marketplace
-O0326,CUS0177,2026-03-30,2026-04-11,Credit Card,1232.74,Esporte,3.31,São Paulo,SP,App
-O0327,CUS0176,2026-01-19,2026-01-28,Bank Slip,1971.44,Eletrônicos,2.85,Brasília,DF,Website
-O0328,CUS0232,2026-01-13,2026-01-24,Pix,214.48,Beleza,0.14,Londrina,PR,Marketplace
-O0329,CUS0056,2026-01-03,2026-01-12,Debit Card,2328.3,Eletrônicos,3.83,Maringá,PR,Marketplace
-O0330,CUS0287,2026-03-12,2026-03-18,Bank Slip,2398.23,Moda,0.5,Porto Alegre,RS,Website
-O0331,CUS0337,2026-01-24,2026-01-30,Bank Slip,1019.12,Mercado,11.32,Maringá,PR,App
-O0332,CUS0003,2026-03-17,2026-03-27,Debit Card,554.09,Beleza,0.78,Joinville,SC,App
-O0333,CUS0188,2026-01-14,2026-01-26,Pix,532.75,Esporte,1.58,São Paulo,SP,Marketplace
-O0334,CUS0199,2026-03-09,2026-03-18,Bank Slip,1488.12,Beleza,0.41,Goiânia,GO,Website
-O0335,CUS0315,2026-01-23,2026-01-31,Credit Card,1696.64,Esporte,3.48,Curitiba,PR,App
-O0336,CUS0073,2026-01-15,2026-01-21,Bank Slip,1074.63,Casa,5.86,Porto Alegre,RS,Website
-O0337,CUS0276,2026-01-24,2026-02-04,Debit Card,1409.49,Beleza,0.54,Maringá,PR,App
-O0338,CUS0028,2026-02-10,2026-02-21,Pix,2382.01,Moda,0.83,Goiânia,GO,App
-O0339,CUS0254,2026-03-13,2026-03-25,Bank Slip,1727.48,Beleza,0.47,Maringá,PR,Website
-O0340,CUS0016,2026-01-22,2026-01-27,Debit Card,765.55,Beleza,0.35,Goiânia,GO,Marketplace
-O0341,CUS0254,2026-01-22,2026-02-02,Credit Card,1453.11,Casa,9.5,Goiânia,GO,Marketplace
-O0342,CUS0226,2026-03-11,2026-03-15,Debit Card,2474.95,Casa,4.87,Rio de Janeiro,RJ,Marketplace
-O0343,CUS0135,2026-02-08,2026-02-12,Pix,2162.38,Moda,0.31,Vitória,ES,App
-O0344,CUS0313,2026-01-27,2026-02-05,Bank Slip,456.57,Moda,0.38,Florianópolis,SC,App
-O0345,CUS0144,2026-01-08,2026-01-17,Debit Card,842.88,Moda,1.12,Cuiabá,MT,Website
-O0346,CUS0348,2026-02-04,2026-02-16,Credit Card,382.11,Esporte,7.63,Curitiba,PR,Website
-O0347,CUS0068,2026-02-05,2026-02-11,Debit Card,408.21,Eletrônicos,1.95,Londrina,PR,App
-O0348,CUS0296,2026-02-20,2026-03-03,Pix,1588.1,Mercado,6.25,São Paulo,SP,App
-O0349,CUS0143,2026-01-12,2026-01-22,Pix,1163.95,Mercado,7.83,Cuiabá,MT,Marketplace
-O0350,CUS0341,2026-01-12,2026-01-23,Pix,2132.75,Eletrônicos,4.08,Maringá,PR,Website
-O0351,CUS0138,2026-02-24,2026-03-03,Pix,2079.42,Moda,0.64,Vitória,ES,Marketplace
-O0352,CUS0176,2026-03-14,2026-03-25,Credit Card,162.46,Moda,1.01,Rio de Janeiro,RJ,Website
-O0353,CUS0234,2026-01-16,2026-01-22,Credit Card,2480.0,Eletrônicos,2.43,Vitória,ES,Marketplace
-O0354,CUS0141,2026-03-25,2026-04-02,Credit Card,1653.71,Moda,0.53,São Paulo,SP,Website
-O0355,CUS0203,2026-03-25,2026-03-31,Pix,1828.64,Mercado,11.57,Uberlândia,MG,Website
-O0356,CUS0110,2026-01-12,2026-01-17,Bank Slip,240.86,Mercado,9.31,Uberlândia,MG,Marketplace
-O0357,CUS0176,2026-02-26,2026-03-02,Credit Card,2470.98,Mercado,6.91,Uberlândia,MG,App
-O0358,CUS0046,2026-01-10,2026-01-17,Credit Card,302.75,Beleza,0.43,Joinville,SC,Website
-O0359,CUS0347,2026-02-18,2026-02-24,Debit Card,217.52,Moda,0.93,Maringá,PR,Marketplace
-O0360,CUS0110,2026-01-22,2026-02-02,Debit Card,2303.73,Mercado,9.63,Porto Alegre,RS,Website
-O0361,CUS0064,2026-01-12,2026-01-17,Bank Slip,911.2,Moda,0.76,São Paulo,SP,App
-O0362,CUS0284,2026-02-05,2026-02-10,Pix,1958.45,Moda,1.1,Campinas,SP,Marketplace
-O0363,CUS0261,2026-01-27,2026-02-08,Debit Card,1882.19,Casa,10.28,Goiânia,GO,App
-O0364,CUS0124,2026-03-05,2026-03-15,Bank Slip,1613.27,Moda,0.29,Belo Horizonte,MG,App
-O0365,CUS0292,2026-02-10,2026-02-16,Bank Slip,945.2,Casa,21.12,Joinville,SC,Website
-O0366,CUS0135,2026-01-03,2026-01-08,Debit Card,147.48,Eletrônicos,0.77,Uberlândia,MG,Website
-O0367,CUS0213,2026-02-06,2026-02-18,Bank Slip,1769.41,Esporte,1.28,Rio de Janeiro,RJ,Marketplace
-O0368,CUS0043,2026-03-20,2026-03-26,Pix,243.51,Esporte,9.25,Brasília,DF,App
-O0369,CUS0325,2026-02-11,2026-02-21,Credit Card,809.85,Esporte,4.66,Goiânia,GO,App
-O0370,CUS0223,2026-02-01,2026-02-06,Credit Card,1160.71,Eletrônicos,3.24,Curitiba,PR,Website
-O0371,CUS0007,2026-03-26,2026-04-01,Debit Card,1768.64,Mercado,3.29,Belo Horizonte,MG,Website
-O0372,CUS0191,2026-03-08,2026-03-16,Debit Card,1886.93,Esporte,8.8,São Paulo,SP,Marketplace
-O0373,CUS0220,2026-01-04,2026-01-13,Pix,1333.4,Eletrônicos,1.68,Rio de Janeiro,RJ,Marketplace
-O0374,CUS0262,2026-01-10,2026-01-21,Pix,185.73,Mercado,13.03,Vitória,ES,App
-O0375,CUS0053,2026-01-21,2026-01-29,Credit Card,609.51,Casa,16.25,Rio de Janeiro,RJ,App
-O0376,CUS0187,2026-02-01,2026-02-05,Bank Slip,2304.55,Eletrônicos,1.31,Vitória,ES,App
-O0377,CUS0165,2026-03-25,2026-04-04,Debit Card,1069.77,Esporte,7.34,Campinas,SP,Website
-O0378,CUS0258,2026-03-15,2026-03-24,Credit Card,489.31,Eletrônicos,4.12,Belo Horizonte,MG,App
-O0379,CUS0145,2026-01-09,2026-01-20,Pix,851.82,Beleza,0.6,Florianópolis,SC,App
-O0380,CUS0156,2026-01-26,2026-02-03,Debit Card,1186.57,Casa,18.57,Goiânia,GO,Website
-O0381,CUS0004,2026-03-11,2026-03-18,Bank Slip,108.48,Moda,0.9,São Paulo,SP,Marketplace
-O0382,CUS0337,2026-01-02,2026-01-11,Bank Slip,2130.05,Mercado,11.18,Uberlândia,MG,App
-O0383,CUS0252,2026-03-09,2026-03-16,Credit Card,2432.77,Moda,0.39,Joinville,SC,Website
-O0384,CUS0267,2026-01-06,2026-01-13,Bank Slip,1767.05,Eletrônicos,2.18,Curitiba,PR,Marketplace
-O0385,CUS0069,2026-03-16,2026-03-21,Bank Slip,233.24,Eletrônicos,3.06,Cuiabá,MT,Website
-O0386,CUS0134,2026-01-17,2026-01-24,Pix,2318.8,Mercado,6.5,Brasília,DF,Marketplace
-O0387,CUS0120,2026-02-10,2026-02-21,Credit Card,2361.7,Casa,5.81,Brasília,DF,Marketplace
-O0388,CUS0231,2026-01-20,2026-01-25,Bank Slip,819.31,Eletrônicos,1.04,São Paulo,SP,Website
-O0389,CUS0136,2026-02-27,2026-03-07,Credit Card,271.44,Moda,1.25,Vitória,ES,Website
-O0390,CUS0168,2026-03-31,2026-04-04,Debit Card,273.38,Mercado,4.48,Campinas,SP,Website
-O0391,CUS0154,2026-03-07,2026-03-11,Pix,2059.2,Beleza,0.26,Maringá,PR,Website
-O0392,CUS0049,2026-03-13,2026-03-25,Bank Slip,299.58,Beleza,0.81,Campinas,SP,App
-O0393,CUS0102,2026-01-08,2026-01-15,Bank Slip,961.92,Eletrônicos,3.34,São Paulo,SP,Marketplace
-O0394,CUS0039,2026-03-16,2026-03-24,Credit Card,2493.05,Eletrônicos,1.39,Curitiba,PR,Marketplace
-O0395,CUS0170,2026-01-17,2026-01-22,Credit Card,154.51,Beleza,0.51,Curitiba,PR,App
-O0396,CUS0016,2026-02-25,2026-03-07,Bank Slip,1723.84,Esporte,2.14,Vitória,ES,App
-O0397,CUS0077,2026-02-05,2026-02-13,Credit Card,1554.52,Moda,1.0,Vitória,ES,Marketplace
-O0398,CUS0282,2026-03-05,2026-03-15,Bank Slip,199.3,Casa,9.83,Curitiba,PR,App
-O0399,CUS0323,2026-01-26,2026-02-07,Credit Card,2474.04,Beleza,0.8,Campinas,SP,Website
-O0400,CUS0290,2026-03-11,2026-03-22,Pix,1001.47,Beleza,0.26,Porto Alegre,RS,Website
-O0401,CUS0144,2026-01-29,2026-02-02,Credit Card,2031.18,Esporte,4.98,Curitiba,PR,Website
-O0402,CUS0127,2026-01-30,2026-02-05,Debit Card,702.92,Esporte,8.25,Belo Horizonte,MG,Marketplace
-O0403,CUS0089,2026-01-29,2026-02-08,Debit Card,629.47,Eletrônicos,1.93,Porto Alegre,RS,Marketplace
-O0404,CUS0181,2026-02-15,2026-02-19,Debit Card,1429.57,Mercado,3.64,Londrina,PR,Website
-O0405,CUS0020,2026-02-09,2026-02-15,Credit Card,187.52,Esporte,6.22,Vitória,ES,App
-O0406,CUS0315,2026-03-03,2026-03-07,Debit Card,2025.77,Esporte,3.74,Porto Alegre,RS,App
-O0407,CUS0301,2026-01-08,2026-01-12,Debit Card,1947.18,Casa,25.7,São Paulo,SP,Website
-O0408,CUS0052,2026-02-17,2026-02-27,Pix,789.25,Eletrônicos,1.11,Goiânia,GO,App
-O0409,CUS0163,2026-02-25,2026-03-08,Debit Card,1782.57,Mercado,8.87,Maringá,PR,Marketplace
-O0410,CUS0158,2026-01-29,2026-02-04,Pix,361.92,Casa,22.41,Joinville,SC,Marketplace
-O0411,CUS0309,2026-02-20,2026-02-24,Pix,2306.54,Esporte,9.69,São Paulo,SP,App
-O0412,CUS0255,2026-03-14,2026-03-19,Debit Card,861.3,Mercado,2.09,Curitiba,PR,Website
-O0413,CUS0344,2026-01-22,2026-01-27,Pix,1144.19,Casa,9.43,Florianópolis,SC,App
-O0414,CUS0056,2026-01-09,2026-01-18,Credit Card,167.87,Mercado,7.14,Brasília,DF,Website
-O0415,CUS0194,2026-02-22,2026-03-05,Pix,1387.71,Moda,0.33,Curitiba,PR,Website
-O0416,CUS0232,2026-03-25,2026-04-01,Credit Card,2008.01,Esporte,0.82,São Paulo,SP,App
-O0417,CUS0176,2026-02-03,2026-02-08,Debit Card,2225.42,Casa,6.51,Belo Horizonte,MG,App
-O0418,CUS0315,2026-01-12,2026-01-21,Bank Slip,1776.01,Esporte,4.6,Goiânia,GO,Marketplace
-O0419,CUS0028,2026-03-19,2026-03-29,Credit Card,861.11,Moda,1.47,São Paulo,SP,Website
-O0420,CUS0339,2026-03-12,2026-03-24,Pix,778.56,Mercado,2.34,Brasília,DF,Website
-O0421,CUS0028,2026-03-12,2026-03-23,Pix,59.25,Esporte,1.33,São Paulo,SP,Marketplace
-O0422,CUS0050,2026-03-18,2026-03-29,Credit Card,556.96,Mercado,9.93,Campinas,SP,App
-O0423,CUS0204,2026-01-15,2026-01-23,Bank Slip,1248.24,Beleza,0.69,Rio de Janeiro,RJ,App
-O0424,CUS0190,2026-03-11,2026-03-21,Bank Slip,954.97,Mercado,7.24,São Paulo,SP,Website
-O0425,CUS0138,2026-03-01,2026-03-09,Credit Card,420.19,Beleza,0.73,Campinas,SP,App
-O0426,CUS0278,2026-03-27,2026-04-05,Bank Slip,2428.23,Eletrônicos,3.15,Rio de Janeiro,RJ,Marketplace
-O0427,CUS0275,2026-02-19,2026-03-03,Bank Slip,1453.11,Eletrônicos,1.56,Joinville,SC,Website
-O0428,CUS0293,2026-02-20,2026-02-24,Debit Card,344.6,Eletrônicos,3.91,Cuiabá,MT,App
-O0429,CUS0022,2026-01-28,2026-02-04,Bank Slip,241.91,Moda,1.09,São Paulo,SP,App
-O0430,CUS0035,2026-01-19,2026-01-27,Credit Card,1000.78,Mercado,6.56,Porto Alegre,RS,Website
-O0431,CUS0007,2026-03-08,2026-03-19,Bank Slip,325.58,Casa,6.19,Curitiba,PR,Marketplace
-O0432,CUS0055,2026-03-16,2026-03-21,Credit Card,1975.06,Esporte,8.74,Curitiba,PR,Website
-O0433,CUS0249,2026-02-03,2026-02-13,Bank Slip,141.69,Beleza,0.35,Maringá,PR,App
-O0434,CUS0203,2026-03-19,2026-03-29,Pix,1741.73,Esporte,0.97,Uberlândia,MG,Website
-O0435,CUS0156,2026-02-17,2026-02-21,Pix,736.78,Casa,15.77,Porto Alegre,RS,Marketplace
-O0436,CUS0154,2026-01-13,2026-01-20,Bank Slip,1946.35,Mercado,5.49,São Paulo,SP,Marketplace
-O0437,CUS0227,2026-03-19,2026-03-24,Debit Card,2287.9,Beleza,0.47,Campinas,SP,Website
-O0438,CUS0082,2026-02-17,2026-02-21,Credit Card,812.18,Esporte,5.31,Cuiabá,MT,App
-O0439,CUS0099,2026-03-14,2026-03-18,Debit Card,2100.58,Esporte,2.87,São Paulo,SP,Website
-O0440,CUS0189,2026-02-16,2026-02-23,Bank Slip,1287.51,Eletrônicos,3.36,Brasília,DF,App
-O0441,CUS0251,2026-01-04,2026-01-11,Bank Slip,485.0,Mercado,13.19,Porto Alegre,RS,Marketplace
-O0442,CUS0133,2026-02-14,2026-02-23,Credit Card,748.35,Esporte,4.17,São Paulo,SP,App
-O0443,CUS0116,2026-01-28,2026-02-04,Debit Card,709.18,Esporte,4.39,Maringá,PR,App
-O0444,CUS0068,2026-01-02,2026-01-13,Debit Card,1522.76,Mercado,1.12,Curitiba,PR,Website
-O0445,CUS0193,2026-02-09,2026-02-17,Pix,1174.49,Esporte,2.57,Joinville,SC,Website
-O0446,CUS0053,2026-03-08,2026-03-18,Credit Card,1303.16,Mercado,10.27,Goiânia,GO,Website
-O0447,CUS0056,2026-03-24,2026-04-01,Bank Slip,206.31,Esporte,9.89,Brasília,DF,Marketplace
-O0448,CUS0334,2026-02-05,2026-02-13,Pix,511.4,Casa,16.48,Maringá,PR,App
-O0449,CUS0164,2026-03-18,2026-03-28,Debit Card,1817.12,Eletrônicos,3.45,Maringá,PR,Website
-O0450,CUS0019,2026-02-23,2026-03-05,Debit Card,890.69,Casa,21.97,Joinville,SC,Marketplace
-O0451,CUS0344,2026-03-23,2026-04-03,Pix,1292.87,Esporte,8.53,Curitiba,PR,Marketplace
-O0452,CUS0242,2026-01-24,2026-02-01,Debit Card,1865.23,Esporte,7.39,Belo Horizonte,MG,Marketplace
-O0453,CUS0046,2026-03-29,2026-04-07,Debit Card,920.38,Moda,1.17,Maringá,PR,Website
-O0454,CUS0300,2026-02-12,2026-02-21,Pix,1186.16,Beleza,0.21,Brasília,DF,App
-O0455,CUS0100,2026-03-16,2026-03-21,Credit Card,2175.36,Mercado,6.34,Vitória,ES,Website
-O0456,CUS0103,2026-01-07,2026-01-13,Pix,1052.46,Beleza,0.61,São Paulo,SP,Website
-O0457,CUS0042,2026-02-10,2026-02-16,Bank Slip,864.88,Moda,1.48,Rio de Janeiro,RJ,Website
-O0458,CUS0141,2026-01-08,2026-01-12,Debit Card,1914.9,Mercado,3.36,Vitória,ES,App
-O0459,CUS0223,2026-01-12,2026-01-18,Bank Slip,1038.25,Beleza,0.97,Goiânia,GO,Website
-O0460,CUS0192,2026-01-05,2026-01-17,Credit Card,2235.4,Eletrônicos,3.91,Campinas,SP,Marketplace
-O0461,CUS0128,2026-01-03,2026-01-07,Debit Card,1749.1,Moda,0.65,Maringá,PR,App
-O0462,CUS0157,2026-02-19,2026-03-03,Debit Card,209.86,Eletrônicos,0.71,Goiânia,GO,Website
-O0463,CUS0223,2026-03-08,2026-03-20,Debit Card,889.63,Beleza,0.91,Porto Alegre,RS,Website
-O0464,CUS0117,2026-01-22,2026-02-01,Debit Card,1831.54,Moda,0.37,Uberlândia,MG,Marketplace
-O0465,CUS0064,2026-03-17,2026-03-29,Pix,1792.19,Eletrônicos,4.06,São Paulo,SP,Website
-O0466,CUS0025,2026-02-02,2026-02-14,Credit Card,1671.79,Mercado,10.15,Goiânia,GO,App
-O0467,CUS0228,2026-03-30,2026-04-04,Bank Slip,352.72,Eletrônicos,1.64,Joinville,SC,Marketplace
-O0468,CUS0216,2026-01-27,2026-01-31,Credit Card,1673.05,Moda,0.55,Brasília,DF,Marketplace
-O0469,CUS0054,2026-01-18,2026-01-28,Credit Card,742.56,Mercado,11.99,Florianópolis,SC,Website
-O0470,CUS0135,2026-03-19,2026-03-26,Debit Card,926.84,Moda,0.73,Rio de Janeiro,RJ,App
-O0471,CUS0107,2026-03-12,2026-03-23,Bank Slip,859.91,Eletrônicos,0.51,Curitiba,PR,Marketplace
-O0472,CUS0047,2026-01-15,2026-01-26,Credit Card,1822.7,Eletrônicos,0.96,São Paulo,SP,Website
-O0473,CUS0136,2026-01-30,2026-02-10,Bank Slip,172.6,Mercado,12.38,Brasília,DF,App
-O0474,CUS0060,2026-02-16,2026-02-25,Credit Card,2135.54,Casa,26.93,Joinville,SC,App
-O0475,CUS0184,2026-03-26,2026-04-01,Bank Slip,2389.96,Moda,0.55,Porto Alegre,RS,Marketplace
-O0476,CUS0059,2026-02-17,2026-02-26,Bank Slip,1030.55,Eletrônicos,2.55,São Paulo,SP,Website
-O0477,CUS0086,2026-03-03,2026-03-13,Credit Card,374.57,Mercado,11.17,Maringá,PR,App
-O0478,CUS0292,2026-02-23,2026-03-06,Bank Slip,494.01,Eletrônicos,2.21,Rio de Janeiro,RJ,Website
-O0479,CUS0250,2026-01-04,2026-01-10,Credit Card,2224.59,Esporte,4.69,Vitória,ES,App
-O0480,CUS0348,2026-03-25,2026-04-03,Debit Card,2445.84,Casa,20.76,Uberlândia,MG,Website
-O0481,CUS0339,2026-03-08,2026-03-13,Debit Card,1230.68,Esporte,6.81,Joinville,SC,Marketplace
-O0482,CUS0314,2026-01-20,2026-02-01,Credit Card,78.43,Beleza,0.94,Curitiba,PR,Marketplace
-O0483,CUS0252,2026-03-05,2026-03-11,Pix,640.11,Beleza,0.97,Belo Horizonte,MG,App
-O0484,CUS0194,2026-01-29,2026-02-10,Bank Slip,2051.88,Esporte,1.25,Maringá,PR,Website
-O0485,CUS0256,2026-02-27,2026-03-04,Bank Slip,824.28,Esporte,9.82,Florianópolis,SC,Marketplace
-O0486,CUS0212,2026-01-03,2026-01-08,Credit Card,1414.93,Mercado,1.0,Joinville,SC,App
-O0487,CUS0261,2026-03-21,2026-03-29,Debit Card,1653.73,Esporte,4.83,Curitiba,PR,Website
-O0488,CUS0233,2026-01-07,2026-01-14,Pix,1422.33,Casa,19.35,Florianópolis,SC,Website
-O0489,CUS0232,2026-03-26,2026-04-04,Credit Card,288.63,Mercado,10.22,Londrina,PR,App
-O0490,CUS0268,2026-02-15,2026-02-23,Pix,1770.11,Casa,3.28,Cuiabá,MT,App
-O0491,CUS0131,2026-01-18,2026-01-28,Debit Card,509.4,Beleza,0.94,Belo Horizonte,MG,Website
-O0492,CUS0174,2026-02-28,2026-03-07,Credit Card,1904.99,Moda,0.26,Londrina,PR,Marketplace
-O0493,CUS0231,2026-03-17,2026-03-22,Bank Slip,1663.18,Mercado,14.39,Rio de Janeiro,RJ,App
-O0494,CUS0025,2026-01-01,2026-01-13,Bank Slip,2105.08,Beleza,0.53,Londrina,PR,Marketplace
-O0495,CUS0066,2026-03-30,2026-04-05,Credit Card,999.08,Moda,0.98,Londrina,PR,Website
-O0496,CUS0128,2026-02-19,2026-03-01,Pix,1024.72,Esporte,3.76,Goiânia,GO,Website
-O0497,CUS0309,2026-01-18,2026-01-24,Pix,2115.52,Beleza,0.59,Joinville,SC,Website
-O0498,CUS0108,2026-03-12,2026-03-19,Pix,1732.17,Mercado,13.9,Campinas,SP,App
-O0499,CUS0278,2026-03-25,2026-03-31,Pix,1790.34,Mercado,11.65,Cuiabá,MT,Marketplace
-O0500,CUS0274,2026-03-16,2026-03-26,Pix,2199.81,Beleza,0.48,Maringá,PR,App
-O0501,CUS0075,2026-01-14,2026-01-18,Credit Card,1692.09,Esporte,2.4,Joinville,SC,App
-O0502,CUS0032,2026-03-29,2026-04-06,Pix,549.72,Casa,17.15,São Paulo,SP,Website
-O0503,CUS0115,2026-01-14,2026-01-26,Bank Slip,632.03,Beleza,0.81,Florianópolis,SC,Marketplace
-O0504,CUS0196,2026-03-30,2026-04-03,Bank Slip,1070.53,Casa,24.07,Curitiba,PR,Marketplace
-O0505,CUS0129,2026-03-12,2026-03-16,Debit Card,1570.34,Casa,23.87,Uberlândia,MG,Website
-O0506,CUS0302,2026-03-23,2026-04-01,Debit Card,1951.54,Moda,1.45,Rio de Janeiro,RJ,Website
-O0507,CUS0089,2026-01-23,2026-01-28,Credit Card,974.07,Beleza,0.49,São Paulo,SP,Marketplace
-O0508,CUS0131,2026-01-17,2026-01-23,Credit Card,859.81,Casa,21.87,Goiânia,GO,App
-O0509,CUS0027,2026-01-20,2026-01-29,Pix,1251.8,Eletrônicos,3.08,Goiânia,GO,Website
-O0510,CUS0095,2026-02-10,2026-02-22,Credit Card,1976.31,Eletrônicos,1.22,Campinas,SP,Marketplace
-O0511,CUS0114,2026-02-21,2026-02-26,Debit Card,1675.14,Esporte,3.65,Porto Alegre,RS,Website
-O0512,CUS0288,2026-03-21,2026-04-02,Credit Card,330.98,Moda,0.65,Vitória,ES,App
-O0513,CUS0350,2026-03-20,2026-03-27,Pix,984.3,Mercado,12.15,Uberlândia,MG,App
-O0514,CUS0145,2026-02-02,2026-02-14,Credit Card,2282.76,Beleza,0.84,Londrina,PR,Website
-O0515,CUS0023,2026-03-07,2026-03-18,Pix,2250.78,Esporte,2.33,Vitória,ES,Marketplace
-O0516,CUS0276,2026-01-13,2026-01-19,Credit Card,1585.95,Eletrônicos,1.45,Rio de Janeiro,RJ,Marketplace
-O0517,CUS0054,2026-03-29,2026-04-08,Debit Card,1367.45,Moda,1.11,Florianópolis,SC,Marketplace
-O0518,CUS0079,2026-03-24,2026-03-29,Credit Card,1175.05,Beleza,0.4,Londrina,PR,App
-O0519,CUS0129,2026-01-07,2026-01-13,Credit Card,1458.62,Eletrônicos,1.52,Rio de Janeiro,RJ,Website
-O0520,CUS0208,2026-02-19,2026-03-02,Bank Slip,825.12,Beleza,0.45,Maringá,PR,App
-O0521,CUS0300,2026-01-01,2026-01-06,Credit Card,1767.13,Esporte,1.19,Rio de Janeiro,RJ,Marketplace
-O0522,CUS0045,2026-02-07,2026-02-15,Pix,1924.9,Eletrônicos,2.47,Goiânia,GO,Website
-O0523,CUS0274,2026-01-04,2026-01-15,Debit Card,384.05,Mercado,6.47,São Paulo,SP,Marketplace
-O0524,CUS0347,2026-03-23,2026-03-29,Pix,2395.61,Casa,2.31,Brasília,DF,Marketplace
-O0525,CUS0294,2026-01-16,2026-01-20,Bank Slip,1365.98,Moda,1.43,Uberlândia,MG,Website
-O0526,CUS0331,2026-02-14,2026-02-21,Debit Card,444.25,Moda,0.49,Joinville,SC,Website
-O0527,CUS0291,2026-01-15,2026-01-21,Credit Card,2135.89,Moda,1.41,Maringá,PR,Marketplace
-O0528,CUS0149,2026-03-24,2026-04-05,Credit Card,664.11,Beleza,0.28,Belo Horizonte,MG,Marketplace
-O0529,CUS0344,2026-02-12,2026-02-21,Debit Card,295.02,Beleza,0.66,São Paulo,SP,App
-O0530,CUS0316,2026-03-04,2026-03-15,Pix,1748.94,Casa,6.27,Porto Alegre,RS,Marketplace
-O0531,CUS0003,2026-02-10,2026-02-20,Pix,653.05,Casa,8.2,São Paulo,SP,Marketplace
-O0532,CUS0185,2026-02-25,2026-03-05,Debit Card,1714.94,Mercado,5.64,Florianópolis,SC,Website
-O0533,CUS0157,2026-02-27,2026-03-08,Bank Slip,1401.55,Beleza,0.26,Rio de Janeiro,RJ,Marketplace
-O0534,CUS0276,2026-02-05,2026-02-11,Debit Card,694.85,Eletrônicos,4.49,Curitiba,PR,App
-O0535,CUS0260,2026-01-10,2026-01-14,Credit Card,2040.96,Mercado,9.1,Florianópolis,SC,Marketplace
-O0536,CUS0279,2026-01-05,2026-01-17,Bank Slip,1652.04,Moda,0.39,Brasília,DF,Website
-O0537,CUS0238,2026-03-17,2026-03-25,Credit Card,1022.06,Moda,0.85,São Paulo,SP,Marketplace
-O0538,CUS0264,2026-03-20,2026-03-26,Debit Card,1143.18,Moda,0.43,Rio de Janeiro,RJ,Marketplace
-O0539,CUS0021,2026-01-19,2026-01-30,Debit Card,1915.58,Mercado,4.24,Porto Alegre,RS,Website
-O0540,CUS0106,2026-01-30,2026-02-03,Pix,1000.77,Casa,27.7,Maringá,PR,App
-O0541,CUS0267,2026-03-25,2026-04-03,Pix,2095.42,Eletrônicos,1.68,Belo Horizonte,MG,Marketplace
-O0542,CUS0194,2026-01-23,2026-02-02,Pix,1489.77,Esporte,9.03,Maringá,PR,App
-O0543,CUS0115,2026-02-02,2026-02-12,Bank Slip,914.54,Esporte,8.74,Curitiba,PR,Website
-O0544,CUS0072,2026-03-19,2026-03-23,Bank Slip,455.65,Beleza,0.17,Cuiabá,MT,Marketplace
-O0545,CUS0081,2026-01-28,2026-02-03,Pix,1524.91,Casa,24.87,São Paulo,SP,Marketplace
-O0546,CUS0059,2026-02-23,2026-03-04,Bank Slip,1704.28,Moda,0.82,Londrina,PR,Marketplace
-O0547,CUS0125,2026-03-24,2026-04-03,Credit Card,363.23,Moda,0.97,Uberlândia,MG,App
-O0548,CUS0294,2026-03-07,2026-03-11,Debit Card,186.89,Mercado,4.62,Curitiba,PR,App
-O0549,CUS0339,2026-02-21,2026-02-25,Pix,2370.77,Esporte,2.56,Curitiba,PR,Marketplace
-O0550,CUS0211,2026-03-03,2026-03-09,Debit Card,1996.79,Beleza,0.84,Campinas,SP,App
-O0551,CUS0086,2026-03-26,2026-04-07,Pix,2309.75,Esporte,6.17,Brasília,DF,App
-O0552,CUS0056,2026-02-18,2026-02-28,Credit Card,545.67,Moda,1.32,São Paulo,SP,Marketplace
-O0553,CUS0050,2026-02-23,2026-03-01,Debit Card,1215.83,Mercado,9.61,Goiânia,GO,App
-O0554,CUS0247,2026-03-06,2026-03-11,Debit Card,2259.85,Esporte,5.62,Belo Horizonte,MG,App
-O0555,CUS0216,2026-03-25,2026-04-04,Pix,2193.31,Mercado,10.77,Cuiabá,MT,Website
-O0556,CUS0302,2026-03-03,2026-03-13,Credit Card,1092.39,Moda,0.53,Porto Alegre,RS,App
-O0557,CUS0132,2026-02-06,2026-02-18,Debit Card,63.3,Eletrônicos,3.85,Joinville,SC,App
-O0558,CUS0004,2026-03-08,2026-03-13,Bank Slip,1653.6,Esporte,7.03,Cuiabá,MT,Website
-O0559,CUS0219,2026-02-16,2026-02-21,Pix,690.12,Beleza,0.58,São Paulo,SP,Marketplace
-O0560,CUS0204,2026-03-20,2026-03-28,Debit Card,1062.35,Casa,23.95,Maringá,PR,Website
-O0561,CUS0248,2026-02-17,2026-03-01,Pix,2471.84,Moda,0.95,Cuiabá,MT,Marketplace
-O0562,CUS0118,2026-01-18,2026-01-23,Bank Slip,1968.6,Beleza,0.95,Londrina,PR,App
-O0563,CUS0174,2026-03-07,2026-03-17,Credit Card,443.72,Moda,1.45,Rio de Janeiro,RJ,App
-O0564,CUS0308,2026-01-19,2026-01-30,Bank Slip,265.85,Eletrônicos,1.68,Curitiba,PR,Website
-O0565,CUS0197,2026-03-19,2026-03-23,Bank Slip,1554.18,Eletrônicos,2.84,Londrina,PR,Marketplace
-O0566,CUS0254,2026-01-08,2026-01-14,Bank Slip,76.14,Esporte,8.58,Maringá,PR,Marketplace
-O0567,CUS0307,2026-01-25,2026-01-29,Debit Card,1557.18,Casa,20.87,Rio de Janeiro,RJ,Website
-O0568,CUS0045,2026-03-25,2026-03-29,Pix,1960.18,Moda,0.66,São Paulo,SP,Website
-O0569,CUS0008,2026-03-17,2026-03-24,Credit Card,2301.98,Beleza,0.59,Cuiabá,MT,Marketplace
-O0570,CUS0142,2026-03-16,2026-03-25,Debit Card,1535.55,Esporte,2.35,Porto Alegre,RS,Website
-O0571,CUS0209,2026-01-01,2026-01-09,Credit Card,1418.6,Esporte,5.28,São Paulo,SP,Website
-O0572,CUS0276,2026-03-07,2026-03-15,Pix,1750.74,Eletrônicos,4.85,Curitiba,PR,Marketplace
-O0573,CUS0235,2026-02-01,2026-02-10,Bank Slip,2246.47,Beleza,0.88,Rio de Janeiro,RJ,Website
-O0574,CUS0325,2026-02-03,2026-02-08,Debit Card,1708.4,Eletrônicos,1.53,Joinville,SC,Website
-O0575,CUS0005,2026-02-15,2026-02-27,Pix,658.16,Beleza,0.18,Cuiabá,MT,Marketplace
-O0576,CUS0092,2026-02-13,2026-02-18,Bank Slip,818.92,Mercado,4.06,Cuiabá,MT,Marketplace
-O0577,CUS0103,2026-01-24,2026-01-31,Debit Card,1851.77,Casa,26.44,Vitória,ES,App
-O0578,CUS0317,2026-01-26,2026-02-02,Pix,432.1,Moda,0.34,Florianópolis,SC,App
-O0579,CUS0004,2026-03-26,2026-04-06,Credit Card,2127.61,Mercado,6.2,Goiânia,GO,Website
-O0580,CUS0094,2026-03-15,2026-03-23,Pix,1024.74,Beleza,0.78,Vitória,ES,App
-O0581,CUS0277,2026-03-09,2026-03-19,Credit Card,1281.01,Eletrônicos,2.27,Vitória,ES,Marketplace
-O0582,CUS0266,2026-02-28,2026-03-05,Bank Slip,823.28,Moda,0.21,Londrina,PR,Marketplace
-O0583,CUS0186,2026-02-18,2026-02-23,Pix,508.44,Moda,0.54,Porto Alegre,RS,Website
-O0584,CUS0095,2026-03-20,2026-03-29,Bank Slip,1088.6,Beleza,0.48,Porto Alegre,RS,Website
-O0585,CUS0093,2026-02-21,2026-03-01,Debit Card,2449.22,Casa,21.21,Vitória,ES,App
-O0586,CUS0222,2026-02-04,2026-02-11,Bank Slip,530.27,Mercado,12.2,Cuiabá,MT,Marketplace
-O0587,CUS0216,2026-03-02,2026-03-06,Bank Slip,379.37,Moda,1.36,São Paulo,SP,Marketplace
-O0588,CUS0250,2026-03-10,2026-03-19,Pix,664.81,Esporte,8.66,Rio de Janeiro,RJ,App
-O0589,CUS0111,2026-01-13,2026-01-19,Pix,1217.47,Beleza,0.67,Uberlândia,MG,Website
-O0590,CUS0185,2026-02-12,2026-02-20,Pix,893.08,Mercado,6.76,Porto Alegre,RS,Website
-O0591,CUS0295,2026-03-19,2026-03-26,Debit Card,2449.46,Mercado,4.98,Goiânia,GO,Website
-O0592,CUS0229,2026-03-07,2026-03-18,Credit Card,983.56,Mercado,5.01,Rio de Janeiro,RJ,Marketplace
-O0593,CUS0324,2026-01-22,2026-01-31,Bank Slip,2129.79,Moda,0.29,Joinville,SC,App
-O0594,CUS0335,2026-01-30,2026-02-08,Pix,1790.53,Casa,18.95,Porto Alegre,RS,Website
-O0595,CUS0301,2026-02-26,2026-03-07,Bank Slip,1064.21,Casa,7.15,Londrina,PR,App
-O0596,CUS0041,2026-01-31,2026-02-08,Debit Card,458.85,Moda,0.33,Londrina,PR,App
-O0597,CUS0204,2026-03-12,2026-03-16,Credit Card,304.53,Beleza,0.66,Uberlândia,MG,App
-O0598,CUS0127,2026-02-19,2026-02-27,Pix,1135.69,Mercado,2.77,Campinas,SP,Marketplace
-O0599,CUS0183,2026-01-04,2026-01-08,Pix,2167.38,Moda,0.81,Maringá,PR,Marketplace
-O0600,CUS0277,2026-03-12,2026-03-23,Debit Card,1497.49,Casa,14.78,São Paulo,SP,Marketplace
-O0601,CUS0328,2026-03-14,2026-03-24,Pix,2276.85,Mercado,7.74,Cuiabá,MT,App
-O0602,CUS0212,2026-02-26,2026-03-06,Pix,431.42,Eletrônicos,0.55,Porto Alegre,RS,Marketplace
-O0603,CUS0274,2026-02-14,2026-02-22,Credit Card,1735.01,Moda,0.84,Vitória,ES,Website
-O0604,CUS0150,2026-01-02,2026-01-12,Debit Card,2002.06,Casa,17.35,Rio de Janeiro,RJ,App
-O0605,CUS0128,2026-03-13,2026-03-23,Debit Card,1801.57,Beleza,0.68,Joinville,SC,Website
-O0606,CUS0321,2026-02-03,2026-02-08,Debit Card,1315.65,Moda,1.24,Joinville,SC,Marketplace
-O0607,CUS0333,2026-03-29,2026-04-06,Pix,1061.56,Mercado,12.95,Brasília,DF,App
-O0608,CUS0234,2026-02-07,2026-02-12,Bank Slip,716.66,Moda,1.01,Maringá,PR,App
-O0609,CUS0274,2026-01-03,2026-01-09,Credit Card,505.47,Casa,4.86,Uberlândia,MG,Website
-O0610,CUS0047,2026-02-26,2026-03-02,Debit Card,85.98,Moda,0.48,Campinas,SP,Website
-O0611,CUS0017,2026-03-05,2026-03-14,Pix,246.45,Casa,23.02,Vitória,ES,App
-O0612,CUS0279,2026-02-04,2026-02-14,Bank Slip,494.85,Eletrônicos,4.53,Belo Horizonte,MG,Website
-O0613,CUS0128,2026-01-02,2026-01-07,Bank Slip,1939.48,Beleza,0.5,Rio de Janeiro,RJ,Marketplace
-O0614,CUS0049,2026-01-26,2026-02-06,Debit Card,1208.37,Eletrônicos,3.57,Londrina,PR,Website
-O0615,CUS0282,2026-01-21,2026-01-25,Credit Card,670.54,Casa,19.88,Londrina,PR,App
-O0616,CUS0121,2026-01-07,2026-01-14,Bank Slip,844.99,Casa,6.69,Belo Horizonte,MG,Website
-O0617,CUS0125,2026-01-16,2026-01-26,Credit Card,2423.64,Esporte,6.02,Rio de Janeiro,RJ,Marketplace
-O0618,CUS0046,2026-03-30,2026-04-05,Debit Card,436.28,Beleza,0.18,Porto Alegre,RS,Marketplace
-O0619,CUS0183,2026-03-22,2026-03-26,Debit Card,1768.22,Casa,24.16,Uberlândia,MG,App
-O0620,CUS0331,2026-01-30,2026-02-08,Pix,2023.52,Beleza,0.49,Cuiabá,MT,App
-O0621,CUS0069,2026-03-30,2026-04-09,Pix,2251.71,Eletrônicos,2.68,Porto Alegre,RS,Website
-O0622,CUS0251,2026-02-07,2026-02-19,Debit Card,1438.38,Esporte,5.66,Londrina,PR,Website
-O0623,CUS0307,2026-03-01,2026-03-09,Debit Card,218.65,Mercado,3.17,Florianópolis,SC,Website
-O0624,CUS0001,2026-03-11,2026-03-20,Bank Slip,1847.43,Casa,26.72,Vitória,ES,Marketplace
-O0625,CUS0033,2026-03-21,2026-03-28,Bank Slip,515.1,Casa,21.13,Porto Alegre,RS,Marketplace
-O0626,CUS0210,2026-03-20,2026-03-28,Pix,320.55,Moda,0.88,Porto Alegre,RS,App
-O0627,CUS0017,2026-01-17,2026-01-23,Debit Card,312.2,Eletrônicos,1.36,Florianópolis,SC,App
-O0628,CUS0251,2026-03-24,2026-04-03,Pix,170.16,Esporte,2.6,Maringá,PR,Marketplace
-O0629,CUS0252,2026-01-02,2026-01-09,Credit Card,1196.69,Eletrônicos,3.38,Maringá,PR,Website
-O0630,CUS0030,2026-02-23,2026-03-04,Pix,1346.05,Esporte,7.48,Rio de Janeiro,RJ,Website
-O0631,CUS0052,2026-01-28,2026-02-09,Debit Card,1352.52,Eletrônicos,1.35,Belo Horizonte,MG,Marketplace
-O0632,CUS0286,2026-02-01,2026-02-07,Bank Slip,1877.94,Mercado,11.73,Cuiabá,MT,Marketplace
-O0633,CUS0341,2026-03-28,2026-04-08,Bank Slip,2212.91,Casa,6.67,Londrina,PR,App
-O0634,CUS0337,2026-02-21,2026-03-05,Debit Card,1358.01,Esporte,6.2,Porto Alegre,RS,Website
-O0635,CUS0191,2026-03-12,2026-03-21,Bank Slip,1922.23,Casa,14.06,Florianópolis,SC,Marketplace
-O0636,CUS0280,2026-03-19,2026-03-26,Debit Card,968.84,Casa,17.41,Goiânia,GO,Marketplace
-O0637,CUS0204,2026-02-16,2026-02-27,Credit Card,1829.44,Casa,29.52,Vitória,ES,Marketplace
-O0638,CUS0155,2026-03-08,2026-03-14,Credit Card,785.75,Eletrônicos,1.5,Curitiba,PR,Website
-O0639,CUS0284,2026-03-30,2026-04-07,Debit Card,280.91,Eletrônicos,2.57,Curitiba,PR,App
-O0640,CUS0299,2026-02-03,2026-02-12,Debit Card,620.76,Moda,1.25,Curitiba,PR,App
-O0641,CUS0040,2026-02-21,2026-02-28,Pix,1992.59,Esporte,2.14,Londrina,PR,Marketplace
-O0642,CUS0329,2026-03-15,2026-03-20,Pix,141.46,Mercado,12.32,Goiânia,GO,Website
-O0643,CUS0223,2026-01-08,2026-01-17,Bank Slip,2329.1,Eletrônicos,1.04,Porto Alegre,RS,App
-O0644,CUS0324,2026-03-25,2026-03-29,Bank Slip,182.52,Mercado,8.34,Maringá,PR,Website
-O0645,CUS0258,2026-03-14,2026-03-20,Debit Card,425.25,Esporte,6.9,Porto Alegre,RS,Website
-O0646,CUS0114,2026-03-18,2026-03-30,Bank Slip,759.9,Beleza,0.45,Belo Horizonte,MG,App
-O0647,CUS0026,2026-01-11,2026-01-22,Bank Slip,693.19,Casa,13.16,Goiânia,GO,Website
-O0648,CUS0287,2026-01-17,2026-01-23,Debit Card,1245.21,Mercado,10.13,Vitória,ES,App
-O0649,CUS0125,2026-03-20,2026-04-01,Credit Card,702.26,Esporte,4.59,Campinas,SP,Marketplace
-O0650,CUS0212,2026-01-12,2026-01-17,Bank Slip,944.84,Esporte,2.31,Maringá,PR,Website
-O0651,CUS0157,2026-03-25,2026-03-29,Debit Card,2469.75,Esporte,6.35,Rio de Janeiro,RJ,Website
-O0652,CUS0120,2026-01-19,2026-01-30,Debit Card,1729.1,Esporte,1.98,Uberlândia,MG,Marketplace
-O0653,CUS0318,2026-01-15,2026-01-19,Debit Card,2178.43,Eletrônicos,4.19,Campinas,SP,App
-O0654,CUS0231,2026-03-30,2026-04-04,Bank Slip,105.64,Casa,7.85,Brasília,DF,Marketplace
-O0655,CUS0133,2026-01-27,2026-02-08,Bank Slip,1576.42,Moda,1.49,Cuiabá,MT,Marketplace
-O0656,CUS0299,2026-03-27,2026-03-31,Credit Card,675.79,Mercado,1.84,Joinville,SC,App
-O0657,CUS0239,2026-03-21,2026-03-29,Credit Card,213.07,Mercado,10.25,Uberlândia,MG,Marketplace
-O0658,CUS0150,2026-02-16,2026-02-21,Bank Slip,616.29,Mercado,6.33,Uberlândia,MG,Marketplace
-O0659,CUS0306,2026-02-10,2026-02-21,Credit Card,506.64,Eletrônicos,2.75,Florianópolis,SC,Website
-O0660,CUS0272,2026-01-03,2026-01-07,Pix,867.18,Esporte,4.24,Campinas,SP,App
-O0661,CUS0321,2026-02-14,2026-02-23,Pix,628.63,Eletrônicos,4.9,Porto Alegre,RS,Marketplace
-O0662,CUS0199,2026-01-08,2026-01-16,Credit Card,2363.13,Casa,28.58,Curitiba,PR,App
-O0663,CUS0071,2026-02-13,2026-02-23,Credit Card,1838.2,Moda,0.88,Maringá,PR,Marketplace
-O0664,CUS0124,2026-03-22,2026-03-29,Debit Card,1094.78,Esporte,3.47,Joinville,SC,Marketplace
-O0665,CUS0106,2026-02-27,2026-03-11,Debit Card,1473.48,Casa,21.15,São Paulo,SP,App
-O0666,CUS0070,2026-02-09,2026-02-21,Bank Slip,2489.43,Moda,1.47,Curitiba,PR,App
-O0667,CUS0035,2026-03-14,2026-03-20,Credit Card,501.05,Mercado,12.75,Porto Alegre,RS,App
-O0668,CUS0212,2026-01-04,2026-01-13,Bank Slip,793.13,Mercado,11.44,Curitiba,PR,Marketplace
-O0669,CUS0097,2026-02-05,2026-02-11,Credit Card,372.2,Mercado,1.37,Rio de Janeiro,RJ,Marketplace
-O0670,CUS0119,2026-02-04,2026-02-11,Debit Card,1734.04,Esporte,3.91,Goiânia,GO,Marketplace
-O0671,CUS0310,2026-01-18,2026-01-30,Bank Slip,1794.42,Beleza,0.44,Florianópolis,SC,Website
-O0672,CUS0099,2026-03-02,2026-03-08,Debit Card,128.87,Beleza,0.79,São Paulo,SP,App
-O0673,CUS0344,2026-02-22,2026-03-01,Debit Card,1906.53,Casa,3.85,Londrina,PR,Website
-O0674,CUS0235,2026-03-04,2026-03-13,Debit Card,1097.45,Esporte,7.87,Florianópolis,SC,Marketplace
-O0675,CUS0314,2026-02-18,2026-02-27,Credit Card,1325.54,Mercado,7.32,Joinville,SC,App
-O0676,CUS0021,2026-03-08,2026-03-20,Bank Slip,1314.46,Moda,1.02,Joinville,SC,App
-O0677,CUS0156,2026-02-07,2026-02-18,Pix,1180.25,Moda,0.75,Joinville,SC,Marketplace
-O0678,CUS0073,2026-03-30,2026-04-11,Bank Slip,2083.22,Eletrônicos,2.53,Curitiba,PR,Marketplace
-O0679,CUS0300,2026-01-15,2026-01-21,Debit Card,1012.95,Esporte,3.57,Rio de Janeiro,RJ,App
-O0680,CUS0233,2026-02-28,2026-03-07,Credit Card,662.63,Moda,1.1,Curitiba,PR,Marketplace
-O0681,CUS0231,2026-01-16,2026-01-21,Pix,258.91,Moda,1.12,Belo Horizonte,MG,Marketplace
-O0682,CUS0282,2026-03-20,2026-03-26,Bank Slip,157.47,Esporte,2.12,Joinville,SC,Website
-O0683,CUS0075,2026-03-26,2026-04-01,Debit Card,1934.41,Esporte,0.99,São Paulo,SP,Website
-O0684,CUS0093,2026-02-27,2026-03-07,Credit Card,2251.42,Casa,28.89,Maringá,PR,App
-O0685,CUS0255,2026-02-02,2026-02-06,Bank Slip,1381.53,Esporte,0.55,Vitória,ES,Website
-O0686,CUS0210,2026-01-28,2026-02-08,Bank Slip,244.45,Moda,0.98,Vitória,ES,App
-O0687,CUS0107,2026-02-05,2026-02-17,Credit Card,502.78,Esporte,1.02,Florianópolis,SC,Website
-O0688,CUS0296,2026-01-19,2026-01-23,Pix,861.16,Eletrônicos,0.89,Maringá,PR,App
-O0689,CUS0146,2026-01-23,2026-01-29,Debit Card,2417.42,Beleza,0.77,Maringá,PR,Website
-O0690,CUS0189,2026-01-12,2026-01-20,Bank Slip,2059.63,Eletrônicos,3.91,Porto Alegre,RS,Marketplace
-O0691,CUS0063,2026-02-07,2026-02-18,Pix,856.49,Eletrônicos,2.36,São Paulo,SP,App
-O0692,CUS0293,2026-01-27,2026-01-31,Credit Card,1234.92,Mercado,10.64,Belo Horizonte,MG,Marketplace
-O0693,CUS0270,2026-02-24,2026-03-05,Pix,2321.4,Casa,19.2,Brasília,DF,Website
-O0694,CUS0093,2026-03-22,2026-04-02,Debit Card,1786.01,Esporte,9.8,Vitória,ES,App
-O0695,CUS0061,2026-01-04,2026-01-15,Debit Card,2008.91,Eletrônicos,5.0,Maringá,PR,Website
-O0696,CUS0327,2026-02-12,2026-02-21,Debit Card,77.58,Eletrônicos,1.41,Cuiabá,MT,Website
-O0697,CUS0260,2026-01-09,2026-01-17,Pix,1929.21,Casa,5.19,Brasília,DF,Website
-O0698,CUS0090,2026-02-20,2026-02-24,Debit Card,859.69,Casa,11.46,Florianópolis,SC,Marketplace
-O0699,CUS0070,2026-03-02,2026-03-06,Bank Slip,430.61,Beleza,0.51,Maringá,PR,Marketplace
-O0700,CUS0029,2026-03-01,2026-03-11,Pix,1434.07,Casa,20.99,Curitiba,PR,Marketplace
-O0701,CUS0170,2026-01-03,2026-01-10,Pix,212.13,Esporte,1.92,Goiânia,GO,App
-O0702,CUS0085,2026-02-18,2026-03-02,Bank Slip,509.0,Casa,5.27,Florianópolis,SC,Website
-O0703,CUS0212,2026-02-10,2026-02-14,Credit Card,1267.73,Mercado,4.33,Brasília,DF,Website
-O0704,CUS0090,2026-01-28,2026-02-09,Credit Card,966.77,Casa,3.05,Brasília,DF,App
-O0705,CUS0248,2026-02-26,2026-03-10,Debit Card,515.94,Eletrônicos,4.66,Uberlândia,MG,Marketplace
-O0706,CUS0051,2026-02-09,2026-02-18,Debit Card,552.63,Esporte,0.85,São Paulo,SP,Website
-O0707,CUS0160,2026-03-08,2026-03-13,Credit Card,1733.25,Mercado,9.32,Uberlândia,MG,App
-O0708,CUS0267,2026-03-01,2026-03-05,Pix,104.98,Casa,23.24,Belo Horizonte,MG,Marketplace
-O0709,CUS0147,2026-02-11,2026-02-18,Pix,1354.03,Moda,1.2,Campinas,SP,Marketplace
-O0710,CUS0141,2026-02-04,2026-02-10,Credit Card,87.28,Eletrônicos,3.3,São Paulo,SP,Marketplace
-O0711,CUS0282,2026-01-27,2026-02-08,Pix,714.0,Eletrônicos,4.74,Porto Alegre,RS,Website
-O0712,CUS0160,2026-02-01,2026-02-07,Pix,1374.37,Esporte,0.98,Belo Horizonte,MG,App
-O0713,CUS0197,2026-03-28,2026-04-01,Credit Card,260.9,Beleza,0.45,Belo Horizonte,MG,Marketplace
-O0714,CUS0183,2026-03-17,2026-03-28,Pix,864.15,Esporte,2.38,Goiânia,GO,Marketplace
-O0715,CUS0068,2026-01-11,2026-01-22,Credit Card,2041.47,Esporte,9.24,Goiânia,GO,Website
-O0716,CUS0330,2026-02-28,2026-03-08,Bank Slip,1202.78,Eletrônicos,4.76,Maringá,PR,App
-O0717,CUS0094,2026-02-03,2026-02-12,Pix,1982.49,Esporte,8.88,Joinville,SC,Website
-O0718,CUS0058,2026-01-04,2026-01-09,Pix,1222.65,Beleza,0.86,Vitória,ES,Website
-O0719,CUS0053,2026-03-19,2026-03-25,Bank Slip,2052.99,Casa,24.31,Cuiabá,MT,Website
-O0720,CUS0155,2026-03-25,2026-03-30,Bank Slip,1031.94,Esporte,4.43,Rio de Janeiro,RJ,Marketplace
-O0721,CUS0197,2026-03-12,2026-03-18,Credit Card,884.68,Moda,1.26,Vitória,ES,Marketplace
-O0722,CUS0121,2026-02-25,2026-03-06,Debit Card,1673.37,Beleza,0.17,Cuiabá,MT,Marketplace
-O0723,CUS0306,2026-03-04,2026-03-09,Bank Slip,847.11,Esporte,1.43,Goiânia,GO,Website
-O0724,CUS0307,2026-02-09,2026-02-19,Credit Card,1729.46,Moda,0.98,Belo Horizonte,MG,Website
-O0725,CUS0112,2026-03-05,2026-03-09,Debit Card,2223.78,Casa,27.29,Belo Horizonte,MG,Marketplace
-O0726,CUS0273,2026-01-19,2026-01-25,Pix,1005.4,Eletrônicos,3.1,Vitória,ES,App
-O0727,CUS0292,2026-03-29,2026-04-07,Pix,2300.32,Moda,1.42,Brasília,DF,Marketplace
-O0728,CUS0262,2026-01-12,2026-01-16,Bank Slip,2126.69,Casa,25.87,Goiânia,GO,App
-O0729,CUS0287,2026-03-12,2026-03-16,Pix,318.67,Casa,9.9,Uberlândia,MG,App
-O0730,CUS0163,2026-02-25,2026-03-07,Bank Slip,1044.72,Moda,0.77,Maringá,PR,App
-O0731,CUS0097,2026-01-23,2026-02-03,Bank Slip,2116.14,Mercado,6.04,São Paulo,SP,Website
-O0732,CUS0006,2026-02-06,2026-02-12,Credit Card,1638.52,Moda,0.39,São Paulo,SP,Website
-O0733,CUS0071,2026-02-25,2026-03-03,Bank Slip,2157.36,Mercado,13.51,Belo Horizonte,MG,Marketplace
-O0734,CUS0261,2026-02-24,2026-03-02,Bank Slip,1402.48,Esporte,4.78,Vitória,ES,Website
-O0735,CUS0004,2026-01-24,2026-02-03,Bank Slip,2124.65,Moda,0.51,Goiânia,GO,Marketplace
-O0736,CUS0188,2026-02-22,2026-03-06,Credit Card,2446.67,Casa,17.91,Goiânia,GO,Marketplace
-O0737,CUS0041,2026-01-15,2026-01-26,Debit Card,1838.93,Casa,16.74,Londrina,PR,Website
-O0738,CUS0313,2026-03-08,2026-03-13,Credit Card,650.74,Beleza,0.67,Cuiabá,MT,Marketplace
-O0739,CUS0297,2026-01-10,2026-01-22,Pix,1551.91,Mercado,13.65,Rio de Janeiro,RJ,Marketplace
-O0740,CUS0241,2026-03-02,2026-03-13,Pix,1081.43,Eletrônicos,4.82,Cuiabá,MT,Website
-O0741,CUS0306,2026-01-22,2026-01-26,Pix,1831.05,Casa,17.78,Londrina,PR,App
-O0742,CUS0027,2026-03-02,2026-03-08,Pix,2031.78,Mercado,9.74,Goiânia,GO,Website
-O0743,CUS0040,2026-01-11,2026-01-17,Pix,667.45,Beleza,0.65,Cuiabá,MT,Website
-O0744,CUS0090,2026-01-02,2026-01-07,Debit Card,1664.9,Casa,12.35,Goiânia,GO,App
-O0745,CUS0093,2026-03-31,2026-04-07,Credit Card,889.91,Casa,4.36,Vitória,ES,App
-O0746,CUS0212,2026-01-20,2026-01-31,Bank Slip,632.9,Esporte,4.68,Rio de Janeiro,RJ,Marketplace
-O0747,CUS0329,2026-01-27,2026-02-05,Pix,1900.91,Moda,0.35,Uberlândia,MG,App
-O0748,CUS0244,2026-02-21,2026-03-04,Debit Card,980.45,Beleza,0.74,Brasília,DF,Website
-O0749,CUS0223,2026-01-19,2026-01-31,Credit Card,757.47,Casa,24.32,Florianópolis,SC,Website
-O0750,CUS0022,2026-02-10,2026-02-22,Credit Card,2298.39,Mercado,9.92,Maringá,PR,Website
-O0751,CUS0139,2026-03-25,2026-04-02,Pix,2015.66,Esporte,2.93,Porto Alegre,RS,Marketplace
-O0752,CUS0345,2026-03-01,2026-03-08,Debit Card,1323.84,Beleza,0.71,Londrina,PR,App
-O0753,CUS0005,2026-03-12,2026-03-16,Credit Card,79.21,Casa,4.74,Maringá,PR,App
-O0754,CUS0146,2026-02-27,2026-03-08,Pix,522.96,Mercado,1.33,Campinas,SP,App
-O0755,CUS0327,2026-03-18,2026-03-25,Credit Card,1784.75,Eletrônicos,1.04,Goiânia,GO,Marketplace
-O0756,CUS0057,2026-02-18,2026-02-24,Debit Card,670.6,Moda,0.81,Curitiba,PR,App
-O0757,CUS0219,2026-02-28,2026-03-08,Pix,680.4,Mercado,11.93,Rio de Janeiro,RJ,Website
-O0758,CUS0031,2026-02-18,2026-02-28,Pix,2391.23,Eletrônicos,1.69,Porto Alegre,RS,Website
-O0759,CUS0202,2026-03-04,2026-03-11,Debit Card,1631.4,Eletrônicos,0.99,Goiânia,GO,Marketplace
-O0760,CUS0227,2026-01-28,2026-02-02,Pix,302.96,Beleza,0.17,Curitiba,PR,Marketplace
-O0761,CUS0255,2026-02-02,2026-02-13,Debit Card,1649.49,Mercado,1.01,Uberlândia,MG,App
-O0762,CUS0169,2026-02-19,2026-02-27,Bank Slip,1457.83,Mercado,8.22,São Paulo,SP,Website
-O0763,CUS0036,2026-02-25,2026-03-07,Debit Card,58.0,Beleza,0.96,Florianópolis,SC,Website
-O0764,CUS0184,2026-03-14,2026-03-26,Pix,1720.47,Eletrônicos,2.3,Curitiba,PR,Marketplace
-O0765,CUS0175,2026-01-12,2026-01-21,Credit Card,2110.88,Mercado,11.65,Cuiabá,MT,Website
-O0766,CUS0021,2026-01-26,2026-02-01,Bank Slip,1668.76,Mercado,5.18,Cuiabá,MT,Website
-O0767,CUS0044,2026-03-22,2026-03-31,Bank Slip,1851.52,Eletrônicos,1.13,Vitória,ES,App
-O0768,CUS0200,2026-03-17,2026-03-24,Credit Card,1992.19,Eletrônicos,3.4,Vitória,ES,Website
-O0769,CUS0174,2026-02-27,2026-03-03,Credit Card,877.34,Esporte,7.35,Uberlândia,MG,Website
-O0770,CUS0348,2026-01-28,2026-02-09,Debit Card,1865.55,Eletrônicos,1.55,Vitória,ES,App
-O0771,CUS0010,2026-01-19,2026-01-30,Bank Slip,2272.58,Eletrônicos,3.28,Maringá,PR,App
-O0772,CUS0089,2026-03-25,2026-03-31,Credit Card,2266.41,Mercado,12.49,Uberlândia,MG,App
-O0773,CUS0303,2026-03-20,2026-03-26,Credit Card,2053.59,Beleza,0.2,Florianópolis,SC,Website
-O0774,CUS0104,2026-03-20,2026-03-27,Bank Slip,876.42,Esporte,8.44,Belo Horizonte,MG,Marketplace
-O0775,CUS0295,2026-02-21,2026-03-02,Debit Card,837.83,Mercado,14.51,Belo Horizonte,MG,App
-O0776,CUS0033,2026-03-17,2026-03-23,Credit Card,720.97,Eletrônicos,3.91,Porto Alegre,RS,App
-O0777,CUS0225,2026-02-17,2026-03-01,Debit Card,2317.9,Mercado,1.57,São Paulo,SP,App
-O0778,CUS0081,2026-03-20,2026-03-30,Credit Card,2205.07,Mercado,2.13,Rio de Janeiro,RJ,App
-O0779,CUS0244,2026-01-12,2026-01-20,Debit Card,555.01,Moda,1.03,Joinville,SC,Marketplace
-O0780,CUS0313,2026-02-22,2026-03-01,Credit Card,1510.83,Beleza,0.75,São Paulo,SP,Marketplace
-O0781,CUS0215,2026-03-22,2026-03-30,Credit Card,1416.35,Eletrônicos,1.36,Porto Alegre,RS,Marketplace
-O0782,CUS0277,2026-03-21,2026-03-30,Debit Card,1187.28,Eletrônicos,3.32,Florianópolis,SC,App
-O0783,CUS0077,2026-01-07,2026-01-14,Bank Slip,1268.86,Casa,6.47,Belo Horizonte,MG,App
-O0784,CUS0108,2026-03-24,2026-04-02,Bank Slip,665.81,Eletrônicos,3.28,Brasília,DF,Website
-O0785,CUS0276,2026-01-14,2026-01-18,Debit Card,437.13,Eletrônicos,0.63,Curitiba,PR,Marketplace
-O0786,CUS0228,2026-01-10,2026-01-17,Pix,1076.65,Eletrônicos,3.86,Londrina,PR,Website
-O0787,CUS0051,2026-01-15,2026-01-24,Debit Card,1857.46,Moda,1.33,Campinas,SP,Website
-O0788,CUS0249,2026-01-10,2026-01-21,Credit Card,2231.69,Moda,0.39,Goiânia,GO,Marketplace
-O0789,CUS0070,2026-01-23,2026-02-02,Bank Slip,1813.53,Beleza,0.67,Porto Alegre,RS,Website
-O0790,CUS0292,2026-02-12,2026-02-18,Credit Card,737.41,Moda,0.34,Uberlândia,MG,Website
-O0791,CUS0176,2026-02-23,2026-03-01,Debit Card,2221.69,Beleza,0.64,Rio de Janeiro,RJ,Marketplace
-O0792,CUS0118,2026-01-22,2026-02-03,Credit Card,1058.6,Esporte,5.46,Florianópolis,SC,App
-O0793,CUS0008,2026-03-02,2026-03-13,Bank Slip,1853.61,Esporte,2.84,Brasília,DF,Website
-O0794,CUS0303,2026-03-16,2026-03-23,Debit Card,2288.69,Beleza,0.91,Curitiba,PR,Website
-O0795,CUS0259,2026-01-06,2026-01-17,Credit Card,1092.9,Eletrônicos,2.27,Londrina,PR,Marketplace
-O0796,CUS0043,2026-02-27,2026-03-10,Credit Card,1748.21,Eletrônicos,2.33,Campinas,SP,App
-O0797,CUS0332,2026-02-15,2026-02-23,Credit Card,88.93,Moda,1.07,Campinas,SP,App
-O0798,CUS0238,2026-02-28,2026-03-04,Debit Card,2191.78,Mercado,6.68,Vitória,ES,Website
-O0799,CUS0322,2026-03-01,2026-03-05,Credit Card,992.89,Mercado,10.67,Florianópolis,SC,Marketplace
-O0800,CUS0139,2026-02-07,2026-02-17,Debit Card,1979.82,Eletrônicos,0.86,Rio de Janeiro,RJ,Website
-O0801,CUS0346,2026-01-08,2026-01-20,Pix,2225.53,Mercado,2.55,Curitiba,PR,Website
-O0802,CUS0188,2026-03-21,2026-03-25,Debit Card,1637.99,Beleza,0.73,Porto Alegre,RS,Marketplace
-O0803,CUS0123,2026-01-27,2026-02-02,Credit Card,1640.11,Mercado,11.32,Porto Alegre,RS,Marketplace
-O0804,CUS0181,2026-01-27,2026-02-03,Pix,1283.69,Mercado,6.92,Porto Alegre,RS,App
-O0805,CUS0249,2026-02-17,2026-02-26,Credit Card,1201.85,Eletrônicos,2.89,Vitória,ES,Marketplace
-O0806,CUS0345,2026-02-27,2026-03-08,Credit Card,511.39,Casa,26.75,Rio de Janeiro,RJ,App
-O0807,CUS0040,2026-02-20,2026-02-26,Credit Card,453.59,Eletrônicos,1.0,Brasília,DF,App
-O0808,CUS0322,2026-01-20,2026-01-27,Credit Card,768.19,Beleza,0.97,Cuiabá,MT,Marketplace
-O0809,CUS0228,2026-03-02,2026-03-11,Credit Card,764.15,Moda,0.28,Joinville,SC,App
-O0810,CUS0297,2026-03-24,2026-04-02,Pix,1656.58,Esporte,7.97,Joinville,SC,Website
-O0811,CUS0281,2026-03-27,2026-04-08,Bank Slip,1172.06,Esporte,5.89,Florianópolis,SC,Website
-O0812,CUS0191,2026-02-03,2026-02-10,Pix,1935.86,Moda,0.26,Vitória,ES,Website
-O0813,CUS0083,2026-02-28,2026-03-06,Pix,496.51,Casa,6.91,Goiânia,GO,Marketplace
-O0814,CUS0122,2026-03-27,2026-04-02,Credit Card,150.73,Mercado,5.43,São Paulo,SP,App
-O0815,CUS0106,2026-02-03,2026-02-12,Credit Card,1680.57,Beleza,0.98,São Paulo,SP,App
-O0816,CUS0274,2026-02-27,2026-03-11,Pix,347.56,Casa,2.7,São Paulo,SP,Website
-O0817,CUS0003,2026-02-28,2026-03-09,Pix,1635.71,Moda,0.58,São Paulo,SP,Website
-O0818,CUS0290,2026-03-27,2026-04-02,Bank Slip,879.71,Esporte,1.57,Rio de Janeiro,RJ,Website
-O0819,CUS0158,2026-01-18,2026-01-30,Credit Card,1033.93,Eletrônicos,4.28,Belo Horizonte,MG,Website
-O0820,CUS0312,2026-01-12,2026-01-21,Debit Card,1479.37,Casa,8.22,Uberlândia,MG,Website
-O0821,CUS0229,2026-01-03,2026-01-08,Credit Card,2440.8,Moda,0.71,Cuiabá,MT,Website
-O0822,CUS0342,2026-03-19,2026-03-31,Pix,1023.96,Casa,22.05,Uberlândia,MG,Website
-O0823,CUS0146,2026-02-19,2026-02-28,Pix,910.75,Casa,29.37,Uberlândia,MG,Marketplace
-O0824,CUS0213,2026-01-28,2026-02-08,Bank Slip,757.08,Eletrônicos,4.13,Londrina,PR,Website
-O0825,CUS0301,2026-02-23,2026-03-01,Credit Card,401.83,Mercado,5.25,Florianópolis,SC,Marketplace
-O0826,CUS0004,2026-01-09,2026-01-19,Bank Slip,1615.04,Casa,9.65,Belo Horizonte,MG,App
-O0827,CUS0096,2026-03-01,2026-03-07,Bank Slip,759.11,Esporte,5.16,Campinas,SP,Website
-O0828,CUS0238,2026-02-08,2026-02-19,Debit Card,115.66,Esporte,0.52,Cuiabá,MT,Website
-O0829,CUS0335,2026-03-23,2026-04-03,Pix,1071.98,Casa,15.77,Belo Horizonte,MG,Marketplace
-O0830,CUS0142,2026-02-01,2026-02-05,Bank Slip,2486.12,Mercado,1.93,Belo Horizonte,MG,Marketplace
-O0831,CUS0224,2026-03-16,2026-03-27,Pix,1588.55,Casa,15.33,Goiânia,GO,Marketplace
-O0832,CUS0295,2026-02-17,2026-03-01,Credit Card,2120.92,Eletrônicos,1.23,Londrina,PR,App
-O0833,CUS0070,2026-02-10,2026-02-21,Pix,450.02,Moda,0.55,Curitiba,PR,Website
-O0834,CUS0150,2026-02-15,2026-02-19,Credit Card,1308.92,Mercado,11.73,Brasília,DF,App
-O0835,CUS0166,2026-03-18,2026-03-24,Pix,2075.7,Eletrônicos,3.58,Cuiabá,MT,Website
-O0836,CUS0274,2026-03-29,2026-04-07,Pix,2067.1,Casa,2.36,Belo Horizonte,MG,Marketplace
-O0837,CUS0175,2026-02-17,2026-02-28,Debit Card,300.83,Casa,6.33,Joinville,SC,App
-O0838,CUS0273,2026-03-13,2026-03-25,Credit Card,1072.44,Moda,1.39,Florianópolis,SC,App
-O0839,CUS0160,2026-01-03,2026-01-14,Pix,390.5,Moda,0.77,Porto Alegre,RS,Marketplace
-O0840,CUS0156,2026-02-13,2026-02-19,Credit Card,1873.9,Esporte,1.63,Londrina,PR,App
-O0841,CUS0065,2026-01-19,2026-01-26,Debit Card,368.95,Mercado,2.1,Brasília,DF,Marketplace
-O0842,CUS0248,2026-01-10,2026-01-14,Bank Slip,154.07,Eletrônicos,0.99,Rio de Janeiro,RJ,Marketplace
-O0843,CUS0061,2026-03-17,2026-03-21,Pix,155.94,Esporte,3.37,Vitória,ES,App
-O0844,CUS0103,2026-01-16,2026-01-23,Debit Card,1692.94,Eletrônicos,0.63,Goiânia,GO,App
-O0845,CUS0083,2026-02-05,2026-02-14,Debit Card,1286.98,Mercado,1.96,Porto Alegre,RS,Marketplace
-O0846,CUS0099,2026-03-09,2026-03-16,Pix,470.76,Eletrônicos,3.89,Londrina,PR,App
-O0847,CUS0259,2026-01-13,2026-01-20,Bank Slip,947.77,Mercado,9.25,Curitiba,PR,Website
-O0848,CUS0182,2026-01-14,2026-01-20,Bank Slip,1088.97,Mercado,8.2,Florianópolis,SC,Website
-O0849,CUS0057,2026-02-10,2026-02-15,Debit Card,1264.7,Eletrônicos,2.13,Vitória,ES,Website
-O0850,CUS0253,2026-01-06,2026-01-11,Credit Card,992.65,Esporte,4.84,Porto Alegre,RS,Marketplace
-O0851,CUS0284,2026-03-29,2026-04-09,Bank Slip,761.87,Casa,25.95,Campinas,SP,App
-O0852,CUS0007,2026-03-02,2026-03-11,Bank Slip,1696.6,Eletrônicos,2.28,São Paulo,SP,Marketplace
-O0853,CUS0074,2026-03-28,2026-04-02,Bank Slip,1031.47,Mercado,9.27,Belo Horizonte,MG,App
-O0854,CUS0102,2026-01-22,2026-01-27,Pix,540.57,Mercado,12.82,Porto Alegre,RS,Website
-O0855,CUS0256,2026-01-30,2026-02-09,Pix,1923.78,Eletrônicos,3.95,Londrina,PR,Marketplace
-O0856,CUS0244,2026-03-24,2026-04-03,Bank Slip,2469.43,Casa,16.32,Porto Alegre,RS,App
-O0857,CUS0251,2026-01-14,2026-01-19,Bank Slip,615.44,Beleza,0.95,Brasília,DF,App
-O0858,CUS0348,2026-01-07,2026-01-12,Credit Card,2431.57,Eletrônicos,2.22,Vitória,ES,Marketplace
-O0859,CUS0320,2026-01-20,2026-01-28,Credit Card,1912.4,Casa,20.51,Goiânia,GO,Marketplace
-O0860,CUS0339,2026-03-01,2026-03-08,Bank Slip,1251.06,Beleza,0.34,Brasília,DF,Website
-O0861,CUS0017,2026-03-11,2026-03-15,Bank Slip,2206.3,Esporte,1.63,Rio de Janeiro,RJ,Website
-O0862,CUS0019,2026-02-18,2026-03-01,Credit Card,483.25,Casa,20.46,Vitória,ES,Website
-O0863,CUS0069,2026-01-22,2026-02-02,Pix,1803.49,Mercado,7.82,Joinville,SC,App
-O0864,CUS0284,2026-03-28,2026-04-08,Bank Slip,1215.93,Esporte,8.62,Maringá,PR,Marketplace
-O0865,CUS0303,2026-02-20,2026-02-28,Bank Slip,1561.46,Eletrônicos,2.09,Vitória,ES,Website
-O0866,CUS0024,2026-01-08,2026-01-12,Debit Card,2100.47,Casa,11.77,Goiânia,GO,Marketplace
-O0867,CUS0050,2026-01-04,2026-01-13,Bank Slip,895.53,Esporte,3.89,Joinville,SC,Website
-O0868,CUS0121,2026-03-26,2026-04-02,Pix,1501.66,Eletrônicos,4.6,Campinas,SP,App
-O0869,CUS0011,2026-01-15,2026-01-24,Pix,141.48,Casa,20.42,São Paulo,SP,Website
-O0870,CUS0011,2026-03-07,2026-03-17,Bank Slip,1490.53,Esporte,9.86,Brasília,DF,Website
-O0871,CUS0051,2026-02-19,2026-02-28,Bank Slip,295.05,Esporte,6.91,Goiânia,GO,Website
-O0872,CUS0315,2026-03-06,2026-03-15,Pix,940.11,Beleza,0.49,São Paulo,SP,Website
-O0873,CUS0148,2026-01-10,2026-01-22,Pix,166.36,Mercado,14.95,Campinas,SP,Website
-O0874,CUS0297,2026-03-21,2026-03-26,Credit Card,1500.03,Moda,0.56,Londrina,PR,Marketplace
-O0875,CUS0178,2026-03-02,2026-03-12,Credit Card,1646.23,Esporte,3.37,Campinas,SP,Website
-O0876,CUS0103,2026-03-26,2026-04-07,Bank Slip,1035.58,Beleza,0.66,Porto Alegre,RS,Website
-O0877,CUS0010,2026-03-12,2026-03-18,Debit Card,1463.22,Mercado,3.98,Curitiba,PR,Marketplace
-O0878,CUS0315,2026-02-04,2026-02-16,Bank Slip,2339.85,Beleza,0.75,Rio de Janeiro,RJ,App
-O0879,CUS0076,2026-01-26,2026-02-04,Debit Card,418.57,Esporte,7.01,Vitória,ES,Website
-O0880,CUS0033,2026-02-22,2026-03-03,Debit Card,2122.6,Beleza,0.34,Florianópolis,SC,Website
-O0881,CUS0308,2026-01-21,2026-01-29,Debit Card,1044.31,Mercado,2.59,Maringá,PR,App
-O0882,CUS0249,2026-02-01,2026-02-09,Bank Slip,1083.89,Eletrônicos,4.58,Vitória,ES,App
-O0883,CUS0133,2026-02-04,2026-02-10,Pix,1663.71,Moda,0.43,Uberlândia,MG,App
-O0884,CUS0043,2026-03-04,2026-03-08,Pix,1523.88,Mercado,13.14,Uberlândia,MG,Website
-O0885,CUS0072,2026-03-27,2026-04-01,Debit Card,324.15,Casa,22.57,Joinville,SC,App
-O0886,CUS0255,2026-03-27,2026-04-08,Credit Card,633.21,Esporte,1.66,Brasília,DF,Website
-O0887,CUS0121,2026-03-16,2026-03-26,Bank Slip,584.04,Casa,4.99,Rio de Janeiro,RJ,App
-O0888,CUS0302,2026-02-26,2026-03-08,Credit Card,1251.33,Casa,12.49,Brasília,DF,App
-O0889,CUS0350,2026-03-11,2026-03-21,Debit Card,2410.12,Casa,26.62,Vitória,ES,App
-O0890,CUS0158,2026-03-02,2026-03-11,Credit Card,1631.19,Casa,27.35,Florianópolis,SC,App
-O0891,CUS0344,2026-03-26,2026-03-30,Debit Card,669.73,Mercado,6.39,Londrina,PR,Marketplace
-O0892,CUS0122,2026-02-16,2026-02-21,Bank Slip,1001.69,Mercado,13.74,Cuiabá,MT,Website
-O0893,CUS0121,2026-02-08,2026-02-13,Pix,565.37,Casa,26.93,Curitiba,PR,Website
-O0894,CUS0018,2026-02-10,2026-02-20,Pix,2172.78,Mercado,12.52,Rio de Janeiro,RJ,Website
-O0895,CUS0217,2026-02-22,2026-03-03,Credit Card,2069.76,Beleza,0.73,Londrina,PR,Marketplace
-O0896,CUS0281,2026-02-15,2026-02-25,Pix,1160.44,Eletrônicos,0.62,Goiânia,GO,App
-O0897,CUS0228,2026-03-24,2026-03-30,Debit Card,57.44,Mercado,3.8,Maringá,PR,Website
-O0898,CUS0081,2026-03-15,2026-03-20,Debit Card,1315.05,Casa,29.15,Belo Horizonte,MG,Marketplace
-O0899,CUS0164,2026-03-18,2026-03-28,Bank Slip,1221.94,Moda,1.16,Rio de Janeiro,RJ,Website
-O0900,CUS0145,2026-03-29,2026-04-07,Debit Card,256.69,Moda,0.68,Rio de Janeiro,RJ,Website
-O0901,CUS0012,2026-03-15,2026-03-22,Debit Card,2271.76,Beleza,0.98,Uberlândia,MG,App
-O0902,CUS0206,2026-03-31,2026-04-06,Bank Slip,1520.92,Casa,6.18,Uberlândia,MG,Website
-O0903,CUS0270,2026-03-14,2026-03-19,Bank Slip,1944.71,Moda,1.41,Uberlândia,MG,Marketplace
-O0904,CUS0105,2026-01-16,2026-01-23,Debit Card,2367.82,Beleza,0.83,Londrina,PR,Website
-O0905,CUS0221,2026-03-05,2026-03-15,Debit Card,1520.16,Casa,29.87,São Paulo,SP,Website
-O0906,CUS0093,2026-03-28,2026-04-04,Bank Slip,1991.51,Mercado,1.4,Joinville,SC,Website
-O0907,CUS0128,2026-03-21,2026-04-01,Pix,1478.07,Moda,1.04,Curitiba,PR,App
-O0908,CUS0166,2026-03-02,2026-03-08,Bank Slip,1732.76,Eletrônicos,3.71,Florianópolis,SC,Marketplace
-O0909,CUS0049,2026-03-18,2026-03-26,Credit Card,177.58,Beleza,0.94,Belo Horizonte,MG,Website
-O0910,CUS0130,2026-03-19,2026-03-23,Bank Slip,791.07,Casa,13.05,Uberlândia,MG,Website
-O0911,CUS0092,2026-03-13,2026-03-17,Pix,466.09,Moda,0.84,Goiânia,GO,Website
-O0912,CUS0272,2026-01-17,2026-01-22,Bank Slip,397.31,Beleza,0.21,Porto Alegre,RS,App
-O0913,CUS0185,2026-03-05,2026-03-13,Bank Slip,743.1,Moda,1.34,Londrina,PR,Marketplace
-O0914,CUS0085,2026-03-08,2026-03-17,Pix,1855.3,Casa,15.76,Joinville,SC,App
-O0915,CUS0097,2026-03-26,2026-04-06,Debit Card,183.6,Esporte,2.24,Uberlândia,MG,Website
-O0916,CUS0060,2026-01-21,2026-02-01,Bank Slip,149.84,Casa,11.98,Joinville,SC,Marketplace
-O0917,CUS0058,2026-03-04,2026-03-15,Debit Card,352.87,Esporte,1.39,Vitória,ES,Website
-O0918,CUS0140,2026-01-22,2026-02-03,Debit Card,1479.65,Moda,1.46,Florianópolis,SC,Marketplace
-O0919,CUS0040,2026-01-24,2026-02-03,Debit Card,1932.2,Esporte,6.93,Curitiba,PR,Website
-O0920,CUS0192,2026-02-06,2026-02-11,Credit Card,2100.58,Eletrônicos,1.19,Joinville,SC,App
-O0921,CUS0322,2026-03-26,2026-04-06,Pix,1505.76,Beleza,0.11,Vitória,ES,App
-O0922,CUS0292,2026-03-21,2026-04-01,Debit Card,567.77,Mercado,1.68,Porto Alegre,RS,Marketplace
-O0923,CUS0037,2026-02-11,2026-02-15,Bank Slip,276.66,Casa,9.14,Londrina,PR,App
-O0924,CUS0107,2026-01-12,2026-01-16,Debit Card,1001.77,Beleza,0.46,Florianópolis,SC,Marketplace
-O0925,CUS0252,2026-01-20,2026-01-25,Bank Slip,1852.9,Mercado,13.9,Brasília,DF,Marketplace
-O0926,CUS0050,2026-01-17,2026-01-26,Pix,1305.95,Esporte,5.15,Maringá,PR,Website
-O0927,CUS0217,2026-02-04,2026-02-14,Pix,1553.94,Beleza,0.49,Belo Horizonte,MG,Website
-O0928,CUS0238,2026-01-06,2026-01-18,Debit Card,1636.61,Eletrônicos,3.71,Porto Alegre,RS,Website
-O0929,CUS0149,2026-03-22,2026-04-03,Bank Slip,1121.46,Esporte,9.12,Belo Horizonte,MG,Website
-O0930,CUS0154,2026-01-20,2026-01-26,Debit Card,1331.53,Casa,10.27,Maringá,PR,App
-O0931,CUS0056,2026-01-10,2026-01-14,Bank Slip,1061.84,Esporte,4.91,Cuiabá,MT,Marketplace
-O0932,CUS0300,2026-02-02,2026-02-11,Credit Card,1933.16,Esporte,0.65,Brasília,DF,Marketplace
-O0933,CUS0094,2026-03-01,2026-03-07,Bank Slip,160.79,Mercado,6.83,Rio de Janeiro,RJ,Marketplace
-O0934,CUS0344,2026-02-10,2026-02-21,Bank Slip,1578.3,Casa,9.42,Rio de Janeiro,RJ,App
-O0935,CUS0310,2026-01-24,2026-01-29,Pix,2185.45,Moda,0.34,Londrina,PR,Marketplace
-O0936,CUS0007,2026-01-01,2026-01-11,Debit Card,1656.68,Eletrônicos,2.57,Belo Horizonte,MG,Website
-O0937,CUS0317,2026-03-19,2026-03-30,Pix,1742.09,Mercado,14.48,Brasília,DF,Marketplace
-O0938,CUS0070,2026-02-08,2026-02-13,Credit Card,517.38,Beleza,0.83,São Paulo,SP,Marketplace
-O0939,CUS0333,2026-01-04,2026-01-11,Debit Card,1641.83,Moda,0.77,Vitória,ES,Marketplace
-O0940,CUS0238,2026-01-25,2026-01-30,Debit Card,1211.22,Esporte,0.71,Brasília,DF,App
-O0941,CUS0242,2026-03-31,2026-04-11,Credit Card,2156.49,Moda,0.96,Vitória,ES,App
-O0942,CUS0171,2026-03-14,2026-03-24,Credit Card,301.44,Casa,25.73,Uberlândia,MG,Website
-O0943,CUS0019,2026-03-05,2026-03-17,Bank Slip,1029.16,Beleza,0.56,Brasília,DF,Marketplace
-O0944,CUS0032,2026-03-28,2026-04-08,Credit Card,1083.85,Esporte,3.5,Campinas,SP,App
-O0945,CUS0243,2026-03-24,2026-04-03,Credit Card,1262.18,Casa,28.29,Curitiba,PR,Website
-O0946,CUS0083,2026-03-31,2026-04-10,Pix,1829.19,Beleza,0.52,Uberlândia,MG,Website
-O0947,CUS0174,2026-03-06,2026-03-13,Bank Slip,371.25,Moda,0.58,Goiânia,GO,Marketplace
-O0948,CUS0242,2026-02-23,2026-03-04,Debit Card,1573.48,Beleza,0.35,Rio de Janeiro,RJ,Marketplace
-O0949,CUS0089,2026-03-27,2026-04-07,Debit Card,432.89,Eletrônicos,2.71,São Paulo,SP,Website
-O0950,CUS0286,2026-02-08,2026-02-15,Credit Card,2498.19,Beleza,0.42,Campinas,SP,Website
-O0951,CUS0258,2026-03-28,2026-04-03,Credit Card,2026.68,Casa,11.46,São Paulo,SP,App
-O0952,CUS0115,2026-01-30,2026-02-04,Bank Slip,681.59,Esporte,3.73,Cuiabá,MT,Website
-O0953,CUS0078,2026-03-13,2026-03-21,Credit Card,1780.66,Eletrônicos,4.67,Curitiba,PR,Website
-O0954,CUS0313,2026-01-15,2026-01-20,Credit Card,2067.83,Beleza,0.14,Rio de Janeiro,RJ,App
-O0955,CUS0106,2026-03-22,2026-03-27,Pix,434.65,Moda,0.58,Florianópolis,SC,Website
-O0956,CUS0332,2026-03-05,2026-03-10,Pix,869.72,Esporte,1.81,São Paulo,SP,App
-O0957,CUS0243,2026-02-23,2026-02-27,Pix,752.49,Beleza,0.25,Campinas,SP,Website
-O0958,CUS0341,2026-02-23,2026-03-04,Debit Card,421.36,Casa,23.1,Maringá,PR,Website
-O0959,CUS0210,2026-01-18,2026-01-28,Bank Slip,2382.0,Moda,0.87,Joinville,SC,Marketplace
-O0960,CUS0006,2026-01-04,2026-01-15,Credit Card,257.62,Casa,10.81,São Paulo,SP,App
-O0961,CUS0019,2026-01-08,2026-01-18,Debit Card,2261.14,Beleza,0.15,Rio de Janeiro,RJ,Marketplace
-O0962,CUS0215,2026-03-26,2026-04-07,Bank Slip,2220.16,Mercado,10.81,Brasília,DF,Website
-O0963,CUS0144,2026-02-10,2026-02-19,Debit Card,1765.69,Mercado,7.25,Uberlândia,MG,App
-O0964,CUS0177,2026-03-21,2026-04-01,Bank Slip,1949.71,Esporte,8.87,Londrina,PR,App
-O0965,CUS0065,2026-03-10,2026-03-19,Pix,573.57,Eletrônicos,2.8,Joinville,SC,Website
-O0966,CUS0015,2026-02-13,2026-02-19,Pix,641.21,Esporte,7.85,Uberlândia,MG,Marketplace
-O0967,CUS0031,2026-03-06,2026-03-11,Pix,686.33,Beleza,0.56,Londrina,PR,App
-O0968,CUS0153,2026-03-25,2026-03-30,Credit Card,1160.16,Eletrônicos,4.92,Vitória,ES,Marketplace
-O0969,CUS0305,2026-03-14,2026-03-26,Debit Card,908.26,Esporte,3.2,Florianópolis,SC,Marketplace
-O0970,CUS0194,2026-03-28,2026-04-03,Debit Card,307.72,Esporte,5.41,Londrina,PR,App
-O0971,CUS0218,2026-02-28,2026-03-05,Bank Slip,250.68,Casa,3.74,São Paulo,SP,App
-O0972,CUS0190,2026-01-28,2026-02-08,Bank Slip,1491.15,Beleza,0.57,Belo Horizonte,MG,Website
-O0973,CUS0217,2026-03-16,2026-03-27,Bank Slip,1738.06,Casa,28.54,Maringá,PR,Marketplace
-O0974,CUS0066,2026-01-21,2026-01-27,Bank Slip,1792.29,Beleza,0.22,Cuiabá,MT,Marketplace
-O0975,CUS0109,2026-03-09,2026-03-14,Bank Slip,1209.67,Esporte,7.59,Londrina,PR,Marketplace
-O0976,CUS0062,2026-01-16,2026-01-26,Pix,1450.78,Casa,3.13,Belo Horizonte,MG,App
-O0977,CUS0156,2026-02-17,2026-02-25,Pix,1240.47,Eletrônicos,4.06,Porto Alegre,RS,App
-O0978,CUS0157,2026-02-23,2026-02-27,Pix,578.1,Esporte,8.28,Curitiba,PR,Website
-O0979,CUS0035,2026-01-16,2026-01-28,Credit Card,1073.0,Eletrônicos,3.08,Porto Alegre,RS,Marketplace
-O0980,CUS0311,2026-02-13,2026-02-23,Debit Card,1916.76,Beleza,0.55,Vitória,ES,Website
-O0981,CUS0167,2026-03-27,2026-04-07,Credit Card,2009.52,Beleza,0.7,São Paulo,SP,Website
-O0982,CUS0277,2026-01-30,2026-02-09,Credit Card,2397.29,Beleza,0.9,Porto Alegre,RS,Marketplace
-O0983,CUS0085,2026-03-24,2026-03-29,Credit Card,1451.34,Casa,24.29,Florianópolis,SC,Marketplace
-O0984,CUS0287,2026-03-13,2026-03-18,Credit Card,521.36,Casa,19.32,Maringá,PR,Marketplace
-O0985,CUS0244,2026-03-14,2026-03-26,Credit Card,344.61,Eletrônicos,4.71,Campinas,SP,App
-O0986,CUS0297,2026-02-05,2026-02-12,Bank Slip,257.3,Eletrônicos,2.9,Campinas,SP,Website
-O0987,CUS0012,2026-03-17,2026-03-21,Pix,1120.64,Beleza,0.47,Vitória,ES,Marketplace
-O0988,CUS0059,2026-02-18,2026-02-26,Credit Card,1377.31,Casa,9.99,Belo Horizonte,MG,App
-O0989,CUS0209,2026-01-12,2026-01-18,Debit Card,194.24,Casa,28.91,Brasília,DF,App
-O0990,CUS0051,2026-01-08,2026-01-16,Pix,398.94,Eletrônicos,4.52,Joinville,SC,Website
-O0991,CUS0123,2026-01-16,2026-01-20,Debit Card,1257.75,Beleza,0.78,Campinas,SP,Website
-O0992,CUS0238,2026-02-04,2026-02-08,Bank Slip,210.28,Eletrônicos,0.63,Porto Alegre,RS,Marketplace
-O0993,CUS0301,2026-01-03,2026-01-11,Credit Card,653.4,Moda,0.92,Cuiabá,MT,App
-O0994,CUS0043,2026-03-14,2026-03-24,Debit Card,1968.04,Casa,5.99,Vitória,ES,Marketplace
-O0995,CUS0285,2026-02-01,2026-02-13,Bank Slip,152.29,Moda,1.26,Joinville,SC,Marketplace
-O0996,CUS0031,2026-03-25,2026-03-31,Bank Slip,719.52,Casa,9.02,Uberlândia,MG,Marketplace
-O0997,CUS0262,2026-02-14,2026-02-21,Pix,161.34,Beleza,0.77,Goiânia,GO,Marketplace
-O0998,CUS0063,2026-02-08,2026-02-13,Debit Card,1826.4,Eletrônicos,4.99,Joinville,SC,Website
-O0999,CUS0163,2026-03-20,2026-04-01,Pix,1606.13,Moda,1.47,Rio de Janeiro,RJ,Marketplace
-O1000,CUS0165,2026-02-04,2026-02-11,Pix,565.95,Beleza,0.96,Maringá,PR,Website
+order_id,customer_id,order_date,promised_delivery_date,payment_type,order_value,product_category,product_weight_kg,destination_city,destination_state,latitude_destino,longitude_destino,marketplace_channel
+O0001,CUS0141,2026-01-15,2026-01-19,Debit Card,596.79,Mercado,11.31,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0002,CUS0217,2026-03-11,2026-03-16,Credit Card,122.91,Mercado,4.06,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0003,CUS0333,2026-01-04,2026-01-16,Bank Slip,590.0,Esporte,6.1,São Paulo,SP,-23.5505,-46.6333,App
+O0004,CUS0143,2026-03-31,2026-04-10,Debit Card,577.44,Moda,1.19,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0005,CUS0177,2026-02-18,2026-02-23,Pix,2027.44,Eletrônicos,3.78,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0006,CUS0151,2026-02-18,2026-02-23,Pix,1464.47,Eletrônicos,3.67,Porto Alegre,RS,-30.0346,-51.2177,App
+O0007,CUS0120,2026-01-30,2026-02-07,Credit Card,981.25,Mercado,7.35,Londrina,PR,-23.3103,-51.1628,Website
+O0008,CUS0344,2026-02-17,2026-02-26,Pix,1769.43,Moda,1.09,São Paulo,SP,-23.5505,-46.6333,App
+O0009,CUS0126,2026-03-23,2026-03-29,Debit Card,1182.48,Esporte,3.06,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0010,CUS0167,2026-03-13,2026-03-20,Credit Card,611.09,Mercado,1.45,Vitória,ES,-20.3155,-40.3128,Website
+O0011,CUS0291,2026-02-04,2026-02-09,Pix,570.86,Beleza,0.55,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0012,CUS0127,2026-01-19,2026-01-27,Pix,1880.16,Beleza,0.49,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0013,CUS0261,2026-02-16,2026-02-23,Bank Slip,272.64,Beleza,0.14,Maringá,PR,-23.4209,-51.9331,App
+O0014,CUS0349,2026-03-22,2026-03-28,Bank Slip,1511.16,Moda,0.7,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0015,CUS0006,2026-03-09,2026-03-17,Credit Card,1720.16,Beleza,0.58,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0016,CUS0223,2026-02-13,2026-02-18,Debit Card,1161.57,Mercado,14.35,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0017,CUS0055,2026-03-06,2026-03-12,Pix,2112.07,Casa,16.21,Porto Alegre,RS,-30.0346,-51.2177,App
+O0018,CUS0272,2026-02-17,2026-02-23,Credit Card,1517.37,Moda,0.84,Porto Alegre,RS,-30.0346,-51.2177,App
+O0019,CUS0124,2026-02-09,2026-02-16,Credit Card,259.76,Casa,15.61,Curitiba,PR,-25.4284,-49.2733,App
+O0020,CUS0244,2026-01-17,2026-01-23,Debit Card,699.32,Esporte,8.79,Vitória,ES,-20.3155,-40.3128,Website
+O0021,CUS0160,2026-03-11,2026-03-18,Bank Slip,2488.12,Moda,1.04,Uberlândia,MG,-18.9113,-48.2622,Website
+O0022,CUS0116,2026-02-27,2026-03-04,Credit Card,878.24,Esporte,6.09,São Paulo,SP,-23.5505,-46.6333,App
+O0023,CUS0324,2026-01-29,2026-02-02,Credit Card,610.83,Esporte,9.1,Londrina,PR,-23.3103,-51.1628,Website
+O0024,CUS0343,2026-03-07,2026-03-14,Bank Slip,574.8,Eletrônicos,1.1,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0025,CUS0243,2026-03-02,2026-03-09,Bank Slip,516.42,Esporte,1.42,Goiânia,GO,-16.6869,-49.2648,Website
+O0026,CUS0028,2026-02-24,2026-03-06,Credit Card,198.41,Casa,22.39,Joinville,SC,-26.3045,-48.8456,App
+O0027,CUS0230,2026-01-25,2026-02-01,Debit Card,1083.55,Moda,0.56,Porto Alegre,RS,-30.0346,-51.2177,App
+O0028,CUS0026,2026-02-26,2026-03-10,Credit Card,2424.04,Eletrônicos,4.67,Londrina,PR,-23.3103,-51.1628,App
+O0029,CUS0110,2026-02-22,2026-03-05,Bank Slip,2260.98,Moda,0.41,Joinville,SC,-26.3045,-48.8456,App
+O0030,CUS0217,2026-02-03,2026-02-14,Bank Slip,429.17,Beleza,0.37,Campinas,SP,-22.9056,-47.0608,App
+O0031,CUS0161,2026-03-11,2026-03-15,Credit Card,172.75,Esporte,5.03,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0032,CUS0096,2026-01-08,2026-01-20,Credit Card,1507.8,Moda,1.08,Londrina,PR,-23.3103,-51.1628,App
+O0033,CUS0305,2026-01-16,2026-01-23,Credit Card,1567.45,Beleza,0.48,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0034,CUS0134,2026-03-08,2026-03-17,Debit Card,1690.8,Esporte,3.48,Cuiabá,MT,-15.6014,-56.0979,Website
+O0035,CUS0162,2026-01-17,2026-01-25,Credit Card,72.72,Beleza,0.66,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0036,CUS0260,2026-01-10,2026-01-22,Pix,374.43,Eletrônicos,2.07,São Paulo,SP,-23.5505,-46.6333,App
+O0037,CUS0225,2026-02-17,2026-02-25,Pix,1548.57,Moda,1.48,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0038,CUS0340,2026-01-02,2026-01-14,Credit Card,2350.37,Esporte,1.78,Campinas,SP,-22.9056,-47.0608,App
+O0039,CUS0145,2026-03-12,2026-03-18,Debit Card,1808.12,Eletrônicos,1.42,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0040,CUS0027,2026-03-06,2026-03-17,Credit Card,1603.96,Casa,25.22,Campinas,SP,-22.9056,-47.0608,App
+O0041,CUS0135,2026-02-12,2026-02-18,Debit Card,1865.99,Eletrônicos,2.98,Vitória,ES,-20.3155,-40.3128,Website
+O0042,CUS0077,2026-01-02,2026-01-07,Credit Card,2094.74,Esporte,6.03,Londrina,PR,-23.3103,-51.1628,App
+O0043,CUS0187,2026-01-17,2026-01-21,Credit Card,2252.36,Beleza,0.29,Campinas,SP,-22.9056,-47.0608,App
+O0044,CUS0287,2026-01-14,2026-01-23,Bank Slip,2435.9,Mercado,11.49,Goiânia,GO,-16.6869,-49.2648,App
+O0045,CUS0092,2026-01-23,2026-02-02,Pix,1966.83,Moda,0.74,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0046,CUS0056,2026-02-01,2026-02-09,Bank Slip,2186.8,Mercado,13.02,Maringá,PR,-23.4209,-51.9331,App
+O0047,CUS0117,2026-02-28,2026-03-09,Debit Card,107.88,Moda,0.45,Campinas,SP,-22.9056,-47.0608,Website
+O0048,CUS0329,2026-01-09,2026-01-17,Bank Slip,1714.79,Casa,25.62,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0049,CUS0298,2026-01-15,2026-01-23,Pix,143.63,Eletrônicos,3.18,Maringá,PR,-23.4209,-51.9331,Website
+O0050,CUS0262,2026-02-10,2026-02-20,Credit Card,993.67,Mercado,9.07,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0051,CUS0276,2026-02-25,2026-03-01,Debit Card,942.28,Eletrônicos,0.81,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0052,CUS0064,2026-03-21,2026-03-30,Pix,1292.4,Casa,20.67,Vitória,ES,-20.3155,-40.3128,Website
+O0053,CUS0066,2026-03-31,2026-04-08,Debit Card,1080.04,Beleza,0.95,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0054,CUS0281,2026-01-23,2026-01-31,Credit Card,794.42,Mercado,3.94,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0055,CUS0227,2026-03-25,2026-04-03,Bank Slip,1705.25,Esporte,5.36,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0056,CUS0264,2026-03-26,2026-03-31,Pix,278.71,Moda,1.44,Campinas,SP,-22.9056,-47.0608,App
+O0057,CUS0102,2026-02-09,2026-02-16,Debit Card,109.74,Mercado,4.43,Goiânia,GO,-16.6869,-49.2648,Website
+O0058,CUS0323,2026-01-10,2026-01-21,Debit Card,1809.92,Esporte,4.15,Florianópolis,SC,-27.5954,-48.5480,Website
+O0059,CUS0055,2026-01-19,2026-01-23,Bank Slip,586.08,Moda,1.25,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0060,CUS0128,2026-03-01,2026-03-05,Credit Card,1168.28,Esporte,8.11,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0061,CUS0227,2026-03-13,2026-03-22,Bank Slip,2084.88,Esporte,5.7,Goiânia,GO,-16.6869,-49.2648,App
+O0062,CUS0127,2026-03-02,2026-03-13,Pix,1926.22,Mercado,8.3,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0063,CUS0147,2026-02-05,2026-02-16,Debit Card,715.63,Moda,0.62,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0064,CUS0197,2026-01-18,2026-01-24,Debit Card,1780.7,Eletrônicos,0.79,São Paulo,SP,-23.5505,-46.6333,Website
+O0065,CUS0032,2026-03-11,2026-03-22,Debit Card,2090.57,Casa,12.91,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0066,CUS0004,2026-01-03,2026-01-13,Pix,781.53,Mercado,6.46,Joinville,SC,-26.3045,-48.8456,Website
+O0067,CUS0113,2026-03-11,2026-03-18,Pix,1117.74,Esporte,0.78,Joinville,SC,-26.3045,-48.8456,Website
+O0068,CUS0085,2026-03-28,2026-04-07,Bank Slip,2302.87,Mercado,14.73,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0069,CUS0330,2026-02-20,2026-02-24,Bank Slip,382.38,Eletrônicos,2.58,Londrina,PR,-23.3103,-51.1628,App
+O0070,CUS0233,2026-02-18,2026-02-27,Pix,876.81,Casa,26.63,São Paulo,SP,-23.5505,-46.6333,Website
+O0071,CUS0010,2026-02-02,2026-02-07,Credit Card,2499.77,Beleza,0.41,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0072,CUS0016,2026-03-25,2026-03-29,Debit Card,538.35,Eletrônicos,0.59,Goiânia,GO,-16.6869,-49.2648,App
+O0073,CUS0059,2026-01-17,2026-01-28,Debit Card,1189.28,Moda,0.53,Vitória,ES,-20.3155,-40.3128,Website
+O0074,CUS0084,2026-03-19,2026-03-24,Pix,314.75,Moda,0.23,Goiânia,GO,-16.6869,-49.2648,Website
+O0075,CUS0102,2026-03-28,2026-04-07,Credit Card,1500.6,Esporte,8.39,Florianópolis,SC,-27.5954,-48.5480,App
+O0076,CUS0308,2026-03-31,2026-04-08,Credit Card,2000.74,Eletrônicos,3.05,Brasília,DF,-15.7801,-47.9292,App
+O0077,CUS0190,2026-03-10,2026-03-20,Credit Card,1289.55,Casa,11.55,Vitória,ES,-20.3155,-40.3128,Website
+O0078,CUS0326,2026-01-14,2026-01-24,Bank Slip,1782.88,Beleza,0.49,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0079,CUS0276,2026-03-25,2026-04-02,Bank Slip,1188.89,Esporte,8.34,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0080,CUS0045,2026-02-11,2026-02-18,Pix,2209.98,Casa,8.83,Brasília,DF,-15.7801,-47.9292,Website
+O0081,CUS0015,2026-03-20,2026-03-30,Bank Slip,2134.82,Esporte,2.23,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0082,CUS0306,2026-02-03,2026-02-12,Pix,1411.64,Casa,16.47,Campinas,SP,-22.9056,-47.0608,App
+O0083,CUS0285,2026-01-31,2026-02-10,Debit Card,1741.96,Eletrônicos,3.41,Joinville,SC,-26.3045,-48.8456,Website
+O0084,CUS0114,2026-01-03,2026-01-08,Bank Slip,1744.85,Beleza,0.38,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0085,CUS0177,2026-03-02,2026-03-14,Bank Slip,2491.75,Casa,17.41,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0086,CUS0129,2026-02-28,2026-03-08,Debit Card,345.52,Mercado,3.7,Campinas,SP,-22.9056,-47.0608,App
+O0087,CUS0111,2026-03-10,2026-03-16,Bank Slip,727.35,Mercado,9.25,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0088,CUS0100,2026-02-06,2026-02-11,Pix,607.26,Esporte,2.2,Brasília,DF,-15.7801,-47.9292,App
+O0089,CUS0024,2026-03-10,2026-03-16,Credit Card,1405.68,Mercado,10.76,Campinas,SP,-22.9056,-47.0608,App
+O0090,CUS0007,2026-03-04,2026-03-09,Pix,1199.97,Mercado,7.17,Brasília,DF,-15.7801,-47.9292,App
+O0091,CUS0034,2026-02-02,2026-02-13,Bank Slip,1254.73,Eletrônicos,3.1,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0092,CUS0289,2026-01-20,2026-01-26,Pix,258.6,Eletrônicos,1.62,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0093,CUS0268,2026-03-19,2026-03-26,Bank Slip,1153.71,Beleza,0.5,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0094,CUS0051,2026-02-09,2026-02-13,Debit Card,1582.47,Beleza,0.34,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0095,CUS0039,2026-01-31,2026-02-06,Debit Card,56.46,Moda,0.79,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0096,CUS0148,2026-02-07,2026-02-11,Pix,1772.29,Beleza,0.51,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0097,CUS0059,2026-02-03,2026-02-10,Debit Card,1636.67,Moda,1.38,Florianópolis,SC,-27.5954,-48.5480,App
+O0098,CUS0158,2026-01-08,2026-01-14,Pix,1125.87,Eletrônicos,2.61,Goiânia,GO,-16.6869,-49.2648,Website
+O0099,CUS0277,2026-02-21,2026-03-01,Bank Slip,1122.45,Mercado,9.37,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0100,CUS0047,2026-02-11,2026-02-19,Debit Card,2406.68,Mercado,12.7,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0101,CUS0021,2026-01-03,2026-01-11,Debit Card,1202.67,Esporte,6.69,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0102,CUS0252,2026-03-16,2026-03-26,Credit Card,1201.47,Moda,0.73,Vitória,ES,-20.3155,-40.3128,Website
+O0103,CUS0211,2026-01-14,2026-01-20,Bank Slip,756.06,Mercado,14.23,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0104,CUS0130,2026-02-28,2026-03-05,Pix,333.92,Eletrônicos,3.98,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0105,CUS0212,2026-03-26,2026-04-07,Credit Card,509.5,Eletrônicos,2.13,Joinville,SC,-26.3045,-48.8456,Website
+O0106,CUS0137,2026-02-26,2026-03-02,Debit Card,2322.79,Mercado,7.13,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0107,CUS0312,2026-01-16,2026-01-20,Debit Card,1788.94,Beleza,0.38,Vitória,ES,-20.3155,-40.3128,App
+O0108,CUS0059,2026-02-22,2026-02-27,Bank Slip,2370.29,Esporte,6.65,São Paulo,SP,-23.5505,-46.6333,App
+O0109,CUS0140,2026-02-07,2026-02-19,Bank Slip,2095.06,Beleza,0.98,Uberlândia,MG,-18.9113,-48.2622,App
+O0110,CUS0098,2026-03-12,2026-03-18,Debit Card,2166.85,Beleza,0.35,Florianópolis,SC,-27.5954,-48.5480,Website
+O0111,CUS0002,2026-03-06,2026-03-14,Pix,1828.8,Casa,25.45,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0112,CUS0276,2026-03-04,2026-03-10,Bank Slip,895.49,Mercado,8.73,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0113,CUS0097,2026-02-28,2026-03-09,Debit Card,1450.86,Beleza,0.31,Brasília,DF,-15.7801,-47.9292,Website
+O0114,CUS0196,2026-02-10,2026-02-21,Bank Slip,2471.61,Eletrônicos,4.07,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0115,CUS0258,2026-03-05,2026-03-09,Pix,2180.75,Moda,1.34,Maringá,PR,-23.4209,-51.9331,Website
+O0116,CUS0074,2026-03-09,2026-03-20,Bank Slip,2183.77,Eletrônicos,4.86,Curitiba,PR,-25.4284,-49.2733,App
+O0117,CUS0204,2026-02-03,2026-02-12,Credit Card,2136.81,Beleza,0.87,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0118,CUS0278,2026-02-10,2026-02-21,Credit Card,1562.74,Beleza,0.31,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0119,CUS0051,2026-01-30,2026-02-04,Credit Card,1136.96,Casa,21.43,Florianópolis,SC,-27.5954,-48.5480,App
+O0120,CUS0184,2026-02-11,2026-02-15,Pix,1105.13,Eletrônicos,1.6,Campinas,SP,-22.9056,-47.0608,Website
+O0121,CUS0090,2026-03-29,2026-04-04,Credit Card,1543.22,Esporte,4.13,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0122,CUS0237,2026-03-05,2026-03-11,Pix,1175.89,Moda,1.07,São Paulo,SP,-23.5505,-46.6333,Website
+O0123,CUS0038,2026-03-28,2026-04-09,Bank Slip,2365.82,Casa,29.65,Maringá,PR,-23.4209,-51.9331,Website
+O0124,CUS0155,2026-02-24,2026-03-04,Debit Card,2498.47,Mercado,12.95,Joinville,SC,-26.3045,-48.8456,App
+O0125,CUS0152,2026-02-18,2026-02-27,Pix,103.65,Moda,1.28,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0126,CUS0311,2026-01-02,2026-01-06,Bank Slip,2090.44,Casa,27.28,Cuiabá,MT,-15.6014,-56.0979,App
+O0127,CUS0098,2026-02-15,2026-02-22,Pix,1710.49,Esporte,7.35,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0128,CUS0322,2026-01-18,2026-01-23,Credit Card,806.82,Mercado,7.17,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0129,CUS0152,2026-01-17,2026-01-22,Pix,1881.3,Casa,6.92,Cuiabá,MT,-15.6014,-56.0979,App
+O0130,CUS0140,2026-02-16,2026-02-28,Debit Card,679.5,Esporte,8.33,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0131,CUS0039,2026-02-13,2026-02-18,Debit Card,1897.65,Casa,8.32,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0132,CUS0286,2026-03-28,2026-04-07,Pix,271.15,Mercado,6.52,Brasília,DF,-15.7801,-47.9292,Website
+O0133,CUS0345,2026-01-16,2026-01-27,Pix,1482.13,Esporte,8.31,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0134,CUS0013,2026-03-28,2026-04-04,Pix,2292.37,Eletrônicos,1.5,Joinville,SC,-26.3045,-48.8456,App
+O0135,CUS0210,2026-03-01,2026-03-09,Credit Card,392.37,Mercado,14.25,Vitória,ES,-20.3155,-40.3128,Website
+O0136,CUS0276,2026-01-15,2026-01-20,Debit Card,1002.12,Beleza,0.43,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0137,CUS0080,2026-03-11,2026-03-21,Bank Slip,1654.52,Mercado,12.67,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0138,CUS0190,2026-02-05,2026-02-09,Debit Card,1136.23,Beleza,0.96,Uberlândia,MG,-18.9113,-48.2622,Website
+O0139,CUS0331,2026-03-29,2026-04-07,Pix,198.25,Eletrônicos,1.74,Porto Alegre,RS,-30.0346,-51.2177,App
+O0140,CUS0328,2026-01-12,2026-01-19,Credit Card,173.82,Beleza,0.4,Vitória,ES,-20.3155,-40.3128,App
+O0141,CUS0284,2026-01-27,2026-02-01,Debit Card,1486.6,Esporte,8.22,Brasília,DF,-15.7801,-47.9292,App
+O0142,CUS0075,2026-01-19,2026-01-23,Debit Card,1373.48,Casa,24.36,Campinas,SP,-22.9056,-47.0608,App
+O0143,CUS0184,2026-01-04,2026-01-10,Debit Card,1492.65,Mercado,1.22,Curitiba,PR,-25.4284,-49.2733,Website
+O0144,CUS0059,2026-01-17,2026-01-27,Credit Card,1216.75,Eletrônicos,4.0,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0145,CUS0114,2026-01-14,2026-01-25,Credit Card,1831.72,Esporte,9.13,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0146,CUS0016,2026-02-08,2026-02-19,Credit Card,2496.54,Esporte,8.55,Vitória,ES,-20.3155,-40.3128,Website
+O0147,CUS0228,2026-01-14,2026-01-25,Credit Card,2253.19,Mercado,5.51,Uberlândia,MG,-18.9113,-48.2622,App
+O0148,CUS0325,2026-01-17,2026-01-25,Pix,983.15,Eletrônicos,3.19,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0149,CUS0059,2026-03-06,2026-03-16,Debit Card,1103.61,Beleza,0.9,Londrina,PR,-23.3103,-51.1628,Website
+O0150,CUS0049,2026-02-28,2026-03-10,Pix,1095.51,Casa,20.62,Florianópolis,SC,-27.5954,-48.5480,Website
+O0151,CUS0047,2026-03-29,2026-04-09,Credit Card,278.32,Moda,0.33,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0152,CUS0301,2026-01-17,2026-01-29,Pix,1691.5,Casa,13.5,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0153,CUS0160,2026-01-07,2026-01-15,Pix,303.73,Beleza,0.56,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0154,CUS0056,2026-03-03,2026-03-10,Pix,2121.15,Mercado,6.15,Brasília,DF,-15.7801,-47.9292,Website
+O0155,CUS0288,2026-01-29,2026-02-08,Credit Card,1542.0,Esporte,6.75,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0156,CUS0159,2026-01-04,2026-01-10,Pix,909.94,Casa,7.08,Campinas,SP,-22.9056,-47.0608,App
+O0157,CUS0073,2026-03-26,2026-04-05,Credit Card,274.72,Esporte,5.54,Londrina,PR,-23.3103,-51.1628,Website
+O0158,CUS0190,2026-02-28,2026-03-09,Pix,1817.88,Beleza,0.8,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0159,CUS0081,2026-01-11,2026-01-15,Credit Card,1701.19,Esporte,3.08,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0160,CUS0140,2026-03-04,2026-03-15,Debit Card,1899.59,Beleza,0.2,Florianópolis,SC,-27.5954,-48.5480,Website
+O0161,CUS0342,2026-02-06,2026-02-17,Pix,161.18,Eletrônicos,2.28,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0162,CUS0109,2026-01-01,2026-01-08,Debit Card,1922.17,Eletrônicos,1.8,Campinas,SP,-22.9056,-47.0608,App
+O0163,CUS0067,2026-03-05,2026-03-15,Bank Slip,1354.78,Eletrônicos,1.54,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0164,CUS0022,2026-02-15,2026-02-20,Bank Slip,95.82,Mercado,13.9,Florianópolis,SC,-27.5954,-48.5480,Website
+O0165,CUS0328,2026-02-24,2026-03-06,Bank Slip,759.24,Esporte,4.35,Uberlândia,MG,-18.9113,-48.2622,Website
+O0166,CUS0186,2026-03-21,2026-04-01,Credit Card,1119.89,Moda,0.34,Brasília,DF,-15.7801,-47.9292,Website
+O0167,CUS0203,2026-02-21,2026-03-05,Pix,1877.2,Esporte,2.6,Londrina,PR,-23.3103,-51.1628,App
+O0168,CUS0262,2026-03-07,2026-03-12,Debit Card,2269.5,Eletrônicos,2.07,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0169,CUS0075,2026-01-19,2026-01-26,Pix,533.24,Mercado,9.43,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0170,CUS0289,2026-01-23,2026-02-03,Bank Slip,1718.75,Eletrônicos,4.47,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0171,CUS0322,2026-03-21,2026-03-30,Pix,419.76,Mercado,1.96,Brasília,DF,-15.7801,-47.9292,Website
+O0172,CUS0029,2026-02-08,2026-02-16,Pix,1292.93,Mercado,5.35,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0173,CUS0147,2026-01-08,2026-01-17,Credit Card,1629.4,Eletrônicos,4.9,Brasília,DF,-15.7801,-47.9292,App
+O0174,CUS0237,2026-03-18,2026-03-30,Credit Card,1151.79,Esporte,8.19,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0175,CUS0078,2026-02-11,2026-02-22,Credit Card,1153.73,Moda,1.25,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0176,CUS0089,2026-01-11,2026-01-23,Credit Card,656.9,Mercado,7.13,Vitória,ES,-20.3155,-40.3128,Website
+O0177,CUS0191,2026-03-08,2026-03-14,Pix,999.11,Esporte,7.86,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0178,CUS0169,2026-01-07,2026-01-16,Credit Card,1416.97,Esporte,4.17,Londrina,PR,-23.3103,-51.1628,Website
+O0179,CUS0042,2026-03-26,2026-04-01,Debit Card,2296.02,Mercado,5.34,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0180,CUS0305,2026-03-26,2026-04-05,Credit Card,808.41,Mercado,6.27,Maringá,PR,-23.4209,-51.9331,Website
+O0181,CUS0331,2026-03-27,2026-04-08,Bank Slip,1295.75,Moda,0.22,Londrina,PR,-23.3103,-51.1628,Website
+O0182,CUS0249,2026-01-28,2026-02-06,Debit Card,604.95,Moda,0.38,Goiânia,GO,-16.6869,-49.2648,App
+O0183,CUS0277,2026-01-13,2026-01-25,Credit Card,1671.69,Casa,26.54,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0184,CUS0084,2026-03-18,2026-03-28,Debit Card,2086.78,Moda,1.2,Maringá,PR,-23.4209,-51.9331,App
+O0185,CUS0187,2026-02-26,2026-03-02,Debit Card,2425.49,Mercado,9.55,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0186,CUS0159,2026-01-30,2026-02-11,Bank Slip,2264.73,Beleza,0.27,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0187,CUS0145,2026-02-26,2026-03-09,Bank Slip,1282.07,Esporte,4.48,Goiânia,GO,-16.6869,-49.2648,App
+O0188,CUS0129,2026-03-19,2026-03-25,Credit Card,1620.85,Moda,1.34,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0189,CUS0043,2026-03-08,2026-03-13,Debit Card,718.27,Eletrônicos,4.57,Campinas,SP,-22.9056,-47.0608,App
+O0190,CUS0231,2026-01-12,2026-01-19,Pix,2329.65,Beleza,0.47,Brasília,DF,-15.7801,-47.9292,Website
+O0191,CUS0042,2026-02-17,2026-02-24,Pix,600.04,Esporte,3.53,Florianópolis,SC,-27.5954,-48.5480,App
+O0192,CUS0075,2026-03-25,2026-04-03,Debit Card,143.75,Mercado,13.84,Goiânia,GO,-16.6869,-49.2648,Website
+O0193,CUS0316,2026-01-18,2026-01-29,Credit Card,2269.34,Mercado,1.27,Joinville,SC,-26.3045,-48.8456,App
+O0194,CUS0057,2026-03-12,2026-03-24,Pix,632.14,Moda,0.36,Florianópolis,SC,-27.5954,-48.5480,App
+O0195,CUS0057,2026-03-23,2026-04-03,Bank Slip,1511.97,Beleza,0.11,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0196,CUS0220,2026-01-31,2026-02-06,Credit Card,1556.24,Esporte,2.79,Campinas,SP,-22.9056,-47.0608,Website
+O0197,CUS0185,2026-03-27,2026-04-01,Credit Card,2385.83,Moda,0.91,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0198,CUS0241,2026-01-03,2026-01-13,Credit Card,1607.36,Esporte,9.82,Brasília,DF,-15.7801,-47.9292,Website
+O0199,CUS0035,2026-01-03,2026-01-12,Pix,640.68,Mercado,10.2,Goiânia,GO,-16.6869,-49.2648,App
+O0200,CUS0181,2026-02-12,2026-02-18,Pix,2043.08,Esporte,2.16,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0201,CUS0094,2026-03-31,2026-04-11,Debit Card,204.5,Beleza,0.8,Vitória,ES,-20.3155,-40.3128,Website
+O0202,CUS0103,2026-02-07,2026-02-14,Credit Card,823.14,Eletrônicos,1.9,Curitiba,PR,-25.4284,-49.2733,Website
+O0203,CUS0332,2026-03-02,2026-03-10,Debit Card,750.9,Esporte,8.69,Curitiba,PR,-25.4284,-49.2733,App
+O0204,CUS0189,2026-02-12,2026-02-20,Bank Slip,2229.23,Mercado,11.41,Londrina,PR,-23.3103,-51.1628,Website
+O0205,CUS0255,2026-01-24,2026-02-04,Pix,2314.55,Casa,16.54,Uberlândia,MG,-18.9113,-48.2622,App
+O0206,CUS0309,2026-02-24,2026-03-01,Debit Card,1386.37,Mercado,5.5,Florianópolis,SC,-27.5954,-48.5480,App
+O0207,CUS0229,2026-03-26,2026-04-03,Bank Slip,458.2,Casa,14.43,Campinas,SP,-22.9056,-47.0608,Website
+O0208,CUS0328,2026-02-15,2026-02-25,Credit Card,233.76,Eletrônicos,3.37,Campinas,SP,-22.9056,-47.0608,Website
+O0209,CUS0074,2026-03-28,2026-04-03,Bank Slip,135.16,Esporte,1.14,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0210,CUS0017,2026-02-16,2026-02-26,Debit Card,1713.67,Casa,28.57,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0211,CUS0188,2026-01-10,2026-01-16,Bank Slip,820.18,Beleza,0.35,Porto Alegre,RS,-30.0346,-51.2177,App
+O0212,CUS0199,2026-01-24,2026-02-04,Credit Card,691.28,Eletrônicos,1.67,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0213,CUS0252,2026-03-20,2026-03-28,Debit Card,350.37,Moda,1.31,Uberlândia,MG,-18.9113,-48.2622,Website
+O0214,CUS0350,2026-02-26,2026-03-03,Pix,1686.17,Moda,1.12,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0215,CUS0081,2026-02-07,2026-02-15,Debit Card,1994.54,Esporte,5.33,Brasília,DF,-15.7801,-47.9292,App
+O0216,CUS0253,2026-01-18,2026-01-25,Credit Card,934.13,Moda,0.94,Goiânia,GO,-16.6869,-49.2648,Website
+O0217,CUS0159,2026-01-17,2026-01-22,Bank Slip,2499.01,Esporte,7.33,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0218,CUS0163,2026-02-22,2026-02-27,Credit Card,1152.38,Beleza,0.71,Maringá,PR,-23.4209,-51.9331,Website
+O0219,CUS0067,2026-03-12,2026-03-18,Bank Slip,1281.97,Moda,1.33,Goiânia,GO,-16.6869,-49.2648,App
+O0220,CUS0083,2026-01-20,2026-01-28,Pix,2340.1,Esporte,2.64,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0221,CUS0326,2026-01-11,2026-01-19,Pix,356.58,Casa,10.48,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0222,CUS0298,2026-03-06,2026-03-12,Debit Card,469.36,Eletrônicos,3.31,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0223,CUS0015,2026-03-14,2026-03-18,Credit Card,161.29,Casa,19.96,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0224,CUS0293,2026-03-25,2026-04-01,Bank Slip,1564.33,Casa,2.85,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0225,CUS0126,2026-02-07,2026-02-15,Bank Slip,778.64,Esporte,1.19,Joinville,SC,-26.3045,-48.8456,App
+O0226,CUS0238,2026-02-26,2026-03-08,Debit Card,883.41,Moda,0.39,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0227,CUS0190,2026-02-14,2026-02-24,Credit Card,831.77,Casa,15.06,Maringá,PR,-23.4209,-51.9331,Website
+O0228,CUS0026,2026-02-01,2026-02-07,Pix,2366.19,Beleza,0.88,Londrina,PR,-23.3103,-51.1628,Website
+O0229,CUS0296,2026-01-21,2026-01-30,Pix,515.01,Moda,0.41,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0230,CUS0012,2026-03-05,2026-03-13,Credit Card,2365.81,Beleza,0.55,Joinville,SC,-26.3045,-48.8456,App
+O0231,CUS0026,2026-03-16,2026-03-25,Pix,1262.44,Moda,1.35,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0232,CUS0005,2026-03-02,2026-03-10,Credit Card,1105.72,Mercado,13.35,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0233,CUS0206,2026-02-21,2026-03-02,Credit Card,1447.15,Casa,7.45,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0234,CUS0231,2026-01-10,2026-01-20,Pix,2072.0,Casa,19.45,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0235,CUS0192,2026-01-17,2026-01-22,Pix,1416.64,Eletrônicos,2.15,Florianópolis,SC,-27.5954,-48.5480,App
+O0236,CUS0257,2026-03-19,2026-03-31,Credit Card,160.9,Moda,0.38,Florianópolis,SC,-27.5954,-48.5480,Website
+O0237,CUS0311,2026-03-08,2026-03-19,Debit Card,853.45,Beleza,0.65,Maringá,PR,-23.4209,-51.9331,App
+O0238,CUS0173,2026-03-20,2026-03-28,Bank Slip,1786.38,Beleza,0.37,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0239,CUS0299,2026-02-12,2026-02-17,Pix,2002.03,Casa,22.31,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0240,CUS0336,2026-01-04,2026-01-15,Debit Card,1817.4,Mercado,9.17,Campinas,SP,-22.9056,-47.0608,App
+O0241,CUS0349,2026-03-22,2026-04-01,Debit Card,127.25,Esporte,9.51,Maringá,PR,-23.4209,-51.9331,App
+O0242,CUS0215,2026-01-03,2026-01-14,Debit Card,1061.69,Moda,0.47,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0243,CUS0071,2026-03-02,2026-03-06,Debit Card,1424.13,Esporte,9.98,Uberlândia,MG,-18.9113,-48.2622,Website
+O0244,CUS0236,2026-02-18,2026-02-27,Pix,1388.32,Esporte,6.92,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0245,CUS0248,2026-03-24,2026-04-01,Debit Card,2395.47,Mercado,4.91,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0246,CUS0107,2026-02-08,2026-02-16,Bank Slip,826.68,Moda,0.65,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0247,CUS0347,2026-02-06,2026-02-11,Bank Slip,2244.6,Casa,13.05,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0248,CUS0041,2026-02-07,2026-02-11,Pix,2313.82,Moda,1.05,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0249,CUS0276,2026-01-28,2026-02-04,Pix,2335.9,Beleza,0.73,Brasília,DF,-15.7801,-47.9292,App
+O0250,CUS0026,2026-03-20,2026-03-27,Debit Card,1612.93,Eletrônicos,0.74,São Paulo,SP,-23.5505,-46.6333,Website
+O0251,CUS0071,2026-03-02,2026-03-07,Credit Card,2413.07,Casa,29.38,Vitória,ES,-20.3155,-40.3128,App
+O0252,CUS0334,2026-03-25,2026-04-05,Debit Card,1901.96,Beleza,0.36,Joinville,SC,-26.3045,-48.8456,Website
+O0253,CUS0294,2026-01-08,2026-01-13,Debit Card,1361.08,Mercado,11.12,Vitória,ES,-20.3155,-40.3128,App
+O0254,CUS0019,2026-02-23,2026-03-01,Bank Slip,1980.48,Moda,0.44,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0255,CUS0291,2026-01-05,2026-01-09,Credit Card,2324.71,Casa,11.38,Campinas,SP,-22.9056,-47.0608,Website
+O0256,CUS0069,2026-03-11,2026-03-23,Bank Slip,718.38,Mercado,12.32,Joinville,SC,-26.3045,-48.8456,Website
+O0257,CUS0096,2026-02-28,2026-03-08,Credit Card,1854.69,Moda,1.23,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0258,CUS0328,2026-01-25,2026-01-31,Bank Slip,2076.11,Mercado,8.21,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0259,CUS0072,2026-03-27,2026-04-01,Bank Slip,842.76,Beleza,0.32,Maringá,PR,-23.4209,-51.9331,Website
+O0260,CUS0137,2026-01-31,2026-02-11,Pix,789.7,Beleza,0.75,Goiânia,GO,-16.6869,-49.2648,App
+O0261,CUS0121,2026-03-25,2026-04-03,Credit Card,1686.04,Casa,15.03,Uberlândia,MG,-18.9113,-48.2622,App
+O0262,CUS0160,2026-03-29,2026-04-10,Credit Card,1614.81,Beleza,0.95,Cuiabá,MT,-15.6014,-56.0979,Website
+O0263,CUS0245,2026-01-29,2026-02-05,Debit Card,1164.64,Esporte,9.89,Maringá,PR,-23.4209,-51.9331,Website
+O0264,CUS0242,2026-03-31,2026-04-12,Debit Card,1916.53,Beleza,0.71,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0265,CUS0186,2026-03-09,2026-03-20,Credit Card,2297.24,Eletrônicos,1.0,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0266,CUS0085,2026-01-26,2026-02-07,Pix,2143.48,Esporte,4.7,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0267,CUS0262,2026-03-16,2026-03-27,Bank Slip,2031.28,Moda,0.79,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0268,CUS0237,2026-02-28,2026-03-04,Pix,1822.01,Beleza,0.46,Porto Alegre,RS,-30.0346,-51.2177,App
+O0269,CUS0217,2026-01-28,2026-02-02,Pix,1765.91,Mercado,8.58,Curitiba,PR,-25.4284,-49.2733,App
+O0270,CUS0210,2026-03-02,2026-03-06,Debit Card,1933.96,Eletrônicos,3.95,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0271,CUS0196,2026-02-23,2026-03-04,Bank Slip,2180.56,Mercado,13.69,Cuiabá,MT,-15.6014,-56.0979,Website
+O0272,CUS0335,2026-03-29,2026-04-10,Pix,340.56,Eletrônicos,4.97,Maringá,PR,-23.4209,-51.9331,Website
+O0273,CUS0002,2026-01-17,2026-01-24,Credit Card,2447.3,Esporte,4.9,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0274,CUS0118,2026-02-24,2026-03-08,Debit Card,1178.48,Esporte,1.97,Florianópolis,SC,-27.5954,-48.5480,App
+O0275,CUS0339,2026-01-15,2026-01-19,Bank Slip,1556.52,Mercado,14.11,Goiânia,GO,-16.6869,-49.2648,App
+O0276,CUS0305,2026-01-27,2026-02-01,Credit Card,1143.73,Moda,1.07,Londrina,PR,-23.3103,-51.1628,App
+O0277,CUS0120,2026-01-06,2026-01-16,Debit Card,1898.22,Moda,1.21,Joinville,SC,-26.3045,-48.8456,App
+O0278,CUS0295,2026-02-07,2026-02-14,Pix,1464.77,Esporte,7.84,Brasília,DF,-15.7801,-47.9292,Website
+O0279,CUS0267,2026-02-08,2026-02-14,Debit Card,1063.16,Moda,0.56,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0280,CUS0254,2026-01-23,2026-02-02,Credit Card,2432.11,Esporte,9.45,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0281,CUS0214,2026-03-09,2026-03-18,Bank Slip,415.5,Beleza,0.44,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0282,CUS0074,2026-01-31,2026-02-07,Bank Slip,2291.11,Beleza,0.61,Campinas,SP,-22.9056,-47.0608,Website
+O0283,CUS0125,2026-03-09,2026-03-15,Pix,548.1,Esporte,6.64,Florianópolis,SC,-27.5954,-48.5480,Website
+O0284,CUS0098,2026-01-12,2026-01-24,Credit Card,707.66,Casa,20.86,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0285,CUS0301,2026-01-10,2026-01-17,Debit Card,1224.46,Eletrônicos,4.41,Goiânia,GO,-16.6869,-49.2648,Website
+O0286,CUS0098,2026-01-02,2026-01-09,Credit Card,1879.83,Casa,23.12,Cuiabá,MT,-15.6014,-56.0979,App
+O0287,CUS0123,2026-03-19,2026-03-26,Pix,1949.99,Mercado,6.33,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0288,CUS0185,2026-02-15,2026-02-23,Bank Slip,1191.66,Mercado,12.24,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0289,CUS0161,2026-02-10,2026-02-17,Bank Slip,161.91,Beleza,0.88,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0290,CUS0300,2026-01-03,2026-01-11,Bank Slip,773.15,Moda,0.46,Porto Alegre,RS,-30.0346,-51.2177,App
+O0291,CUS0282,2026-03-14,2026-03-21,Pix,680.38,Beleza,0.84,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0292,CUS0181,2026-03-04,2026-03-15,Debit Card,392.81,Mercado,8.65,Maringá,PR,-23.4209,-51.9331,App
+O0293,CUS0018,2026-03-24,2026-03-28,Credit Card,2365.71,Esporte,6.85,Porto Alegre,RS,-30.0346,-51.2177,App
+O0294,CUS0078,2026-01-18,2026-01-25,Credit Card,585.79,Beleza,0.51,Londrina,PR,-23.3103,-51.1628,App
+O0295,CUS0250,2026-03-23,2026-04-03,Credit Card,66.1,Esporte,5.74,Vitória,ES,-20.3155,-40.3128,App
+O0296,CUS0147,2026-03-09,2026-03-17,Credit Card,1280.38,Eletrônicos,3.64,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0297,CUS0077,2026-01-14,2026-01-19,Debit Card,520.15,Moda,0.88,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0298,CUS0208,2026-02-20,2026-02-25,Bank Slip,1434.21,Casa,29.73,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0299,CUS0333,2026-03-29,2026-04-03,Credit Card,278.99,Casa,12.62,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0300,CUS0088,2026-01-08,2026-01-12,Credit Card,1274.6,Beleza,0.49,Uberlândia,MG,-18.9113,-48.2622,Website
+O0301,CUS0022,2026-01-13,2026-01-25,Debit Card,567.89,Esporte,8.75,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0302,CUS0039,2026-02-04,2026-02-08,Pix,2253.3,Beleza,0.61,Cuiabá,MT,-15.6014,-56.0979,App
+O0303,CUS0301,2026-02-10,2026-02-14,Debit Card,1893.0,Moda,1.13,São Paulo,SP,-23.5505,-46.6333,Website
+O0304,CUS0124,2026-02-08,2026-02-14,Bank Slip,1708.7,Eletrônicos,2.93,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0305,CUS0178,2026-01-18,2026-01-23,Credit Card,289.24,Mercado,4.25,Porto Alegre,RS,-30.0346,-51.2177,App
+O0306,CUS0168,2026-03-19,2026-03-29,Credit Card,1603.56,Casa,23.94,Goiânia,GO,-16.6869,-49.2648,Website
+O0307,CUS0193,2026-01-30,2026-02-08,Bank Slip,504.98,Beleza,0.63,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0308,CUS0127,2026-03-21,2026-03-29,Credit Card,250.9,Eletrônicos,1.19,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0309,CUS0185,2026-01-20,2026-01-30,Credit Card,274.13,Mercado,14.2,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0310,CUS0045,2026-02-04,2026-02-09,Debit Card,1105.84,Casa,17.6,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0311,CUS0182,2026-01-14,2026-01-18,Credit Card,1512.42,Beleza,0.81,Londrina,PR,-23.3103,-51.1628,Website
+O0312,CUS0044,2026-02-07,2026-02-17,Debit Card,1451.26,Eletrônicos,1.26,Florianópolis,SC,-27.5954,-48.5480,Website
+O0313,CUS0138,2026-01-18,2026-01-26,Bank Slip,407.45,Moda,0.42,Campinas,SP,-22.9056,-47.0608,Website
+O0314,CUS0040,2026-02-08,2026-02-19,Pix,666.59,Beleza,0.32,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0315,CUS0055,2026-03-18,2026-03-25,Debit Card,796.34,Beleza,0.95,Joinville,SC,-26.3045,-48.8456,Website
+O0316,CUS0172,2026-02-18,2026-02-27,Bank Slip,2047.9,Esporte,8.67,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0317,CUS0103,2026-02-08,2026-02-17,Bank Slip,819.68,Moda,1.45,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0318,CUS0125,2026-03-30,2026-04-10,Pix,971.27,Casa,24.86,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0319,CUS0280,2026-01-15,2026-01-22,Debit Card,1720.16,Casa,17.4,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0320,CUS0150,2026-01-27,2026-02-07,Credit Card,2056.45,Beleza,0.82,Goiânia,GO,-16.6869,-49.2648,Website
+O0321,CUS0156,2026-03-05,2026-03-11,Debit Card,669.0,Mercado,3.16,Vitória,ES,-20.3155,-40.3128,Website
+O0322,CUS0246,2026-01-10,2026-01-21,Bank Slip,1359.15,Beleza,0.93,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0323,CUS0185,2026-03-11,2026-03-15,Credit Card,317.87,Beleza,0.32,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0324,CUS0331,2026-01-22,2026-01-26,Bank Slip,2418.68,Casa,11.28,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0325,CUS0114,2026-01-02,2026-01-07,Debit Card,1142.1,Eletrônicos,2.26,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0326,CUS0177,2026-03-30,2026-04-11,Credit Card,1232.74,Esporte,3.31,Maringá,PR,-23.4209,-51.9331,App
+O0327,CUS0176,2026-01-19,2026-01-28,Bank Slip,1971.44,Eletrônicos,2.85,Campinas,SP,-22.9056,-47.0608,Website
+O0328,CUS0232,2026-01-13,2026-01-24,Pix,214.48,Beleza,0.14,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0329,CUS0056,2026-01-03,2026-01-12,Debit Card,2328.3,Eletrônicos,3.83,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0330,CUS0287,2026-03-12,2026-03-18,Bank Slip,2398.23,Moda,0.5,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0331,CUS0337,2026-01-24,2026-01-30,Bank Slip,1019.12,Mercado,11.32,Vitória,ES,-20.3155,-40.3128,App
+O0332,CUS0003,2026-03-17,2026-03-27,Debit Card,554.09,Beleza,0.78,Florianópolis,SC,-27.5954,-48.5480,App
+O0333,CUS0188,2026-01-14,2026-01-26,Pix,532.75,Esporte,1.58,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0334,CUS0199,2026-03-09,2026-03-18,Bank Slip,1488.12,Beleza,0.41,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0335,CUS0315,2026-01-23,2026-01-31,Credit Card,1696.64,Esporte,3.48,Cuiabá,MT,-15.6014,-56.0979,App
+O0336,CUS0073,2026-01-15,2026-01-21,Bank Slip,1074.63,Casa,5.86,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0337,CUS0276,2026-01-24,2026-02-04,Debit Card,1409.49,Beleza,0.54,Vitória,ES,-20.3155,-40.3128,App
+O0338,CUS0028,2026-02-10,2026-02-21,Pix,2382.01,Moda,0.83,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0339,CUS0254,2026-03-13,2026-03-25,Bank Slip,1727.48,Beleza,0.47,Vitória,ES,-20.3155,-40.3128,Website
+O0340,CUS0016,2026-01-22,2026-01-27,Debit Card,765.55,Beleza,0.35,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0341,CUS0254,2026-01-22,2026-02-02,Credit Card,1453.11,Casa,9.5,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0342,CUS0226,2026-03-11,2026-03-15,Debit Card,2474.95,Casa,4.87,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0343,CUS0135,2026-02-08,2026-02-12,Pix,2162.38,Moda,0.31,Joinville,SC,-26.3045,-48.8456,App
+O0344,CUS0313,2026-01-27,2026-02-05,Bank Slip,456.57,Moda,0.38,Brasília,DF,-15.7801,-47.9292,App
+O0345,CUS0144,2026-01-08,2026-01-17,Debit Card,842.88,Moda,1.12,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0346,CUS0348,2026-02-04,2026-02-16,Credit Card,382.11,Esporte,7.63,Cuiabá,MT,-15.6014,-56.0979,Website
+O0347,CUS0068,2026-02-05,2026-02-11,Debit Card,408.21,Eletrônicos,1.95,Uberlândia,MG,-18.9113,-48.2622,App
+O0348,CUS0296,2026-02-20,2026-03-03,Pix,1588.1,Mercado,6.25,Maringá,PR,-23.4209,-51.9331,App
+O0349,CUS0143,2026-01-12,2026-01-22,Pix,1163.95,Mercado,7.83,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0350,CUS0341,2026-01-12,2026-01-23,Pix,2132.75,Eletrônicos,4.08,Vitória,ES,-20.3155,-40.3128,Website
+O0351,CUS0138,2026-02-24,2026-03-03,Pix,2079.42,Moda,0.64,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0352,CUS0176,2026-03-14,2026-03-25,Credit Card,162.46,Moda,1.01,Goiânia,GO,-16.6869,-49.2648,Website
+O0353,CUS0234,2026-01-16,2026-01-22,Credit Card,2480.0,Eletrônicos,2.43,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0354,CUS0141,2026-03-25,2026-04-02,Credit Card,1653.71,Moda,0.53,Maringá,PR,-23.4209,-51.9331,Website
+O0355,CUS0203,2026-03-25,2026-03-31,Pix,1828.64,Mercado,11.57,Curitiba,PR,-25.4284,-49.2733,Website
+O0356,CUS0110,2026-01-12,2026-01-17,Bank Slip,240.86,Mercado,9.31,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0357,CUS0176,2026-02-26,2026-03-02,Credit Card,2470.98,Mercado,6.91,Curitiba,PR,-25.4284,-49.2733,App
+O0358,CUS0046,2026-01-10,2026-01-17,Credit Card,302.75,Beleza,0.43,Florianópolis,SC,-27.5954,-48.5480,Website
+O0359,CUS0347,2026-02-18,2026-02-24,Debit Card,217.52,Moda,0.93,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0360,CUS0110,2026-01-22,2026-02-02,Debit Card,2303.73,Mercado,9.63,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0361,CUS0064,2026-01-12,2026-01-17,Bank Slip,911.2,Moda,0.76,Maringá,PR,-23.4209,-51.9331,App
+O0362,CUS0284,2026-02-05,2026-02-10,Pix,1958.45,Moda,1.1,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0363,CUS0261,2026-01-27,2026-02-08,Debit Card,1882.19,Casa,10.28,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0364,CUS0124,2026-03-05,2026-03-15,Bank Slip,1613.27,Moda,0.29,Londrina,PR,-23.3103,-51.1628,App
+O0365,CUS0292,2026-02-10,2026-02-16,Bank Slip,945.2,Casa,21.12,Florianópolis,SC,-27.5954,-48.5480,Website
+O0366,CUS0135,2026-01-03,2026-01-08,Debit Card,147.48,Eletrônicos,0.77,Curitiba,PR,-25.4284,-49.2733,Website
+O0367,CUS0213,2026-02-06,2026-02-18,Bank Slip,1769.41,Esporte,1.28,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0368,CUS0043,2026-03-20,2026-03-26,Pix,243.51,Esporte,9.25,Campinas,SP,-22.9056,-47.0608,App
+O0369,CUS0325,2026-02-11,2026-02-21,Credit Card,809.85,Esporte,4.66,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0370,CUS0223,2026-02-01,2026-02-06,Credit Card,1160.71,Eletrônicos,3.24,Cuiabá,MT,-15.6014,-56.0979,Website
+O0371,CUS0007,2026-03-26,2026-04-01,Debit Card,1768.64,Mercado,3.29,Londrina,PR,-23.3103,-51.1628,Website
+O0372,CUS0191,2026-03-08,2026-03-16,Debit Card,1886.93,Esporte,8.8,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0373,CUS0220,2026-01-04,2026-01-13,Pix,1333.4,Eletrônicos,1.68,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0374,CUS0262,2026-01-10,2026-01-21,Pix,185.73,Mercado,13.03,Joinville,SC,-26.3045,-48.8456,App
+O0375,CUS0053,2026-01-21,2026-01-29,Credit Card,609.51,Casa,16.25,Goiânia,GO,-16.6869,-49.2648,App
+O0376,CUS0187,2026-02-01,2026-02-05,Bank Slip,2304.55,Eletrônicos,1.31,Joinville,SC,-26.3045,-48.8456,App
+O0377,CUS0165,2026-03-25,2026-04-04,Debit Card,1069.77,Esporte,7.34,São Paulo,SP,-23.5505,-46.6333,Website
+O0378,CUS0258,2026-03-15,2026-03-24,Credit Card,489.31,Eletrônicos,4.12,Londrina,PR,-23.3103,-51.1628,App
+O0379,CUS0145,2026-01-09,2026-01-20,Pix,851.82,Beleza,0.6,Brasília,DF,-15.7801,-47.9292,App
+O0380,CUS0156,2026-01-26,2026-02-03,Debit Card,1186.57,Casa,18.57,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0381,CUS0004,2026-03-11,2026-03-18,Bank Slip,108.48,Moda,0.9,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0382,CUS0337,2026-01-02,2026-01-11,Bank Slip,2130.05,Mercado,11.18,Curitiba,PR,-25.4284,-49.2733,App
+O0383,CUS0252,2026-03-09,2026-03-16,Credit Card,2432.77,Moda,0.39,Florianópolis,SC,-27.5954,-48.5480,Website
+O0384,CUS0267,2026-01-06,2026-01-13,Bank Slip,1767.05,Eletrônicos,2.18,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0385,CUS0069,2026-03-16,2026-03-21,Bank Slip,233.24,Eletrônicos,3.06,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0386,CUS0134,2026-01-17,2026-01-24,Pix,2318.8,Mercado,6.5,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0387,CUS0120,2026-02-10,2026-02-21,Credit Card,2361.7,Casa,5.81,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0388,CUS0231,2026-01-20,2026-01-25,Bank Slip,819.31,Eletrônicos,1.04,Maringá,PR,-23.4209,-51.9331,Website
+O0389,CUS0136,2026-02-27,2026-03-07,Credit Card,271.44,Moda,1.25,Joinville,SC,-26.3045,-48.8456,Website
+O0390,CUS0168,2026-03-31,2026-04-04,Debit Card,273.38,Mercado,4.48,São Paulo,SP,-23.5505,-46.6333,Website
+O0391,CUS0154,2026-03-07,2026-03-11,Pix,2059.2,Beleza,0.26,Vitória,ES,-20.3155,-40.3128,Website
+O0392,CUS0049,2026-03-13,2026-03-25,Bank Slip,299.58,Beleza,0.81,São Paulo,SP,-23.5505,-46.6333,App
+O0393,CUS0102,2026-01-08,2026-01-15,Bank Slip,961.92,Eletrônicos,3.34,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0394,CUS0039,2026-03-16,2026-03-24,Credit Card,2493.05,Eletrônicos,1.39,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0395,CUS0170,2026-01-17,2026-01-22,Credit Card,154.51,Beleza,0.51,Cuiabá,MT,-15.6014,-56.0979,App
+O0396,CUS0016,2026-02-25,2026-03-07,Bank Slip,1723.84,Esporte,2.14,Joinville,SC,-26.3045,-48.8456,App
+O0397,CUS0077,2026-02-05,2026-02-13,Credit Card,1554.52,Moda,1.0,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0398,CUS0282,2026-03-05,2026-03-15,Bank Slip,199.3,Casa,9.83,Cuiabá,MT,-15.6014,-56.0979,App
+O0399,CUS0323,2026-01-26,2026-02-07,Credit Card,2474.04,Beleza,0.8,São Paulo,SP,-23.5505,-46.6333,Website
+O0400,CUS0290,2026-03-11,2026-03-22,Pix,1001.47,Beleza,0.26,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0401,CUS0144,2026-01-29,2026-02-02,Credit Card,2031.18,Esporte,4.98,Cuiabá,MT,-15.6014,-56.0979,Website
+O0402,CUS0127,2026-01-30,2026-02-05,Debit Card,702.92,Esporte,8.25,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0403,CUS0089,2026-01-29,2026-02-08,Debit Card,629.47,Eletrônicos,1.93,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0404,CUS0181,2026-02-15,2026-02-19,Debit Card,1429.57,Mercado,3.64,Uberlândia,MG,-18.9113,-48.2622,Website
+O0405,CUS0020,2026-02-09,2026-02-15,Credit Card,187.52,Esporte,6.22,Joinville,SC,-26.3045,-48.8456,App
+O0406,CUS0315,2026-03-03,2026-03-07,Debit Card,2025.77,Esporte,3.74,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0407,CUS0301,2026-01-08,2026-01-12,Debit Card,1947.18,Casa,25.7,Maringá,PR,-23.4209,-51.9331,Website
+O0408,CUS0052,2026-02-17,2026-02-27,Pix,789.25,Eletrônicos,1.11,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0409,CUS0163,2026-02-25,2026-03-08,Debit Card,1782.57,Mercado,8.87,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0410,CUS0158,2026-01-29,2026-02-04,Pix,361.92,Casa,22.41,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0411,CUS0309,2026-02-20,2026-02-24,Pix,2306.54,Esporte,9.69,Maringá,PR,-23.4209,-51.9331,App
+O0412,CUS0255,2026-03-14,2026-03-19,Debit Card,861.3,Mercado,2.09,Cuiabá,MT,-15.6014,-56.0979,Website
+O0413,CUS0344,2026-01-22,2026-01-27,Pix,1144.19,Casa,9.43,Brasília,DF,-15.7801,-47.9292,App
+O0414,CUS0056,2026-01-09,2026-01-18,Credit Card,167.87,Mercado,7.14,Campinas,SP,-22.9056,-47.0608,Website
+O0415,CUS0194,2026-02-22,2026-03-05,Pix,1387.71,Moda,0.33,Cuiabá,MT,-15.6014,-56.0979,Website
+O0416,CUS0232,2026-03-25,2026-04-01,Credit Card,2008.01,Esporte,0.82,Maringá,PR,-23.4209,-51.9331,App
+O0417,CUS0176,2026-02-03,2026-02-08,Debit Card,2225.42,Casa,6.51,Londrina,PR,-23.3103,-51.1628,App
+O0418,CUS0315,2026-01-12,2026-01-21,Bank Slip,1776.01,Esporte,4.6,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0419,CUS0028,2026-03-19,2026-03-29,Credit Card,861.11,Moda,1.47,Maringá,PR,-23.4209,-51.9331,Website
+O0420,CUS0339,2026-03-12,2026-03-24,Pix,778.56,Mercado,2.34,Campinas,SP,-22.9056,-47.0608,Website
+O0421,CUS0028,2026-03-12,2026-03-23,Pix,59.25,Esporte,1.33,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0422,CUS0050,2026-03-18,2026-03-29,Credit Card,556.96,Mercado,9.93,São Paulo,SP,-23.5505,-46.6333,App
+O0423,CUS0204,2026-01-15,2026-01-23,Bank Slip,1248.24,Beleza,0.69,Goiânia,GO,-16.6869,-49.2648,App
+O0424,CUS0190,2026-03-11,2026-03-21,Bank Slip,954.97,Mercado,7.24,Maringá,PR,-23.4209,-51.9331,Website
+O0425,CUS0138,2026-03-01,2026-03-09,Credit Card,420.19,Beleza,0.73,São Paulo,SP,-23.5505,-46.6333,App
+O0426,CUS0278,2026-03-27,2026-04-05,Bank Slip,2428.23,Eletrônicos,3.15,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0427,CUS0275,2026-02-19,2026-03-03,Bank Slip,1453.11,Eletrônicos,1.56,Florianópolis,SC,-27.5954,-48.5480,Website
+O0428,CUS0293,2026-02-20,2026-02-24,Debit Card,344.6,Eletrônicos,3.91,Porto Alegre,RS,-30.0346,-51.2177,App
+O0429,CUS0022,2026-01-28,2026-02-04,Bank Slip,241.91,Moda,1.09,Maringá,PR,-23.4209,-51.9331,App
+O0430,CUS0035,2026-01-19,2026-01-27,Credit Card,1000.78,Mercado,6.56,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0431,CUS0007,2026-03-08,2026-03-19,Bank Slip,325.58,Casa,6.19,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0432,CUS0055,2026-03-16,2026-03-21,Credit Card,1975.06,Esporte,8.74,Cuiabá,MT,-15.6014,-56.0979,Website
+O0433,CUS0249,2026-02-03,2026-02-13,Bank Slip,141.69,Beleza,0.35,Vitória,ES,-20.3155,-40.3128,App
+O0434,CUS0203,2026-03-19,2026-03-29,Pix,1741.73,Esporte,0.97,Curitiba,PR,-25.4284,-49.2733,Website
+O0435,CUS0156,2026-02-17,2026-02-21,Pix,736.78,Casa,15.77,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0436,CUS0154,2026-01-13,2026-01-20,Bank Slip,1946.35,Mercado,5.49,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0437,CUS0227,2026-03-19,2026-03-24,Debit Card,2287.9,Beleza,0.47,São Paulo,SP,-23.5505,-46.6333,Website
+O0438,CUS0082,2026-02-17,2026-02-21,Credit Card,812.18,Esporte,5.31,Porto Alegre,RS,-30.0346,-51.2177,App
+O0439,CUS0099,2026-03-14,2026-03-18,Debit Card,2100.58,Esporte,2.87,Maringá,PR,-23.4209,-51.9331,Website
+O0440,CUS0189,2026-02-16,2026-02-23,Bank Slip,1287.51,Eletrônicos,3.36,Campinas,SP,-22.9056,-47.0608,App
+O0441,CUS0251,2026-01-04,2026-01-11,Bank Slip,485.0,Mercado,13.19,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0442,CUS0133,2026-02-14,2026-02-23,Credit Card,748.35,Esporte,4.17,Maringá,PR,-23.4209,-51.9331,App
+O0443,CUS0116,2026-01-28,2026-02-04,Debit Card,709.18,Esporte,4.39,Vitória,ES,-20.3155,-40.3128,App
+O0444,CUS0068,2026-01-02,2026-01-13,Debit Card,1522.76,Mercado,1.12,Cuiabá,MT,-15.6014,-56.0979,Website
+O0445,CUS0193,2026-02-09,2026-02-17,Pix,1174.49,Esporte,2.57,Florianópolis,SC,-27.5954,-48.5480,Website
+O0446,CUS0053,2026-03-08,2026-03-18,Credit Card,1303.16,Mercado,10.27,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0447,CUS0056,2026-03-24,2026-04-01,Bank Slip,206.31,Esporte,9.89,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0448,CUS0334,2026-02-05,2026-02-13,Pix,511.4,Casa,16.48,Vitória,ES,-20.3155,-40.3128,App
+O0449,CUS0164,2026-03-18,2026-03-28,Debit Card,1817.12,Eletrônicos,3.45,Vitória,ES,-20.3155,-40.3128,Website
+O0450,CUS0019,2026-02-23,2026-03-05,Debit Card,890.69,Casa,21.97,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0451,CUS0344,2026-03-23,2026-04-03,Pix,1292.87,Esporte,8.53,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0452,CUS0242,2026-01-24,2026-02-01,Debit Card,1865.23,Esporte,7.39,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0453,CUS0046,2026-03-29,2026-04-07,Debit Card,920.38,Moda,1.17,Vitória,ES,-20.3155,-40.3128,Website
+O0454,CUS0300,2026-02-12,2026-02-21,Pix,1186.16,Beleza,0.21,Campinas,SP,-22.9056,-47.0608,App
+O0455,CUS0100,2026-03-16,2026-03-21,Credit Card,2175.36,Mercado,6.34,Joinville,SC,-26.3045,-48.8456,Website
+O0456,CUS0103,2026-01-07,2026-01-13,Pix,1052.46,Beleza,0.61,Maringá,PR,-23.4209,-51.9331,Website
+O0457,CUS0042,2026-02-10,2026-02-16,Bank Slip,864.88,Moda,1.48,Goiânia,GO,-16.6869,-49.2648,Website
+O0458,CUS0141,2026-01-08,2026-01-12,Debit Card,1914.9,Mercado,3.36,Joinville,SC,-26.3045,-48.8456,App
+O0459,CUS0223,2026-01-12,2026-01-18,Bank Slip,1038.25,Beleza,0.97,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0460,CUS0192,2026-01-05,2026-01-17,Credit Card,2235.4,Eletrônicos,3.91,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0461,CUS0128,2026-01-03,2026-01-07,Debit Card,1749.1,Moda,0.65,Vitória,ES,-20.3155,-40.3128,App
+O0462,CUS0157,2026-02-19,2026-03-03,Debit Card,209.86,Eletrônicos,0.71,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0463,CUS0223,2026-03-08,2026-03-20,Debit Card,889.63,Beleza,0.91,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0464,CUS0117,2026-01-22,2026-02-01,Debit Card,1831.54,Moda,0.37,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0465,CUS0064,2026-03-17,2026-03-29,Pix,1792.19,Eletrônicos,4.06,Maringá,PR,-23.4209,-51.9331,Website
+O0466,CUS0025,2026-02-02,2026-02-14,Credit Card,1671.79,Mercado,10.15,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0467,CUS0228,2026-03-30,2026-04-04,Bank Slip,352.72,Eletrônicos,1.64,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0468,CUS0216,2026-01-27,2026-01-31,Credit Card,1673.05,Moda,0.55,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0469,CUS0054,2026-01-18,2026-01-28,Credit Card,742.56,Mercado,11.99,Brasília,DF,-15.7801,-47.9292,Website
+O0470,CUS0135,2026-03-19,2026-03-26,Debit Card,926.84,Moda,0.73,Goiânia,GO,-16.6869,-49.2648,App
+O0471,CUS0107,2026-03-12,2026-03-23,Bank Slip,859.91,Eletrônicos,0.51,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0472,CUS0047,2026-01-15,2026-01-26,Credit Card,1822.7,Eletrônicos,0.96,Maringá,PR,-23.4209,-51.9331,Website
+O0473,CUS0136,2026-01-30,2026-02-10,Bank Slip,172.6,Mercado,12.38,Campinas,SP,-22.9056,-47.0608,App
+O0474,CUS0060,2026-02-16,2026-02-25,Credit Card,2135.54,Casa,26.93,Florianópolis,SC,-27.5954,-48.5480,App
+O0475,CUS0184,2026-03-26,2026-04-01,Bank Slip,2389.96,Moda,0.55,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0476,CUS0059,2026-02-17,2026-02-26,Bank Slip,1030.55,Eletrônicos,2.55,Maringá,PR,-23.4209,-51.9331,Website
+O0477,CUS0086,2026-03-03,2026-03-13,Credit Card,374.57,Mercado,11.17,Vitória,ES,-20.3155,-40.3128,App
+O0478,CUS0292,2026-02-23,2026-03-06,Bank Slip,494.01,Eletrônicos,2.21,Goiânia,GO,-16.6869,-49.2648,Website
+O0479,CUS0250,2026-01-04,2026-01-10,Credit Card,2224.59,Esporte,4.69,Joinville,SC,-26.3045,-48.8456,App
+O0480,CUS0348,2026-03-25,2026-04-03,Debit Card,2445.84,Casa,20.76,Curitiba,PR,-25.4284,-49.2733,Website
+O0481,CUS0339,2026-03-08,2026-03-13,Debit Card,1230.68,Esporte,6.81,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0482,CUS0314,2026-01-20,2026-02-01,Credit Card,78.43,Beleza,0.94,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0483,CUS0252,2026-03-05,2026-03-11,Pix,640.11,Beleza,0.97,Londrina,PR,-23.3103,-51.1628,App
+O0484,CUS0194,2026-01-29,2026-02-10,Bank Slip,2051.88,Esporte,1.25,Vitória,ES,-20.3155,-40.3128,Website
+O0485,CUS0256,2026-02-27,2026-03-04,Bank Slip,824.28,Esporte,9.82,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0486,CUS0212,2026-01-03,2026-01-08,Credit Card,1414.93,Mercado,1.0,Florianópolis,SC,-27.5954,-48.5480,App
+O0487,CUS0261,2026-03-21,2026-03-29,Debit Card,1653.73,Esporte,4.83,Cuiabá,MT,-15.6014,-56.0979,Website
+O0488,CUS0233,2026-01-07,2026-01-14,Pix,1422.33,Casa,19.35,Brasília,DF,-15.7801,-47.9292,Website
+O0489,CUS0232,2026-03-26,2026-04-04,Credit Card,288.63,Mercado,10.22,Uberlândia,MG,-18.9113,-48.2622,App
+O0490,CUS0268,2026-02-15,2026-02-23,Pix,1770.11,Casa,3.28,Porto Alegre,RS,-30.0346,-51.2177,App
+O0491,CUS0131,2026-01-18,2026-01-28,Debit Card,509.4,Beleza,0.94,Londrina,PR,-23.3103,-51.1628,Website
+O0492,CUS0174,2026-02-28,2026-03-07,Credit Card,1904.99,Moda,0.26,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0493,CUS0231,2026-03-17,2026-03-22,Bank Slip,1663.18,Mercado,14.39,Goiânia,GO,-16.6869,-49.2648,App
+O0494,CUS0025,2026-01-01,2026-01-13,Bank Slip,2105.08,Beleza,0.53,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0495,CUS0066,2026-03-30,2026-04-05,Credit Card,999.08,Moda,0.98,Uberlândia,MG,-18.9113,-48.2622,Website
+O0496,CUS0128,2026-02-19,2026-03-01,Pix,1024.72,Esporte,3.76,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0497,CUS0309,2026-01-18,2026-01-24,Pix,2115.52,Beleza,0.59,Florianópolis,SC,-27.5954,-48.5480,Website
+O0498,CUS0108,2026-03-12,2026-03-19,Pix,1732.17,Mercado,13.9,São Paulo,SP,-23.5505,-46.6333,App
+O0499,CUS0278,2026-03-25,2026-03-31,Pix,1790.34,Mercado,11.65,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0500,CUS0274,2026-03-16,2026-03-26,Pix,2199.81,Beleza,0.48,Vitória,ES,-20.3155,-40.3128,App
+O0501,CUS0075,2026-01-14,2026-01-18,Credit Card,1692.09,Esporte,2.4,Florianópolis,SC,-27.5954,-48.5480,App
+O0502,CUS0032,2026-03-29,2026-04-06,Pix,549.72,Casa,17.15,Maringá,PR,-23.4209,-51.9331,Website
+O0503,CUS0115,2026-01-14,2026-01-26,Bank Slip,632.03,Beleza,0.81,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0504,CUS0196,2026-03-30,2026-04-03,Bank Slip,1070.53,Casa,24.07,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0505,CUS0129,2026-03-12,2026-03-16,Debit Card,1570.34,Casa,23.87,Curitiba,PR,-25.4284,-49.2733,Website
+O0506,CUS0302,2026-03-23,2026-04-01,Debit Card,1951.54,Moda,1.45,Goiânia,GO,-16.6869,-49.2648,Website
+O0507,CUS0089,2026-01-23,2026-01-28,Credit Card,974.07,Beleza,0.49,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0508,CUS0131,2026-01-17,2026-01-23,Credit Card,859.81,Casa,21.87,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0509,CUS0027,2026-01-20,2026-01-29,Pix,1251.8,Eletrônicos,3.08,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0510,CUS0095,2026-02-10,2026-02-22,Credit Card,1976.31,Eletrônicos,1.22,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0511,CUS0114,2026-02-21,2026-02-26,Debit Card,1675.14,Esporte,3.65,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0512,CUS0288,2026-03-21,2026-04-02,Credit Card,330.98,Moda,0.65,Joinville,SC,-26.3045,-48.8456,App
+O0513,CUS0350,2026-03-20,2026-03-27,Pix,984.3,Mercado,12.15,Curitiba,PR,-25.4284,-49.2733,App
+O0514,CUS0145,2026-02-02,2026-02-14,Credit Card,2282.76,Beleza,0.84,Uberlândia,MG,-18.9113,-48.2622,Website
+O0515,CUS0023,2026-03-07,2026-03-18,Pix,2250.78,Esporte,2.33,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0516,CUS0276,2026-01-13,2026-01-19,Credit Card,1585.95,Eletrônicos,1.45,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0517,CUS0054,2026-03-29,2026-04-08,Debit Card,1367.45,Moda,1.11,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0518,CUS0079,2026-03-24,2026-03-29,Credit Card,1175.05,Beleza,0.4,Uberlândia,MG,-18.9113,-48.2622,App
+O0519,CUS0129,2026-01-07,2026-01-13,Credit Card,1458.62,Eletrônicos,1.52,Goiânia,GO,-16.6869,-49.2648,Website
+O0520,CUS0208,2026-02-19,2026-03-02,Bank Slip,825.12,Beleza,0.45,Vitória,ES,-20.3155,-40.3128,App
+O0521,CUS0300,2026-01-01,2026-01-06,Credit Card,1767.13,Esporte,1.19,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0522,CUS0045,2026-02-07,2026-02-15,Pix,1924.9,Eletrônicos,2.47,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0523,CUS0274,2026-01-04,2026-01-15,Debit Card,384.05,Mercado,6.47,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0524,CUS0347,2026-03-23,2026-03-29,Pix,2395.61,Casa,2.31,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0525,CUS0294,2026-01-16,2026-01-20,Bank Slip,1365.98,Moda,1.43,Curitiba,PR,-25.4284,-49.2733,Website
+O0526,CUS0331,2026-02-14,2026-02-21,Debit Card,444.25,Moda,0.49,Florianópolis,SC,-27.5954,-48.5480,Website
+O0527,CUS0291,2026-01-15,2026-01-21,Credit Card,2135.89,Moda,1.41,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0528,CUS0149,2026-03-24,2026-04-05,Credit Card,664.11,Beleza,0.28,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0529,CUS0344,2026-02-12,2026-02-21,Debit Card,295.02,Beleza,0.66,Maringá,PR,-23.4209,-51.9331,App
+O0530,CUS0316,2026-03-04,2026-03-15,Pix,1748.94,Casa,6.27,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0531,CUS0003,2026-02-10,2026-02-20,Pix,653.05,Casa,8.2,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0532,CUS0185,2026-02-25,2026-03-05,Debit Card,1714.94,Mercado,5.64,Brasília,DF,-15.7801,-47.9292,Website
+O0533,CUS0157,2026-02-27,2026-03-08,Bank Slip,1401.55,Beleza,0.26,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0534,CUS0276,2026-02-05,2026-02-11,Debit Card,694.85,Eletrônicos,4.49,Cuiabá,MT,-15.6014,-56.0979,App
+O0535,CUS0260,2026-01-10,2026-01-14,Credit Card,2040.96,Mercado,9.1,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0536,CUS0279,2026-01-05,2026-01-17,Bank Slip,1652.04,Moda,0.39,Campinas,SP,-22.9056,-47.0608,Website
+O0537,CUS0238,2026-03-17,2026-03-25,Credit Card,1022.06,Moda,0.85,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0538,CUS0264,2026-03-20,2026-03-26,Debit Card,1143.18,Moda,0.43,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0539,CUS0021,2026-01-19,2026-01-30,Debit Card,1915.58,Mercado,4.24,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0540,CUS0106,2026-01-30,2026-02-03,Pix,1000.77,Casa,27.7,Vitória,ES,-20.3155,-40.3128,App
+O0541,CUS0267,2026-03-25,2026-04-03,Pix,2095.42,Eletrônicos,1.68,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0542,CUS0194,2026-01-23,2026-02-02,Pix,1489.77,Esporte,9.03,Vitória,ES,-20.3155,-40.3128,App
+O0543,CUS0115,2026-02-02,2026-02-12,Bank Slip,914.54,Esporte,8.74,Cuiabá,MT,-15.6014,-56.0979,Website
+O0544,CUS0072,2026-03-19,2026-03-23,Bank Slip,455.65,Beleza,0.17,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0545,CUS0081,2026-01-28,2026-02-03,Pix,1524.91,Casa,24.87,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0546,CUS0059,2026-02-23,2026-03-04,Bank Slip,1704.28,Moda,0.82,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0547,CUS0125,2026-03-24,2026-04-03,Credit Card,363.23,Moda,0.97,Curitiba,PR,-25.4284,-49.2733,App
+O0548,CUS0294,2026-03-07,2026-03-11,Debit Card,186.89,Mercado,4.62,Cuiabá,MT,-15.6014,-56.0979,App
+O0549,CUS0339,2026-02-21,2026-02-25,Pix,2370.77,Esporte,2.56,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0550,CUS0211,2026-03-03,2026-03-09,Debit Card,1996.79,Beleza,0.84,São Paulo,SP,-23.5505,-46.6333,App
+O0551,CUS0086,2026-03-26,2026-04-07,Pix,2309.75,Esporte,6.17,Campinas,SP,-22.9056,-47.0608,App
+O0552,CUS0056,2026-02-18,2026-02-28,Credit Card,545.67,Moda,1.32,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0553,CUS0050,2026-02-23,2026-03-01,Debit Card,1215.83,Mercado,9.61,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0554,CUS0247,2026-03-06,2026-03-11,Debit Card,2259.85,Esporte,5.62,Londrina,PR,-23.3103,-51.1628,App
+O0555,CUS0216,2026-03-25,2026-04-04,Pix,2193.31,Mercado,10.77,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0556,CUS0302,2026-03-03,2026-03-13,Credit Card,1092.39,Moda,0.53,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0557,CUS0132,2026-02-06,2026-02-18,Debit Card,63.3,Eletrônicos,3.85,Florianópolis,SC,-27.5954,-48.5480,App
+O0558,CUS0004,2026-03-08,2026-03-13,Bank Slip,1653.6,Esporte,7.03,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0559,CUS0219,2026-02-16,2026-02-21,Pix,690.12,Beleza,0.58,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0560,CUS0204,2026-03-20,2026-03-28,Debit Card,1062.35,Casa,23.95,Vitória,ES,-20.3155,-40.3128,Website
+O0561,CUS0248,2026-02-17,2026-03-01,Pix,2471.84,Moda,0.95,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0562,CUS0118,2026-01-18,2026-01-23,Bank Slip,1968.6,Beleza,0.95,Uberlândia,MG,-18.9113,-48.2622,App
+O0563,CUS0174,2026-03-07,2026-03-17,Credit Card,443.72,Moda,1.45,Goiânia,GO,-16.6869,-49.2648,App
+O0564,CUS0308,2026-01-19,2026-01-30,Bank Slip,265.85,Eletrônicos,1.68,Cuiabá,MT,-15.6014,-56.0979,Website
+O0565,CUS0197,2026-03-19,2026-03-23,Bank Slip,1554.18,Eletrônicos,2.84,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0566,CUS0254,2026-01-08,2026-01-14,Bank Slip,76.14,Esporte,8.58,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0567,CUS0307,2026-01-25,2026-01-29,Debit Card,1557.18,Casa,20.87,Goiânia,GO,-16.6869,-49.2648,Website
+O0568,CUS0045,2026-03-25,2026-03-29,Pix,1960.18,Moda,0.66,Maringá,PR,-23.4209,-51.9331,Website
+O0569,CUS0008,2026-03-17,2026-03-24,Credit Card,2301.98,Beleza,0.59,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0570,CUS0142,2026-03-16,2026-03-25,Debit Card,1535.55,Esporte,2.35,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0571,CUS0209,2026-01-01,2026-01-09,Credit Card,1418.6,Esporte,5.28,Maringá,PR,-23.4209,-51.9331,Website
+O0572,CUS0276,2026-03-07,2026-03-15,Pix,1750.74,Eletrônicos,4.85,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0573,CUS0235,2026-02-01,2026-02-10,Bank Slip,2246.47,Beleza,0.88,Goiânia,GO,-16.6869,-49.2648,Website
+O0574,CUS0325,2026-02-03,2026-02-08,Debit Card,1708.4,Eletrônicos,1.53,Florianópolis,SC,-27.5954,-48.5480,Website
+O0575,CUS0005,2026-02-15,2026-02-27,Pix,658.16,Beleza,0.18,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0576,CUS0092,2026-02-13,2026-02-18,Bank Slip,818.92,Mercado,4.06,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0577,CUS0103,2026-01-24,2026-01-31,Debit Card,1851.77,Casa,26.44,Joinville,SC,-26.3045,-48.8456,App
+O0578,CUS0317,2026-01-26,2026-02-02,Pix,432.1,Moda,0.34,Brasília,DF,-15.7801,-47.9292,App
+O0579,CUS0004,2026-03-26,2026-04-06,Credit Card,2127.61,Mercado,6.2,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0580,CUS0094,2026-03-15,2026-03-23,Pix,1024.74,Beleza,0.78,Joinville,SC,-26.3045,-48.8456,App
+O0581,CUS0277,2026-03-09,2026-03-19,Credit Card,1281.01,Eletrônicos,2.27,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0582,CUS0266,2026-02-28,2026-03-05,Bank Slip,823.28,Moda,0.21,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0583,CUS0186,2026-02-18,2026-02-23,Pix,508.44,Moda,0.54,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0584,CUS0095,2026-03-20,2026-03-29,Bank Slip,1088.6,Beleza,0.48,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0585,CUS0093,2026-02-21,2026-03-01,Debit Card,2449.22,Casa,21.21,Joinville,SC,-26.3045,-48.8456,App
+O0586,CUS0222,2026-02-04,2026-02-11,Bank Slip,530.27,Mercado,12.2,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0587,CUS0216,2026-03-02,2026-03-06,Bank Slip,379.37,Moda,1.36,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0588,CUS0250,2026-03-10,2026-03-19,Pix,664.81,Esporte,8.66,Goiânia,GO,-16.6869,-49.2648,App
+O0589,CUS0111,2026-01-13,2026-01-19,Pix,1217.47,Beleza,0.67,Curitiba,PR,-25.4284,-49.2733,Website
+O0590,CUS0185,2026-02-12,2026-02-20,Pix,893.08,Mercado,6.76,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0591,CUS0295,2026-03-19,2026-03-26,Debit Card,2449.46,Mercado,4.98,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0592,CUS0229,2026-03-07,2026-03-18,Credit Card,983.56,Mercado,5.01,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0593,CUS0324,2026-01-22,2026-01-31,Bank Slip,2129.79,Moda,0.29,Florianópolis,SC,-27.5954,-48.5480,App
+O0594,CUS0335,2026-01-30,2026-02-08,Pix,1790.53,Casa,18.95,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0595,CUS0301,2026-02-26,2026-03-07,Bank Slip,1064.21,Casa,7.15,Uberlândia,MG,-18.9113,-48.2622,App
+O0596,CUS0041,2026-01-31,2026-02-08,Debit Card,458.85,Moda,0.33,Uberlândia,MG,-18.9113,-48.2622,App
+O0597,CUS0204,2026-03-12,2026-03-16,Credit Card,304.53,Beleza,0.66,Curitiba,PR,-25.4284,-49.2733,App
+O0598,CUS0127,2026-02-19,2026-02-27,Pix,1135.69,Mercado,2.77,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0599,CUS0183,2026-01-04,2026-01-08,Pix,2167.38,Moda,0.81,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0600,CUS0277,2026-03-12,2026-03-23,Debit Card,1497.49,Casa,14.78,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0601,CUS0328,2026-03-14,2026-03-24,Pix,2276.85,Mercado,7.74,Porto Alegre,RS,-30.0346,-51.2177,App
+O0602,CUS0212,2026-02-26,2026-03-06,Pix,431.42,Eletrônicos,0.55,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0603,CUS0274,2026-02-14,2026-02-22,Credit Card,1735.01,Moda,0.84,Joinville,SC,-26.3045,-48.8456,Website
+O0604,CUS0150,2026-01-02,2026-01-12,Debit Card,2002.06,Casa,17.35,Goiânia,GO,-16.6869,-49.2648,App
+O0605,CUS0128,2026-03-13,2026-03-23,Debit Card,1801.57,Beleza,0.68,Florianópolis,SC,-27.5954,-48.5480,Website
+O0606,CUS0321,2026-02-03,2026-02-08,Debit Card,1315.65,Moda,1.24,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0607,CUS0333,2026-03-29,2026-04-06,Pix,1061.56,Mercado,12.95,Campinas,SP,-22.9056,-47.0608,App
+O0608,CUS0234,2026-02-07,2026-02-12,Bank Slip,716.66,Moda,1.01,Vitória,ES,-20.3155,-40.3128,App
+O0609,CUS0274,2026-01-03,2026-01-09,Credit Card,505.47,Casa,4.86,Curitiba,PR,-25.4284,-49.2733,Website
+O0610,CUS0047,2026-02-26,2026-03-02,Debit Card,85.98,Moda,0.48,São Paulo,SP,-23.5505,-46.6333,Website
+O0611,CUS0017,2026-03-05,2026-03-14,Pix,246.45,Casa,23.02,Joinville,SC,-26.3045,-48.8456,App
+O0612,CUS0279,2026-02-04,2026-02-14,Bank Slip,494.85,Eletrônicos,4.53,Londrina,PR,-23.3103,-51.1628,Website
+O0613,CUS0128,2026-01-02,2026-01-07,Bank Slip,1939.48,Beleza,0.5,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0614,CUS0049,2026-01-26,2026-02-06,Debit Card,1208.37,Eletrônicos,3.57,Uberlândia,MG,-18.9113,-48.2622,Website
+O0615,CUS0282,2026-01-21,2026-01-25,Credit Card,670.54,Casa,19.88,Uberlândia,MG,-18.9113,-48.2622,App
+O0616,CUS0121,2026-01-07,2026-01-14,Bank Slip,844.99,Casa,6.69,Londrina,PR,-23.3103,-51.1628,Website
+O0617,CUS0125,2026-01-16,2026-01-26,Credit Card,2423.64,Esporte,6.02,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0618,CUS0046,2026-03-30,2026-04-05,Debit Card,436.28,Beleza,0.18,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0619,CUS0183,2026-03-22,2026-03-26,Debit Card,1768.22,Casa,24.16,Curitiba,PR,-25.4284,-49.2733,App
+O0620,CUS0331,2026-01-30,2026-02-08,Pix,2023.52,Beleza,0.49,Porto Alegre,RS,-30.0346,-51.2177,App
+O0621,CUS0069,2026-03-30,2026-04-09,Pix,2251.71,Eletrônicos,2.68,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0622,CUS0251,2026-02-07,2026-02-19,Debit Card,1438.38,Esporte,5.66,Uberlândia,MG,-18.9113,-48.2622,Website
+O0623,CUS0307,2026-03-01,2026-03-09,Debit Card,218.65,Mercado,3.17,Brasília,DF,-15.7801,-47.9292,Website
+O0624,CUS0001,2026-03-11,2026-03-20,Bank Slip,1847.43,Casa,26.72,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0625,CUS0033,2026-03-21,2026-03-28,Bank Slip,515.1,Casa,21.13,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0626,CUS0210,2026-03-20,2026-03-28,Pix,320.55,Moda,0.88,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0627,CUS0017,2026-01-17,2026-01-23,Debit Card,312.2,Eletrônicos,1.36,Brasília,DF,-15.7801,-47.9292,App
+O0628,CUS0251,2026-03-24,2026-04-03,Pix,170.16,Esporte,2.6,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0629,CUS0252,2026-01-02,2026-01-09,Credit Card,1196.69,Eletrônicos,3.38,Vitória,ES,-20.3155,-40.3128,Website
+O0630,CUS0030,2026-02-23,2026-03-04,Pix,1346.05,Esporte,7.48,Goiânia,GO,-16.6869,-49.2648,Website
+O0631,CUS0052,2026-01-28,2026-02-09,Debit Card,1352.52,Eletrônicos,1.35,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0632,CUS0286,2026-02-01,2026-02-07,Bank Slip,1877.94,Mercado,11.73,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0633,CUS0341,2026-03-28,2026-04-08,Bank Slip,2212.91,Casa,6.67,Uberlândia,MG,-18.9113,-48.2622,App
+O0634,CUS0337,2026-02-21,2026-03-05,Debit Card,1358.01,Esporte,6.2,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0635,CUS0191,2026-03-12,2026-03-21,Bank Slip,1922.23,Casa,14.06,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0636,CUS0280,2026-03-19,2026-03-26,Debit Card,968.84,Casa,17.41,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0637,CUS0204,2026-02-16,2026-02-27,Credit Card,1829.44,Casa,29.52,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0638,CUS0155,2026-03-08,2026-03-14,Credit Card,785.75,Eletrônicos,1.5,Cuiabá,MT,-15.6014,-56.0979,Website
+O0639,CUS0284,2026-03-30,2026-04-07,Debit Card,280.91,Eletrônicos,2.57,Cuiabá,MT,-15.6014,-56.0979,App
+O0640,CUS0299,2026-02-03,2026-02-12,Debit Card,620.76,Moda,1.25,Cuiabá,MT,-15.6014,-56.0979,App
+O0641,CUS0040,2026-02-21,2026-02-28,Pix,1992.59,Esporte,2.14,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0642,CUS0329,2026-03-15,2026-03-20,Pix,141.46,Mercado,12.32,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0643,CUS0223,2026-01-08,2026-01-17,Bank Slip,2329.1,Eletrônicos,1.04,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0644,CUS0324,2026-03-25,2026-03-29,Bank Slip,182.52,Mercado,8.34,Vitória,ES,-20.3155,-40.3128,Website
+O0645,CUS0258,2026-03-14,2026-03-20,Debit Card,425.25,Esporte,6.9,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0646,CUS0114,2026-03-18,2026-03-30,Bank Slip,759.9,Beleza,0.45,Londrina,PR,-23.3103,-51.1628,App
+O0647,CUS0026,2026-01-11,2026-01-22,Bank Slip,693.19,Casa,13.16,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0648,CUS0287,2026-01-17,2026-01-23,Debit Card,1245.21,Mercado,10.13,Joinville,SC,-26.3045,-48.8456,App
+O0649,CUS0125,2026-03-20,2026-04-01,Credit Card,702.26,Esporte,4.59,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0650,CUS0212,2026-01-12,2026-01-17,Bank Slip,944.84,Esporte,2.31,Vitória,ES,-20.3155,-40.3128,Website
+O0651,CUS0157,2026-03-25,2026-03-29,Debit Card,2469.75,Esporte,6.35,Goiânia,GO,-16.6869,-49.2648,Website
+O0652,CUS0120,2026-01-19,2026-01-30,Debit Card,1729.1,Esporte,1.98,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0653,CUS0318,2026-01-15,2026-01-19,Debit Card,2178.43,Eletrônicos,4.19,São Paulo,SP,-23.5505,-46.6333,App
+O0654,CUS0231,2026-03-30,2026-04-04,Bank Slip,105.64,Casa,7.85,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0655,CUS0133,2026-01-27,2026-02-08,Bank Slip,1576.42,Moda,1.49,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0656,CUS0299,2026-03-27,2026-03-31,Credit Card,675.79,Mercado,1.84,Florianópolis,SC,-27.5954,-48.5480,App
+O0657,CUS0239,2026-03-21,2026-03-29,Credit Card,213.07,Mercado,10.25,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0658,CUS0150,2026-02-16,2026-02-21,Bank Slip,616.29,Mercado,6.33,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0659,CUS0306,2026-02-10,2026-02-21,Credit Card,506.64,Eletrônicos,2.75,Brasília,DF,-15.7801,-47.9292,Website
+O0660,CUS0272,2026-01-03,2026-01-07,Pix,867.18,Esporte,4.24,São Paulo,SP,-23.5505,-46.6333,App
+O0661,CUS0321,2026-02-14,2026-02-23,Pix,628.63,Eletrônicos,4.9,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0662,CUS0199,2026-01-08,2026-01-16,Credit Card,2363.13,Casa,28.58,Cuiabá,MT,-15.6014,-56.0979,App
+O0663,CUS0071,2026-02-13,2026-02-23,Credit Card,1838.2,Moda,0.88,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0664,CUS0124,2026-03-22,2026-03-29,Debit Card,1094.78,Esporte,3.47,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0665,CUS0106,2026-02-27,2026-03-11,Debit Card,1473.48,Casa,21.15,Maringá,PR,-23.4209,-51.9331,App
+O0666,CUS0070,2026-02-09,2026-02-21,Bank Slip,2489.43,Moda,1.47,Cuiabá,MT,-15.6014,-56.0979,App
+O0667,CUS0035,2026-03-14,2026-03-20,Credit Card,501.05,Mercado,12.75,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0668,CUS0212,2026-01-04,2026-01-13,Bank Slip,793.13,Mercado,11.44,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0669,CUS0097,2026-02-05,2026-02-11,Credit Card,372.2,Mercado,1.37,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0670,CUS0119,2026-02-04,2026-02-11,Debit Card,1734.04,Esporte,3.91,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0671,CUS0310,2026-01-18,2026-01-30,Bank Slip,1794.42,Beleza,0.44,Brasília,DF,-15.7801,-47.9292,Website
+O0672,CUS0099,2026-03-02,2026-03-08,Debit Card,128.87,Beleza,0.79,Maringá,PR,-23.4209,-51.9331,App
+O0673,CUS0344,2026-02-22,2026-03-01,Debit Card,1906.53,Casa,3.85,Uberlândia,MG,-18.9113,-48.2622,Website
+O0674,CUS0235,2026-03-04,2026-03-13,Debit Card,1097.45,Esporte,7.87,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0675,CUS0314,2026-02-18,2026-02-27,Credit Card,1325.54,Mercado,7.32,Florianópolis,SC,-27.5954,-48.5480,App
+O0676,CUS0021,2026-03-08,2026-03-20,Bank Slip,1314.46,Moda,1.02,Florianópolis,SC,-27.5954,-48.5480,App
+O0677,CUS0156,2026-02-07,2026-02-18,Pix,1180.25,Moda,0.75,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0678,CUS0073,2026-03-30,2026-04-11,Bank Slip,2083.22,Eletrônicos,2.53,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0679,CUS0300,2026-01-15,2026-01-21,Debit Card,1012.95,Esporte,3.57,Goiânia,GO,-16.6869,-49.2648,App
+O0680,CUS0233,2026-02-28,2026-03-07,Credit Card,662.63,Moda,1.1,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0681,CUS0231,2026-01-16,2026-01-21,Pix,258.91,Moda,1.12,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0682,CUS0282,2026-03-20,2026-03-26,Bank Slip,157.47,Esporte,2.12,Florianópolis,SC,-27.5954,-48.5480,Website
+O0683,CUS0075,2026-03-26,2026-04-01,Debit Card,1934.41,Esporte,0.99,Maringá,PR,-23.4209,-51.9331,Website
+O0684,CUS0093,2026-02-27,2026-03-07,Credit Card,2251.42,Casa,28.89,Vitória,ES,-20.3155,-40.3128,App
+O0685,CUS0255,2026-02-02,2026-02-06,Bank Slip,1381.53,Esporte,0.55,Joinville,SC,-26.3045,-48.8456,Website
+O0686,CUS0210,2026-01-28,2026-02-08,Bank Slip,244.45,Moda,0.98,Joinville,SC,-26.3045,-48.8456,App
+O0687,CUS0107,2026-02-05,2026-02-17,Credit Card,502.78,Esporte,1.02,Brasília,DF,-15.7801,-47.9292,Website
+O0688,CUS0296,2026-01-19,2026-01-23,Pix,861.16,Eletrônicos,0.89,Vitória,ES,-20.3155,-40.3128,App
+O0689,CUS0146,2026-01-23,2026-01-29,Debit Card,2417.42,Beleza,0.77,Vitória,ES,-20.3155,-40.3128,Website
+O0690,CUS0189,2026-01-12,2026-01-20,Bank Slip,2059.63,Eletrônicos,3.91,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0691,CUS0063,2026-02-07,2026-02-18,Pix,856.49,Eletrônicos,2.36,Maringá,PR,-23.4209,-51.9331,App
+O0692,CUS0293,2026-01-27,2026-01-31,Credit Card,1234.92,Mercado,10.64,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0693,CUS0270,2026-02-24,2026-03-05,Pix,2321.4,Casa,19.2,Campinas,SP,-22.9056,-47.0608,Website
+O0694,CUS0093,2026-03-22,2026-04-02,Debit Card,1786.01,Esporte,9.8,Joinville,SC,-26.3045,-48.8456,App
+O0695,CUS0061,2026-01-04,2026-01-15,Debit Card,2008.91,Eletrônicos,5.0,Vitória,ES,-20.3155,-40.3128,Website
+O0696,CUS0327,2026-02-12,2026-02-21,Debit Card,77.58,Eletrônicos,1.41,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0697,CUS0260,2026-01-09,2026-01-17,Pix,1929.21,Casa,5.19,Campinas,SP,-22.9056,-47.0608,Website
+O0698,CUS0090,2026-02-20,2026-02-24,Debit Card,859.69,Casa,11.46,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0699,CUS0070,2026-03-02,2026-03-06,Bank Slip,430.61,Beleza,0.51,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0700,CUS0029,2026-03-01,2026-03-11,Pix,1434.07,Casa,20.99,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0701,CUS0170,2026-01-03,2026-01-10,Pix,212.13,Esporte,1.92,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0702,CUS0085,2026-02-18,2026-03-02,Bank Slip,509.0,Casa,5.27,Brasília,DF,-15.7801,-47.9292,Website
+O0703,CUS0212,2026-02-10,2026-02-14,Credit Card,1267.73,Mercado,4.33,Campinas,SP,-22.9056,-47.0608,Website
+O0704,CUS0090,2026-01-28,2026-02-09,Credit Card,966.77,Casa,3.05,Campinas,SP,-22.9056,-47.0608,App
+O0705,CUS0248,2026-02-26,2026-03-10,Debit Card,515.94,Eletrônicos,4.66,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0706,CUS0051,2026-02-09,2026-02-18,Debit Card,552.63,Esporte,0.85,Maringá,PR,-23.4209,-51.9331,Website
+O0707,CUS0160,2026-03-08,2026-03-13,Credit Card,1733.25,Mercado,9.32,Curitiba,PR,-25.4284,-49.2733,App
+O0708,CUS0267,2026-03-01,2026-03-05,Pix,104.98,Casa,23.24,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0709,CUS0147,2026-02-11,2026-02-18,Pix,1354.03,Moda,1.2,São Paulo,SP,-23.5505,-46.6333,Marketplace
+O0710,CUS0141,2026-02-04,2026-02-10,Credit Card,87.28,Eletrônicos,3.3,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0711,CUS0282,2026-01-27,2026-02-08,Pix,714.0,Eletrônicos,4.74,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0712,CUS0160,2026-02-01,2026-02-07,Pix,1374.37,Esporte,0.98,Londrina,PR,-23.3103,-51.1628,App
+O0713,CUS0197,2026-03-28,2026-04-01,Credit Card,260.9,Beleza,0.45,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0714,CUS0183,2026-03-17,2026-03-28,Pix,864.15,Esporte,2.38,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0715,CUS0068,2026-01-11,2026-01-22,Credit Card,2041.47,Esporte,9.24,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0716,CUS0330,2026-02-28,2026-03-08,Bank Slip,1202.78,Eletrônicos,4.76,Vitória,ES,-20.3155,-40.3128,App
+O0717,CUS0094,2026-02-03,2026-02-12,Pix,1982.49,Esporte,8.88,Florianópolis,SC,-27.5954,-48.5480,Website
+O0718,CUS0058,2026-01-04,2026-01-09,Pix,1222.65,Beleza,0.86,Joinville,SC,-26.3045,-48.8456,Website
+O0719,CUS0053,2026-03-19,2026-03-25,Bank Slip,2052.99,Casa,24.31,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0720,CUS0155,2026-03-25,2026-03-30,Bank Slip,1031.94,Esporte,4.43,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0721,CUS0197,2026-03-12,2026-03-18,Credit Card,884.68,Moda,1.26,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0722,CUS0121,2026-02-25,2026-03-06,Debit Card,1673.37,Beleza,0.17,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0723,CUS0306,2026-03-04,2026-03-09,Bank Slip,847.11,Esporte,1.43,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0724,CUS0307,2026-02-09,2026-02-19,Credit Card,1729.46,Moda,0.98,Londrina,PR,-23.3103,-51.1628,Website
+O0725,CUS0112,2026-03-05,2026-03-09,Debit Card,2223.78,Casa,27.29,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0726,CUS0273,2026-01-19,2026-01-25,Pix,1005.4,Eletrônicos,3.1,Joinville,SC,-26.3045,-48.8456,App
+O0727,CUS0292,2026-03-29,2026-04-07,Pix,2300.32,Moda,1.42,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0728,CUS0262,2026-01-12,2026-01-16,Bank Slip,2126.69,Casa,25.87,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0729,CUS0287,2026-03-12,2026-03-16,Pix,318.67,Casa,9.9,Curitiba,PR,-25.4284,-49.2733,App
+O0730,CUS0163,2026-02-25,2026-03-07,Bank Slip,1044.72,Moda,0.77,Vitória,ES,-20.3155,-40.3128,App
+O0731,CUS0097,2026-01-23,2026-02-03,Bank Slip,2116.14,Mercado,6.04,Maringá,PR,-23.4209,-51.9331,Website
+O0732,CUS0006,2026-02-06,2026-02-12,Credit Card,1638.52,Moda,0.39,Maringá,PR,-23.4209,-51.9331,Website
+O0733,CUS0071,2026-02-25,2026-03-03,Bank Slip,2157.36,Mercado,13.51,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0734,CUS0261,2026-02-24,2026-03-02,Bank Slip,1402.48,Esporte,4.78,Joinville,SC,-26.3045,-48.8456,Website
+O0735,CUS0004,2026-01-24,2026-02-03,Bank Slip,2124.65,Moda,0.51,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0736,CUS0188,2026-02-22,2026-03-06,Credit Card,2446.67,Casa,17.91,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0737,CUS0041,2026-01-15,2026-01-26,Debit Card,1838.93,Casa,16.74,Uberlândia,MG,-18.9113,-48.2622,Website
+O0738,CUS0313,2026-03-08,2026-03-13,Credit Card,650.74,Beleza,0.67,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0739,CUS0297,2026-01-10,2026-01-22,Pix,1551.91,Mercado,13.65,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0740,CUS0241,2026-03-02,2026-03-13,Pix,1081.43,Eletrônicos,4.82,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0741,CUS0306,2026-01-22,2026-01-26,Pix,1831.05,Casa,17.78,Uberlândia,MG,-18.9113,-48.2622,App
+O0742,CUS0027,2026-03-02,2026-03-08,Pix,2031.78,Mercado,9.74,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0743,CUS0040,2026-01-11,2026-01-17,Pix,667.45,Beleza,0.65,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0744,CUS0090,2026-01-02,2026-01-07,Debit Card,1664.9,Casa,12.35,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0745,CUS0093,2026-03-31,2026-04-07,Credit Card,889.91,Casa,4.36,Joinville,SC,-26.3045,-48.8456,App
+O0746,CUS0212,2026-01-20,2026-01-31,Bank Slip,632.9,Esporte,4.68,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0747,CUS0329,2026-01-27,2026-02-05,Pix,1900.91,Moda,0.35,Curitiba,PR,-25.4284,-49.2733,App
+O0748,CUS0244,2026-02-21,2026-03-04,Debit Card,980.45,Beleza,0.74,Campinas,SP,-22.9056,-47.0608,Website
+O0749,CUS0223,2026-01-19,2026-01-31,Credit Card,757.47,Casa,24.32,Brasília,DF,-15.7801,-47.9292,Website
+O0750,CUS0022,2026-02-10,2026-02-22,Credit Card,2298.39,Mercado,9.92,Vitória,ES,-20.3155,-40.3128,Website
+O0751,CUS0139,2026-03-25,2026-04-02,Pix,2015.66,Esporte,2.93,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0752,CUS0345,2026-03-01,2026-03-08,Debit Card,1323.84,Beleza,0.71,Uberlândia,MG,-18.9113,-48.2622,App
+O0753,CUS0005,2026-03-12,2026-03-16,Credit Card,79.21,Casa,4.74,Vitória,ES,-20.3155,-40.3128,App
+O0754,CUS0146,2026-02-27,2026-03-08,Pix,522.96,Mercado,1.33,São Paulo,SP,-23.5505,-46.6333,App
+O0755,CUS0327,2026-03-18,2026-03-25,Credit Card,1784.75,Eletrônicos,1.04,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0756,CUS0057,2026-02-18,2026-02-24,Debit Card,670.6,Moda,0.81,Cuiabá,MT,-15.6014,-56.0979,App
+O0757,CUS0219,2026-02-28,2026-03-08,Pix,680.4,Mercado,11.93,Goiânia,GO,-16.6869,-49.2648,Website
+O0758,CUS0031,2026-02-18,2026-02-28,Pix,2391.23,Eletrônicos,1.69,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0759,CUS0202,2026-03-04,2026-03-11,Debit Card,1631.4,Eletrônicos,0.99,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0760,CUS0227,2026-01-28,2026-02-02,Pix,302.96,Beleza,0.17,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0761,CUS0255,2026-02-02,2026-02-13,Debit Card,1649.49,Mercado,1.01,Curitiba,PR,-25.4284,-49.2733,App
+O0762,CUS0169,2026-02-19,2026-02-27,Bank Slip,1457.83,Mercado,8.22,Maringá,PR,-23.4209,-51.9331,Website
+O0763,CUS0036,2026-02-25,2026-03-07,Debit Card,58.0,Beleza,0.96,Brasília,DF,-15.7801,-47.9292,Website
+O0764,CUS0184,2026-03-14,2026-03-26,Pix,1720.47,Eletrônicos,2.3,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0765,CUS0175,2026-01-12,2026-01-21,Credit Card,2110.88,Mercado,11.65,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0766,CUS0021,2026-01-26,2026-02-01,Bank Slip,1668.76,Mercado,5.18,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0767,CUS0044,2026-03-22,2026-03-31,Bank Slip,1851.52,Eletrônicos,1.13,Joinville,SC,-26.3045,-48.8456,App
+O0768,CUS0200,2026-03-17,2026-03-24,Credit Card,1992.19,Eletrônicos,3.4,Joinville,SC,-26.3045,-48.8456,Website
+O0769,CUS0174,2026-02-27,2026-03-03,Credit Card,877.34,Esporte,7.35,Curitiba,PR,-25.4284,-49.2733,Website
+O0770,CUS0348,2026-01-28,2026-02-09,Debit Card,1865.55,Eletrônicos,1.55,Joinville,SC,-26.3045,-48.8456,App
+O0771,CUS0010,2026-01-19,2026-01-30,Bank Slip,2272.58,Eletrônicos,3.28,Vitória,ES,-20.3155,-40.3128,App
+O0772,CUS0089,2026-03-25,2026-03-31,Credit Card,2266.41,Mercado,12.49,Curitiba,PR,-25.4284,-49.2733,App
+O0773,CUS0303,2026-03-20,2026-03-26,Credit Card,2053.59,Beleza,0.2,Brasília,DF,-15.7801,-47.9292,Website
+O0774,CUS0104,2026-03-20,2026-03-27,Bank Slip,876.42,Esporte,8.44,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0775,CUS0295,2026-02-21,2026-03-02,Debit Card,837.83,Mercado,14.51,Londrina,PR,-23.3103,-51.1628,App
+O0776,CUS0033,2026-03-17,2026-03-23,Credit Card,720.97,Eletrônicos,3.91,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0777,CUS0225,2026-02-17,2026-03-01,Debit Card,2317.9,Mercado,1.57,Maringá,PR,-23.4209,-51.9331,App
+O0778,CUS0081,2026-03-20,2026-03-30,Credit Card,2205.07,Mercado,2.13,Goiânia,GO,-16.6869,-49.2648,App
+O0779,CUS0244,2026-01-12,2026-01-20,Debit Card,555.01,Moda,1.03,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0780,CUS0313,2026-02-22,2026-03-01,Credit Card,1510.83,Beleza,0.75,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0781,CUS0215,2026-03-22,2026-03-30,Credit Card,1416.35,Eletrônicos,1.36,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0782,CUS0277,2026-03-21,2026-03-30,Debit Card,1187.28,Eletrônicos,3.32,Brasília,DF,-15.7801,-47.9292,App
+O0783,CUS0077,2026-01-07,2026-01-14,Bank Slip,1268.86,Casa,6.47,Londrina,PR,-23.3103,-51.1628,App
+O0784,CUS0108,2026-03-24,2026-04-02,Bank Slip,665.81,Eletrônicos,3.28,Campinas,SP,-22.9056,-47.0608,Website
+O0785,CUS0276,2026-01-14,2026-01-18,Debit Card,437.13,Eletrônicos,0.63,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0786,CUS0228,2026-01-10,2026-01-17,Pix,1076.65,Eletrônicos,3.86,Uberlândia,MG,-18.9113,-48.2622,Website
+O0787,CUS0051,2026-01-15,2026-01-24,Debit Card,1857.46,Moda,1.33,São Paulo,SP,-23.5505,-46.6333,Website
+O0788,CUS0249,2026-01-10,2026-01-21,Credit Card,2231.69,Moda,0.39,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0789,CUS0070,2026-01-23,2026-02-02,Bank Slip,1813.53,Beleza,0.67,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0790,CUS0292,2026-02-12,2026-02-18,Credit Card,737.41,Moda,0.34,Curitiba,PR,-25.4284,-49.2733,Website
+O0791,CUS0176,2026-02-23,2026-03-01,Debit Card,2221.69,Beleza,0.64,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0792,CUS0118,2026-01-22,2026-02-03,Credit Card,1058.6,Esporte,5.46,Brasília,DF,-15.7801,-47.9292,App
+O0793,CUS0008,2026-03-02,2026-03-13,Bank Slip,1853.61,Esporte,2.84,Campinas,SP,-22.9056,-47.0608,Website
+O0794,CUS0303,2026-03-16,2026-03-23,Debit Card,2288.69,Beleza,0.91,Cuiabá,MT,-15.6014,-56.0979,Website
+O0795,CUS0259,2026-01-06,2026-01-17,Credit Card,1092.9,Eletrônicos,2.27,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0796,CUS0043,2026-02-27,2026-03-10,Credit Card,1748.21,Eletrônicos,2.33,São Paulo,SP,-23.5505,-46.6333,App
+O0797,CUS0332,2026-02-15,2026-02-23,Credit Card,88.93,Moda,1.07,São Paulo,SP,-23.5505,-46.6333,App
+O0798,CUS0238,2026-02-28,2026-03-04,Debit Card,2191.78,Mercado,6.68,Joinville,SC,-26.3045,-48.8456,Website
+O0799,CUS0322,2026-03-01,2026-03-05,Credit Card,992.89,Mercado,10.67,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0800,CUS0139,2026-02-07,2026-02-17,Debit Card,1979.82,Eletrônicos,0.86,Goiânia,GO,-16.6869,-49.2648,Website
+O0801,CUS0346,2026-01-08,2026-01-20,Pix,2225.53,Mercado,2.55,Cuiabá,MT,-15.6014,-56.0979,Website
+O0802,CUS0188,2026-03-21,2026-03-25,Debit Card,1637.99,Beleza,0.73,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0803,CUS0123,2026-01-27,2026-02-02,Credit Card,1640.11,Mercado,11.32,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0804,CUS0181,2026-01-27,2026-02-03,Pix,1283.69,Mercado,6.92,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0805,CUS0249,2026-02-17,2026-02-26,Credit Card,1201.85,Eletrônicos,2.89,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0806,CUS0345,2026-02-27,2026-03-08,Credit Card,511.39,Casa,26.75,Goiânia,GO,-16.6869,-49.2648,App
+O0807,CUS0040,2026-02-20,2026-02-26,Credit Card,453.59,Eletrônicos,1.0,Campinas,SP,-22.9056,-47.0608,App
+O0808,CUS0322,2026-01-20,2026-01-27,Credit Card,768.19,Beleza,0.97,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0809,CUS0228,2026-03-02,2026-03-11,Credit Card,764.15,Moda,0.28,Florianópolis,SC,-27.5954,-48.5480,App
+O0810,CUS0297,2026-03-24,2026-04-02,Pix,1656.58,Esporte,7.97,Florianópolis,SC,-27.5954,-48.5480,Website
+O0811,CUS0281,2026-03-27,2026-04-08,Bank Slip,1172.06,Esporte,5.89,Brasília,DF,-15.7801,-47.9292,Website
+O0812,CUS0191,2026-02-03,2026-02-10,Pix,1935.86,Moda,0.26,Joinville,SC,-26.3045,-48.8456,Website
+O0813,CUS0083,2026-02-28,2026-03-06,Pix,496.51,Casa,6.91,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0814,CUS0122,2026-03-27,2026-04-02,Credit Card,150.73,Mercado,5.43,Maringá,PR,-23.4209,-51.9331,App
+O0815,CUS0106,2026-02-03,2026-02-12,Credit Card,1680.57,Beleza,0.98,Maringá,PR,-23.4209,-51.9331,App
+O0816,CUS0274,2026-02-27,2026-03-11,Pix,347.56,Casa,2.7,Maringá,PR,-23.4209,-51.9331,Website
+O0817,CUS0003,2026-02-28,2026-03-09,Pix,1635.71,Moda,0.58,Maringá,PR,-23.4209,-51.9331,Website
+O0818,CUS0290,2026-03-27,2026-04-02,Bank Slip,879.71,Esporte,1.57,Goiânia,GO,-16.6869,-49.2648,Website
+O0819,CUS0158,2026-01-18,2026-01-30,Credit Card,1033.93,Eletrônicos,4.28,Londrina,PR,-23.3103,-51.1628,Website
+O0820,CUS0312,2026-01-12,2026-01-21,Debit Card,1479.37,Casa,8.22,Curitiba,PR,-25.4284,-49.2733,Website
+O0821,CUS0229,2026-01-03,2026-01-08,Credit Card,2440.8,Moda,0.71,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0822,CUS0342,2026-03-19,2026-03-31,Pix,1023.96,Casa,22.05,Curitiba,PR,-25.4284,-49.2733,Website
+O0823,CUS0146,2026-02-19,2026-02-28,Pix,910.75,Casa,29.37,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0824,CUS0213,2026-01-28,2026-02-08,Bank Slip,757.08,Eletrônicos,4.13,Uberlândia,MG,-18.9113,-48.2622,Website
+O0825,CUS0301,2026-02-23,2026-03-01,Credit Card,401.83,Mercado,5.25,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0826,CUS0004,2026-01-09,2026-01-19,Bank Slip,1615.04,Casa,9.65,Londrina,PR,-23.3103,-51.1628,App
+O0827,CUS0096,2026-03-01,2026-03-07,Bank Slip,759.11,Esporte,5.16,São Paulo,SP,-23.5505,-46.6333,Website
+O0828,CUS0238,2026-02-08,2026-02-19,Debit Card,115.66,Esporte,0.52,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0829,CUS0335,2026-03-23,2026-04-03,Pix,1071.98,Casa,15.77,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0830,CUS0142,2026-02-01,2026-02-05,Bank Slip,2486.12,Mercado,1.93,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0831,CUS0224,2026-03-16,2026-03-27,Pix,1588.55,Casa,15.33,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0832,CUS0295,2026-02-17,2026-03-01,Credit Card,2120.92,Eletrônicos,1.23,Uberlândia,MG,-18.9113,-48.2622,App
+O0833,CUS0070,2026-02-10,2026-02-21,Pix,450.02,Moda,0.55,Cuiabá,MT,-15.6014,-56.0979,Website
+O0834,CUS0150,2026-02-15,2026-02-19,Credit Card,1308.92,Mercado,11.73,Campinas,SP,-22.9056,-47.0608,App
+O0835,CUS0166,2026-03-18,2026-03-24,Pix,2075.7,Eletrônicos,3.58,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0836,CUS0274,2026-03-29,2026-04-07,Pix,2067.1,Casa,2.36,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0837,CUS0175,2026-02-17,2026-02-28,Debit Card,300.83,Casa,6.33,Florianópolis,SC,-27.5954,-48.5480,App
+O0838,CUS0273,2026-03-13,2026-03-25,Credit Card,1072.44,Moda,1.39,Brasília,DF,-15.7801,-47.9292,App
+O0839,CUS0160,2026-01-03,2026-01-14,Pix,390.5,Moda,0.77,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0840,CUS0156,2026-02-13,2026-02-19,Credit Card,1873.9,Esporte,1.63,Uberlândia,MG,-18.9113,-48.2622,App
+O0841,CUS0065,2026-01-19,2026-01-26,Debit Card,368.95,Mercado,2.1,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0842,CUS0248,2026-01-10,2026-01-14,Bank Slip,154.07,Eletrônicos,0.99,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0843,CUS0061,2026-03-17,2026-03-21,Pix,155.94,Esporte,3.37,Joinville,SC,-26.3045,-48.8456,App
+O0844,CUS0103,2026-01-16,2026-01-23,Debit Card,1692.94,Eletrônicos,0.63,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0845,CUS0083,2026-02-05,2026-02-14,Debit Card,1286.98,Mercado,1.96,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0846,CUS0099,2026-03-09,2026-03-16,Pix,470.76,Eletrônicos,3.89,Uberlândia,MG,-18.9113,-48.2622,App
+O0847,CUS0259,2026-01-13,2026-01-20,Bank Slip,947.77,Mercado,9.25,Cuiabá,MT,-15.6014,-56.0979,Website
+O0848,CUS0182,2026-01-14,2026-01-20,Bank Slip,1088.97,Mercado,8.2,Brasília,DF,-15.7801,-47.9292,Website
+O0849,CUS0057,2026-02-10,2026-02-15,Debit Card,1264.7,Eletrônicos,2.13,Joinville,SC,-26.3045,-48.8456,Website
+O0850,CUS0253,2026-01-06,2026-01-11,Credit Card,992.65,Esporte,4.84,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0851,CUS0284,2026-03-29,2026-04-09,Bank Slip,761.87,Casa,25.95,São Paulo,SP,-23.5505,-46.6333,App
+O0852,CUS0007,2026-03-02,2026-03-11,Bank Slip,1696.6,Eletrônicos,2.28,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0853,CUS0074,2026-03-28,2026-04-02,Bank Slip,1031.47,Mercado,9.27,Londrina,PR,-23.3103,-51.1628,App
+O0854,CUS0102,2026-01-22,2026-01-27,Pix,540.57,Mercado,12.82,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0855,CUS0256,2026-01-30,2026-02-09,Pix,1923.78,Eletrônicos,3.95,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0856,CUS0244,2026-03-24,2026-04-03,Bank Slip,2469.43,Casa,16.32,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0857,CUS0251,2026-01-14,2026-01-19,Bank Slip,615.44,Beleza,0.95,Campinas,SP,-22.9056,-47.0608,App
+O0858,CUS0348,2026-01-07,2026-01-12,Credit Card,2431.57,Eletrônicos,2.22,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0859,CUS0320,2026-01-20,2026-01-28,Credit Card,1912.4,Casa,20.51,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0860,CUS0339,2026-03-01,2026-03-08,Bank Slip,1251.06,Beleza,0.34,Campinas,SP,-22.9056,-47.0608,Website
+O0861,CUS0017,2026-03-11,2026-03-15,Bank Slip,2206.3,Esporte,1.63,Goiânia,GO,-16.6869,-49.2648,Website
+O0862,CUS0019,2026-02-18,2026-03-01,Credit Card,483.25,Casa,20.46,Joinville,SC,-26.3045,-48.8456,Website
+O0863,CUS0069,2026-01-22,2026-02-02,Pix,1803.49,Mercado,7.82,Florianópolis,SC,-27.5954,-48.5480,App
+O0864,CUS0284,2026-03-28,2026-04-08,Bank Slip,1215.93,Esporte,8.62,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0865,CUS0303,2026-02-20,2026-02-28,Bank Slip,1561.46,Eletrônicos,2.09,Joinville,SC,-26.3045,-48.8456,Website
+O0866,CUS0024,2026-01-08,2026-01-12,Debit Card,2100.47,Casa,11.77,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0867,CUS0050,2026-01-04,2026-01-13,Bank Slip,895.53,Esporte,3.89,Florianópolis,SC,-27.5954,-48.5480,Website
+O0868,CUS0121,2026-03-26,2026-04-02,Pix,1501.66,Eletrônicos,4.6,São Paulo,SP,-23.5505,-46.6333,App
+O0869,CUS0011,2026-01-15,2026-01-24,Pix,141.48,Casa,20.42,Maringá,PR,-23.4209,-51.9331,Website
+O0870,CUS0011,2026-03-07,2026-03-17,Bank Slip,1490.53,Esporte,9.86,Campinas,SP,-22.9056,-47.0608,Website
+O0871,CUS0051,2026-02-19,2026-02-28,Bank Slip,295.05,Esporte,6.91,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0872,CUS0315,2026-03-06,2026-03-15,Pix,940.11,Beleza,0.49,Maringá,PR,-23.4209,-51.9331,Website
+O0873,CUS0148,2026-01-10,2026-01-22,Pix,166.36,Mercado,14.95,São Paulo,SP,-23.5505,-46.6333,Website
+O0874,CUS0297,2026-03-21,2026-03-26,Credit Card,1500.03,Moda,0.56,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0875,CUS0178,2026-03-02,2026-03-12,Credit Card,1646.23,Esporte,3.37,São Paulo,SP,-23.5505,-46.6333,Website
+O0876,CUS0103,2026-03-26,2026-04-07,Bank Slip,1035.58,Beleza,0.66,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0877,CUS0010,2026-03-12,2026-03-18,Debit Card,1463.22,Mercado,3.98,Cuiabá,MT,-15.6014,-56.0979,Marketplace
+O0878,CUS0315,2026-02-04,2026-02-16,Bank Slip,2339.85,Beleza,0.75,Goiânia,GO,-16.6869,-49.2648,App
+O0879,CUS0076,2026-01-26,2026-02-04,Debit Card,418.57,Esporte,7.01,Joinville,SC,-26.3045,-48.8456,Website
+O0880,CUS0033,2026-02-22,2026-03-03,Debit Card,2122.6,Beleza,0.34,Brasília,DF,-15.7801,-47.9292,Website
+O0881,CUS0308,2026-01-21,2026-01-29,Debit Card,1044.31,Mercado,2.59,Vitória,ES,-20.3155,-40.3128,App
+O0882,CUS0249,2026-02-01,2026-02-09,Bank Slip,1083.89,Eletrônicos,4.58,Joinville,SC,-26.3045,-48.8456,App
+O0883,CUS0133,2026-02-04,2026-02-10,Pix,1663.71,Moda,0.43,Curitiba,PR,-25.4284,-49.2733,App
+O0884,CUS0043,2026-03-04,2026-03-08,Pix,1523.88,Mercado,13.14,Curitiba,PR,-25.4284,-49.2733,Website
+O0885,CUS0072,2026-03-27,2026-04-01,Debit Card,324.15,Casa,22.57,Florianópolis,SC,-27.5954,-48.5480,App
+O0886,CUS0255,2026-03-27,2026-04-08,Credit Card,633.21,Esporte,1.66,Campinas,SP,-22.9056,-47.0608,Website
+O0887,CUS0121,2026-03-16,2026-03-26,Bank Slip,584.04,Casa,4.99,Goiânia,GO,-16.6869,-49.2648,App
+O0888,CUS0302,2026-02-26,2026-03-08,Credit Card,1251.33,Casa,12.49,Campinas,SP,-22.9056,-47.0608,App
+O0889,CUS0350,2026-03-11,2026-03-21,Debit Card,2410.12,Casa,26.62,Joinville,SC,-26.3045,-48.8456,App
+O0890,CUS0158,2026-03-02,2026-03-11,Credit Card,1631.19,Casa,27.35,Brasília,DF,-15.7801,-47.9292,App
+O0891,CUS0344,2026-03-26,2026-03-30,Debit Card,669.73,Mercado,6.39,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0892,CUS0122,2026-02-16,2026-02-21,Bank Slip,1001.69,Mercado,13.74,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0893,CUS0121,2026-02-08,2026-02-13,Pix,565.37,Casa,26.93,Cuiabá,MT,-15.6014,-56.0979,Website
+O0894,CUS0018,2026-02-10,2026-02-20,Pix,2172.78,Mercado,12.52,Goiânia,GO,-16.6869,-49.2648,Website
+O0895,CUS0217,2026-02-22,2026-03-03,Credit Card,2069.76,Beleza,0.73,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0896,CUS0281,2026-02-15,2026-02-25,Pix,1160.44,Eletrônicos,0.62,Belo Horizonte,MG,-19.9167,-43.9345,App
+O0897,CUS0228,2026-03-24,2026-03-30,Debit Card,57.44,Mercado,3.8,Vitória,ES,-20.3155,-40.3128,Website
+O0898,CUS0081,2026-03-15,2026-03-20,Debit Card,1315.05,Casa,29.15,Londrina,PR,-23.3103,-51.1628,Marketplace
+O0899,CUS0164,2026-03-18,2026-03-28,Bank Slip,1221.94,Moda,1.16,Goiânia,GO,-16.6869,-49.2648,Website
+O0900,CUS0145,2026-03-29,2026-04-07,Debit Card,256.69,Moda,0.68,Goiânia,GO,-16.6869,-49.2648,Website
+O0901,CUS0012,2026-03-15,2026-03-22,Debit Card,2271.76,Beleza,0.98,Curitiba,PR,-25.4284,-49.2733,App
+O0902,CUS0206,2026-03-31,2026-04-06,Bank Slip,1520.92,Casa,6.18,Curitiba,PR,-25.4284,-49.2733,Website
+O0903,CUS0270,2026-03-14,2026-03-19,Bank Slip,1944.71,Moda,1.41,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0904,CUS0105,2026-01-16,2026-01-23,Debit Card,2367.82,Beleza,0.83,Uberlândia,MG,-18.9113,-48.2622,Website
+O0905,CUS0221,2026-03-05,2026-03-15,Debit Card,1520.16,Casa,29.87,Maringá,PR,-23.4209,-51.9331,Website
+O0906,CUS0093,2026-03-28,2026-04-04,Bank Slip,1991.51,Mercado,1.4,Florianópolis,SC,-27.5954,-48.5480,Website
+O0907,CUS0128,2026-03-21,2026-04-01,Pix,1478.07,Moda,1.04,Cuiabá,MT,-15.6014,-56.0979,App
+O0908,CUS0166,2026-03-02,2026-03-08,Bank Slip,1732.76,Eletrônicos,3.71,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0909,CUS0049,2026-03-18,2026-03-26,Credit Card,177.58,Beleza,0.94,Londrina,PR,-23.3103,-51.1628,Website
+O0910,CUS0130,2026-03-19,2026-03-23,Bank Slip,791.07,Casa,13.05,Curitiba,PR,-25.4284,-49.2733,Website
+O0911,CUS0092,2026-03-13,2026-03-17,Pix,466.09,Moda,0.84,Belo Horizonte,MG,-19.9167,-43.9345,Website
+O0912,CUS0272,2026-01-17,2026-01-22,Bank Slip,397.31,Beleza,0.21,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0913,CUS0185,2026-03-05,2026-03-13,Bank Slip,743.1,Moda,1.34,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0914,CUS0085,2026-03-08,2026-03-17,Pix,1855.3,Casa,15.76,Florianópolis,SC,-27.5954,-48.5480,App
+O0915,CUS0097,2026-03-26,2026-04-06,Debit Card,183.6,Esporte,2.24,Curitiba,PR,-25.4284,-49.2733,Website
+O0916,CUS0060,2026-01-21,2026-02-01,Bank Slip,149.84,Casa,11.98,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0917,CUS0058,2026-03-04,2026-03-15,Debit Card,352.87,Esporte,1.39,Joinville,SC,-26.3045,-48.8456,Website
+O0918,CUS0140,2026-01-22,2026-02-03,Debit Card,1479.65,Moda,1.46,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0919,CUS0040,2026-01-24,2026-02-03,Debit Card,1932.2,Esporte,6.93,Cuiabá,MT,-15.6014,-56.0979,Website
+O0920,CUS0192,2026-02-06,2026-02-11,Credit Card,2100.58,Eletrônicos,1.19,Florianópolis,SC,-27.5954,-48.5480,App
+O0921,CUS0322,2026-03-26,2026-04-06,Pix,1505.76,Beleza,0.11,Joinville,SC,-26.3045,-48.8456,App
+O0922,CUS0292,2026-03-21,2026-04-01,Debit Card,567.77,Mercado,1.68,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0923,CUS0037,2026-02-11,2026-02-15,Bank Slip,276.66,Casa,9.14,Uberlândia,MG,-18.9113,-48.2622,App
+O0924,CUS0107,2026-01-12,2026-01-16,Debit Card,1001.77,Beleza,0.46,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0925,CUS0252,2026-01-20,2026-01-25,Bank Slip,1852.9,Mercado,13.9,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0926,CUS0050,2026-01-17,2026-01-26,Pix,1305.95,Esporte,5.15,Vitória,ES,-20.3155,-40.3128,Website
+O0927,CUS0217,2026-02-04,2026-02-14,Pix,1553.94,Beleza,0.49,Londrina,PR,-23.3103,-51.1628,Website
+O0928,CUS0238,2026-01-06,2026-01-18,Debit Card,1636.61,Eletrônicos,3.71,Rio de Janeiro,RJ,-22.9068,-43.1729,Website
+O0929,CUS0149,2026-03-22,2026-04-03,Bank Slip,1121.46,Esporte,9.12,Londrina,PR,-23.3103,-51.1628,Website
+O0930,CUS0154,2026-01-20,2026-01-26,Debit Card,1331.53,Casa,10.27,Vitória,ES,-20.3155,-40.3128,App
+O0931,CUS0056,2026-01-10,2026-01-14,Bank Slip,1061.84,Esporte,4.91,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0932,CUS0300,2026-02-02,2026-02-11,Credit Card,1933.16,Esporte,0.65,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0933,CUS0094,2026-03-01,2026-03-07,Bank Slip,160.79,Mercado,6.83,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0934,CUS0344,2026-02-10,2026-02-21,Bank Slip,1578.3,Casa,9.42,Goiânia,GO,-16.6869,-49.2648,App
+O0935,CUS0310,2026-01-24,2026-01-29,Pix,2185.45,Moda,0.34,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0936,CUS0007,2026-01-01,2026-01-11,Debit Card,1656.68,Eletrônicos,2.57,Londrina,PR,-23.3103,-51.1628,Website
+O0937,CUS0317,2026-03-19,2026-03-30,Pix,1742.09,Mercado,14.48,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0938,CUS0070,2026-02-08,2026-02-13,Credit Card,517.38,Beleza,0.83,Maringá,PR,-23.4209,-51.9331,Marketplace
+O0939,CUS0333,2026-01-04,2026-01-11,Debit Card,1641.83,Moda,0.77,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0940,CUS0238,2026-01-25,2026-01-30,Debit Card,1211.22,Esporte,0.71,Campinas,SP,-22.9056,-47.0608,App
+O0941,CUS0242,2026-03-31,2026-04-11,Credit Card,2156.49,Moda,0.96,Joinville,SC,-26.3045,-48.8456,App
+O0942,CUS0171,2026-03-14,2026-03-24,Credit Card,301.44,Casa,25.73,Curitiba,PR,-25.4284,-49.2733,Website
+O0943,CUS0019,2026-03-05,2026-03-17,Bank Slip,1029.16,Beleza,0.56,Campinas,SP,-22.9056,-47.0608,Marketplace
+O0944,CUS0032,2026-03-28,2026-04-08,Credit Card,1083.85,Esporte,3.5,São Paulo,SP,-23.5505,-46.6333,App
+O0945,CUS0243,2026-03-24,2026-04-03,Credit Card,1262.18,Casa,28.29,Cuiabá,MT,-15.6014,-56.0979,Website
+O0946,CUS0083,2026-03-31,2026-04-10,Pix,1829.19,Beleza,0.52,Curitiba,PR,-25.4284,-49.2733,Website
+O0947,CUS0174,2026-03-06,2026-03-13,Bank Slip,371.25,Moda,0.58,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0948,CUS0242,2026-02-23,2026-03-04,Debit Card,1573.48,Beleza,0.35,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0949,CUS0089,2026-03-27,2026-04-07,Debit Card,432.89,Eletrônicos,2.71,Maringá,PR,-23.4209,-51.9331,Website
+O0950,CUS0286,2026-02-08,2026-02-15,Credit Card,2498.19,Beleza,0.42,São Paulo,SP,-23.5505,-46.6333,Website
+O0951,CUS0258,2026-03-28,2026-04-03,Credit Card,2026.68,Casa,11.46,Maringá,PR,-23.4209,-51.9331,App
+O0952,CUS0115,2026-01-30,2026-02-04,Bank Slip,681.59,Esporte,3.73,Porto Alegre,RS,-30.0346,-51.2177,Website
+O0953,CUS0078,2026-03-13,2026-03-21,Credit Card,1780.66,Eletrônicos,4.67,Cuiabá,MT,-15.6014,-56.0979,Website
+O0954,CUS0313,2026-01-15,2026-01-20,Credit Card,2067.83,Beleza,0.14,Goiânia,GO,-16.6869,-49.2648,App
+O0955,CUS0106,2026-03-22,2026-03-27,Pix,434.65,Moda,0.58,Brasília,DF,-15.7801,-47.9292,Website
+O0956,CUS0332,2026-03-05,2026-03-10,Pix,869.72,Esporte,1.81,Maringá,PR,-23.4209,-51.9331,App
+O0957,CUS0243,2026-02-23,2026-02-27,Pix,752.49,Beleza,0.25,São Paulo,SP,-23.5505,-46.6333,Website
+O0958,CUS0341,2026-02-23,2026-03-04,Debit Card,421.36,Casa,23.1,Vitória,ES,-20.3155,-40.3128,Website
+O0959,CUS0210,2026-01-18,2026-01-28,Bank Slip,2382.0,Moda,0.87,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0960,CUS0006,2026-01-04,2026-01-15,Credit Card,257.62,Casa,10.81,Maringá,PR,-23.4209,-51.9331,App
+O0961,CUS0019,2026-01-08,2026-01-18,Debit Card,2261.14,Beleza,0.15,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O0962,CUS0215,2026-03-26,2026-04-07,Bank Slip,2220.16,Mercado,10.81,Campinas,SP,-22.9056,-47.0608,Website
+O0963,CUS0144,2026-02-10,2026-02-19,Debit Card,1765.69,Mercado,7.25,Curitiba,PR,-25.4284,-49.2733,App
+O0964,CUS0177,2026-03-21,2026-04-01,Bank Slip,1949.71,Esporte,8.87,Uberlândia,MG,-18.9113,-48.2622,App
+O0965,CUS0065,2026-03-10,2026-03-19,Pix,573.57,Eletrônicos,2.8,Florianópolis,SC,-27.5954,-48.5480,Website
+O0966,CUS0015,2026-02-13,2026-02-19,Pix,641.21,Esporte,7.85,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0967,CUS0031,2026-03-06,2026-03-11,Pix,686.33,Beleza,0.56,Uberlândia,MG,-18.9113,-48.2622,App
+O0968,CUS0153,2026-03-25,2026-03-30,Credit Card,1160.16,Eletrônicos,4.92,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0969,CUS0305,2026-03-14,2026-03-26,Debit Card,908.26,Esporte,3.2,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0970,CUS0194,2026-03-28,2026-04-03,Debit Card,307.72,Esporte,5.41,Uberlândia,MG,-18.9113,-48.2622,App
+O0971,CUS0218,2026-02-28,2026-03-05,Bank Slip,250.68,Casa,3.74,Maringá,PR,-23.4209,-51.9331,App
+O0972,CUS0190,2026-01-28,2026-02-08,Bank Slip,1491.15,Beleza,0.57,Londrina,PR,-23.3103,-51.1628,Website
+O0973,CUS0217,2026-03-16,2026-03-27,Bank Slip,1738.06,Casa,28.54,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0974,CUS0066,2026-01-21,2026-01-27,Bank Slip,1792.29,Beleza,0.22,Porto Alegre,RS,-30.0346,-51.2177,Marketplace
+O0975,CUS0109,2026-03-09,2026-03-14,Bank Slip,1209.67,Esporte,7.59,Uberlândia,MG,-18.9113,-48.2622,Marketplace
+O0976,CUS0062,2026-01-16,2026-01-26,Pix,1450.78,Casa,3.13,Londrina,PR,-23.3103,-51.1628,App
+O0977,CUS0156,2026-02-17,2026-02-25,Pix,1240.47,Eletrônicos,4.06,Rio de Janeiro,RJ,-22.9068,-43.1729,App
+O0978,CUS0157,2026-02-23,2026-02-27,Pix,578.1,Esporte,8.28,Cuiabá,MT,-15.6014,-56.0979,Website
+O0979,CUS0035,2026-01-16,2026-01-28,Credit Card,1073.0,Eletrônicos,3.08,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0980,CUS0311,2026-02-13,2026-02-23,Debit Card,1916.76,Beleza,0.55,Joinville,SC,-26.3045,-48.8456,Website
+O0981,CUS0167,2026-03-27,2026-04-07,Credit Card,2009.52,Beleza,0.7,Maringá,PR,-23.4209,-51.9331,Website
+O0982,CUS0277,2026-01-30,2026-02-09,Credit Card,2397.29,Beleza,0.9,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0983,CUS0085,2026-03-24,2026-03-29,Credit Card,1451.34,Casa,24.29,Brasília,DF,-15.7801,-47.9292,Marketplace
+O0984,CUS0287,2026-03-13,2026-03-18,Credit Card,521.36,Casa,19.32,Vitória,ES,-20.3155,-40.3128,Marketplace
+O0985,CUS0244,2026-03-14,2026-03-26,Credit Card,344.61,Eletrônicos,4.71,São Paulo,SP,-23.5505,-46.6333,App
+O0986,CUS0297,2026-02-05,2026-02-12,Bank Slip,257.3,Eletrônicos,2.9,São Paulo,SP,-23.5505,-46.6333,Website
+O0987,CUS0012,2026-03-17,2026-03-21,Pix,1120.64,Beleza,0.47,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0988,CUS0059,2026-02-18,2026-02-26,Credit Card,1377.31,Casa,9.99,Londrina,PR,-23.3103,-51.1628,App
+O0989,CUS0209,2026-01-12,2026-01-18,Debit Card,194.24,Casa,28.91,Campinas,SP,-22.9056,-47.0608,App
+O0990,CUS0051,2026-01-08,2026-01-16,Pix,398.94,Eletrônicos,4.52,Florianópolis,SC,-27.5954,-48.5480,Website
+O0991,CUS0123,2026-01-16,2026-01-20,Debit Card,1257.75,Beleza,0.78,São Paulo,SP,-23.5505,-46.6333,Website
+O0992,CUS0238,2026-02-04,2026-02-08,Bank Slip,210.28,Eletrônicos,0.63,Rio de Janeiro,RJ,-22.9068,-43.1729,Marketplace
+O0993,CUS0301,2026-01-03,2026-01-11,Credit Card,653.4,Moda,0.92,Porto Alegre,RS,-30.0346,-51.2177,App
+O0994,CUS0043,2026-03-14,2026-03-24,Debit Card,1968.04,Casa,5.99,Joinville,SC,-26.3045,-48.8456,Marketplace
+O0995,CUS0285,2026-02-01,2026-02-13,Bank Slip,152.29,Moda,1.26,Florianópolis,SC,-27.5954,-48.5480,Marketplace
+O0996,CUS0031,2026-03-25,2026-03-31,Bank Slip,719.52,Casa,9.02,Curitiba,PR,-25.4284,-49.2733,Marketplace
+O0997,CUS0262,2026-02-14,2026-02-21,Pix,161.34,Beleza,0.77,Belo Horizonte,MG,-19.9167,-43.9345,Marketplace
+O0998,CUS0063,2026-02-08,2026-02-13,Debit Card,1826.4,Eletrônicos,4.99,Florianópolis,SC,-27.5954,-48.5480,Website
+O0999,CUS0163,2026-03-20,2026-04-01,Pix,1606.13,Moda,1.47,Goiânia,GO,-16.6869,-49.2648,Marketplace
+O1000,CUS0165,2026-02-04,2026-02-11,Pix,565.95,Beleza,0.96,Vitória,ES,-20.3155,-40.3128,Website

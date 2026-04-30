@@ -3,7 +3,6 @@ import random
 from datetime import date, timedelta
 from pathlib import Path
 
-# Configuração de semente para reprodutibilidade
 random.seed(42)
 
 # Configuração de caminhos
@@ -34,17 +33,29 @@ def read_csv_rows(file_name: str) -> list[dict[str, str]]:
         return list(csv.DictReader(csv_file))
 
 def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
-    # Lemos as rotas e hubs para garantir que o pedido tenha um destino válido
+    # Lê as rotas para obter as cidades e suas coordenadas
     routes = read_csv_rows("dim_routes.csv")
-    hubs = {row["hub_id"]: row for row in read_csv_rows("dim_hubs.csv")}
-
-    if not routes or not hubs:
-        print("Aviso: dim_routes ou dim_hubs não encontrados. Usando cidades aleatórias.")
-        available_destinations = ["São Paulo", "Rio de Janeiro", "Curitiba", "Belo Horizonte"]
+    
+    if not routes:
+        print("Aviso: dim_routes não encontrada. Coordenadas serão simuladas.")
+        destinations_map = {
+            "São Paulo": {"state": "SP", "lat": -23.5505, "long": -46.6333},
+            "Rio de Janeiro": {"state": "RJ", "lat": -22.9068, "long": -43.1729}
+        }
     else:
-        # Extraímos cidades de destino únicas que nossa malha atende
-        available_destinations = list(set(r["destination_city"] for r in routes))
+        # Cria um mapeamento: Cidade -> {estado, latitude, longitude}
+        # Isso evita fazer buscas repetitivas dentro do loop
+        destinations_map = {}
+        for r in routes:
+            city = r["destination_city"]
+            if city not in destinations_map:
+                destinations_map[city] = {
+                    "state": r["destination_state"],
+                    "lat": r["latitude_destino"],
+                    "long": r["longitude_destino"]
+                }
 
+    available_cities = list(destinations_map.keys())
     rows: list[dict[str, object]] = []
     start_date = date(2026, 1, 1)
 
@@ -53,16 +64,12 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
         weight_range = PRODUCT_CATEGORIES[category]
         
         order_date = start_date + timedelta(days=random.randint(0, 89))
-        
-        # O SLA prometido ao cliente (Geralmente entre 4 a 12 dias após o pedido)
         promised_days = random.randint(4, 12)
         promised_delivery_date = order_date + timedelta(days=promised_days)
 
-        # Selecionamos um destino que nossa malha logística realmente atenda
-        dest_city = random.choice(available_destinations)
-        
-        # Encontramos qual estado esse destino pertence (buscando na dim_routes)
-        dest_state = next((r["destination_state"] for r in routes if r["destination_city"] == dest_city), "N/A")
+        # Seleciona uma cidade e recupera seus dados geográficos do mapa
+        dest_city = random.choice(available_cities)
+        geo_info = destinations_map[dest_city]
 
         rows.append(
             {
@@ -75,7 +82,9 @@ def generate_rows(total_rows: int = 1000) -> list[dict[str, object]]:
                 "product_category": category,
                 "product_weight_kg": round(random.uniform(*weight_range), 2),
                 "destination_city": dest_city,
-                "destination_state": dest_state,
+                "destination_state": geo_info["state"],
+                "latitude_destino": geo_info["lat"],
+                "longitude_destino": geo_info["long"],
                 "marketplace_channel": random.choice(MARKETPLACE_CHANNELS),
             }
         )
@@ -94,7 +103,7 @@ if __name__ == "__main__":
     try:
         generated_rows = generate_rows(1000)
         output_path = write_csv(generated_rows)
-        print(f"Sucesso! dim_orders.csv gerado em: {output_path}")
+        print(f"Sucesso! dim_orders.csv gerado com coordenadas em: {output_path}")
         print(f"Exemplo de linha: {generated_rows[0]}")
     except Exception as e:
         print(f"Erro ao gerar o arquivo: {e}")

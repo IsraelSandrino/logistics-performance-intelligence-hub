@@ -1,16 +1,16 @@
-route_id,origin_hub_id,destination_city,destination_state,distance_km,region,route_type
-R001,H001,Curitiba,PR,250,Sul,Regional
-R002,H001,Londrina,PR,380,Sul,Regional
-R003,H001,Maringá,PR,430,Sul,Regional
-R004,H002,São Paulo,SP,420,Sudeste,Interestadual
-R005,H002,Campinas,SP,350,Sudeste,Regional
-R006,H002,Rio de Janeiro,RJ,430,Sudeste,Interestadual
-R007,H003,Florianópolis,SC,300,Sul,Regional
-R008,H003,Joinville,SC,250,Sul,Regional
-R009,H003,Porto Alegre,RS,520,Sul,Interestadual
-R010,H004,Belo Horizonte,MG,600,Sudeste,Interestadual
-R011,H004,Vitória,ES,520,Sudeste,Interestadual
-R012,H004,Uberlândia,MG,480,Sudeste,Regional
-R013,H005,Goiânia,GO,800,Centro-Oeste,Interestadual
-R014,H005,Brasília,DF,750,Centro-Oeste,Interestadual
-R015,H005,Cuiabá,MT,1200,Centro-Oeste,Longa Distância
+route_id,origin_hub_id,destination_city,destination_state,distance_km,region,route_type,latitude_destino,longitude_destino
+R001,H001,Curitiba,PR,408.50,Sul,Regional,-25.4284,-49.2733
+R002,H001,Londrina,PR,534.20,Sul,Regional,-23.3103,-51.1628
+R003,H001,Maringá,PR,612.45,Sul,Regional,-23.4209,-51.9331
+R004,H002,São Paulo,SP,405.10,Sudeste,Interestadual,-23.5505,-46.6333
+R005,H002,Campinas,SP,478.35,Sudeste,Regional,-22.9056,-47.0608
+R006,H002,Rio de Janeiro,RJ,835.90,Sudeste,Interestadual,-22.9068,-43.1729
+R007,H003,Florianópolis,SC,702.15,Sul,Regional,-27.5954,-48.5480
+R008,H003,Joinville,SC,530.80,Sul,Regional,-26.3045,-48.8456
+R009,H003,Porto Alegre,RS,1145.20,Sul,Interestadual,-30.0346,-51.2177
+R010,H004,Belo Horizonte,MG,1712.40,Sudeste,Interestadual,-19.9167,-43.9345
+R011,H004,Vitória,ES,2050.65,Sudeste,Interestadual,-20.3155,-40.3128
+R012,H004,Uberlândia,MG,1580.30,Sudeste,Regional,-18.9113,-48.2622
+R013,H005,Goiânia,GO,2350.15,Centro-Oeste,Interestadual,-16.6869,-49.2648
+R014,H005,Brasília,DF,2140.90,Centro-Oeste,Interestadual,-15.7801,-47.9292
+R015,H005,Cuiabá,MT,3255.40,Centro-Oeste,Longa Distância,-15.6014,-56.0979
